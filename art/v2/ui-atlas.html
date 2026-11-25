@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ashborne · Bộ màn UI/UX</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="ui-atlas.css">
+<script src="ui-catalog.js" defer></script>
+<script src="ui-atlas.js" defer></script>
+</head>
+<body class="atlas-page">
+<aside class="atlas-index">
+  <p class="eyebrow">ASHBORNE</p>
+  <h1>Bộ màn UI/UX</h1>
+  <a class="text-link" href="index.html">Mở demo chơi thử →</a>
+  <nav id="screen-index" aria-label="Chọn mẫu giao diện"></nav>
+</aside>
+<main class="atlas-main">
+  <div id="screen"></div>
+  <section id="catalog" hidden>
+    <div class="catalog-control">
+      <label>Danh mục <select id="catalog-type"></select></label>
+      <label>Tìm tên, mã hoặc họ <input type="search" id="catalog-query"></label>
+    </div>
+    <p id="catalog-count" aria-live="polite"></p>
+    <div id="catalog-list" class="catalog-list"></div>
+  </section>
+</main>
+</body>
+</html>

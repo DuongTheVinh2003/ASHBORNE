@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">Ashborne — Biên niên sử trên tro</title>
+<desc id="desc">Bảng phong cách với sa đồ Thành Kính Lạnh, sơ đồ dáng cổng và mẫu lá 7 Rô Rùa Gương, cùng bảng màu của bốn nguyên tố.</desc>
+<defs>
+  <pattern id="grain" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M2 4h2m13 10h2m-9 7h1m10-19h1" stroke="currentColor" stroke-width=".65" opacity=".28"/></pattern>
+  <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(29)"><path d="M0 0v6" stroke="#e8dcc5" stroke-width=".65" opacity=".32"/></pattern>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#243440"/><stop offset="1" stop-color="#607e89"/></linearGradient>
+  <filter id="ink" color-interpolation-filters="sRGB">
+    <feColorMatrix type="matrix" values=".37 .42 .14 0 .04 .37 .42 .14 0 .025 .37 .42 .14 0 .005 0 0 0 1 0"/>
+  </filter>
+  <g id="seal"><path d="M28 9a24 24 0 1 0 22 0" fill="none" stroke="#b38b5b" stroke-width="4"/><path d="M39 1l5 7-5 8-5-8z" fill="#e37d59"/></g>
+  <path id="fort" fill-rule="evenodd" d="M1 88 15 16 31 5 26 33 41 20 48 8 55 20 70 33 65 5 81 16 95 88H1z M34 88h28V57L48 38 34 57z"/>
+  <g id="turtle" stroke-linejoin="round">
+    <path d="m8 109 22-16 7-9-9-19 10-13 37-7 15 16 12 2 14-25 50-26 61 8 40 24 17 28 18 10 23 4-28 13-17-3-11 16 14 19-23 7-34-22-89 1-23 19-32-3 13-19-8-14-24-1-21 10z" fill="#242e37" stroke="#151c23" stroke-width="3"/>
+    <path d="m94 86 23-47 49-26 61 8 40 24 19 34-32 24-85 10-53-10z" fill="#648e9a" stroke="#202a34" stroke-width="3"/>
+    <path d="m117 39 38 13-19 36-42-2z" fill="#83bbcb"/>
+    <path d="m117 39 49-26 24 31-35 8z" fill="#92c3cf"/>
+    <path d="m166 13 61 8 14 32-51-9z" fill="#bfd3d4"/>
+    <path d="m155 52 35-8 35 31-44 25-45-12z" fill="#9fc6cc"/>
+    <path d="m190 44 51 9 26-8 19 34-61-4z" fill="#6b9dab"/>
+    <path d="m94 86 42 2 45 12-12 13-53-10zm87 14 44-25 61 4-32 24-85 10z" fill="#456775"/>
+    <path d="m117 39 38 13 35-8 51 9 26-8m-101-32 24 31 35 31 61 4m-131-27-19 36 45 12 44-25m-89 13-42-2" fill="none" stroke="#213441" stroke-width="2.5"/>
+    <path d="m131 41 36-19 18 24m13 8 20 18-33 18m58-35 16-5m-57-31 20 3 8 18" fill="none" stroke="#e2e5d1" stroke-width="2" opacity=".8"/>
+    <path d="m31 62 25-9 17 1m-43 30 25 1 21-8m25 34 11 6-10 10m133-15 13 11" stroke="#627b83" stroke-width="2.5" fill="none"/>
+    <path d="m49 62 6 1-3 4z" fill="#b38b5b"/>
+  </g>
+  <style>
+    .serif{font-family:'Noto Serif',Georgia,serif}
+    .sans{font-family:'Noto Sans',Arial,sans-serif}
+    .caps{font-family:'Noto Sans',Arial,sans-serif;font-weight:650;letter-spacing:2px;font-size:14px}
+    .small{font-family:'Noto Sans',Arial,sans-serif;font-size:14px}
+    .label{font-family:'Noto Sans',Arial,sans-serif;font-size:16px;font-weight:650}
+  </style>
+</defs>
+<rect width="1440" height="900" fill="#171b22"/>
+<rect width="1440" height="900" fill="url(#grain)" color="#e8dcc5" opacity=".32"/>
+<path d="M52 36h1336M52 864h1336" stroke="#b38b5b" opacity=".55"/>
+<text x="52" y="68" fill="#c9aa6d" class="caps">ASHBORNE / HỒ SƠ MỸ THUẬT</text>
+<text x="1388" y="68" text-anchor="end" fill="#c9aa6d" class="caps">THÀNH KÍNH LẠNH · 01</text>
+<text x="50" y="142" fill="#e8dcc5" class="serif" font-size="61">Biên niên sử trên tro</text>
+<text x="54" y="186" fill="#bcc6c7" class="sans" font-size="19">Một vương quốc đổ vỡ. Một sức mạnh phải học cách tiết chế.</text>
+<use href="#seal" transform="translate(1296 102) scale(1.12)"/>
+
+<rect x="52" y="230" width="420" height="435" fill="#212830" stroke="#48535b"/>
+<rect x="510" y="230" width="420" height="435" fill="#212830" stroke="#48535b"/>
+<rect x="968" y="230" width="420" height="435" fill="#212830" stroke="#48535b"/>
+<text x="76" y="263" fill="#c9aa6d" class="caps">01 / SA ĐỒ</text>
+<text x="534" y="263" fill="#c9aa6d" class="caps">02 / GIAO TRANH</text>
+<text x="992" y="263" fill="#c9aa6d" class="caps">03 / ẤN THÚ</text>
+
+<svg x="76" y="286" width="372" height="266" viewBox="0 0 372 266">
+  <rect width="372" height="266" fill="#d2c2a6"/>
+  <rect width="372" height="266" fill="url(#grain)" color="#343f4a"/>
+  <rect x="9" y="9" width="354" height="248" fill="none" stroke="#856f56"/>
+  <path d="M15 205 69 197 112 184 166 181l61-24 57 10 72-24 M56 199l19-69 48-28 98 8 55-42m-110 113 38 33 131 8" stroke="#75614d" stroke-width="2" fill="none" stroke-dasharray="4 5"/>
+  <path d="m68 196 45-12 53-3 61-24 45-46" fill="none" stroke="#493d34" stroke-width="3"/>
+  <path d="M21 59l14-12 10 4 13-13 21 24m-51 7 7-6 10 4 14-12 19 19m-36 57 9-17 11 6 17-32 22 35m171 82 11-16 9 6 13-18 22 26m-99 13 16-17 12 15m22-164 12-15 8 8 16-14 20 18" stroke="#8d7b60" fill="none" stroke-width="1.4"/>
+  <circle cx="68" cy="196" r="7" fill="#b38b5b" stroke="#483d34" stroke-width="2"/>
+  <circle cx="113" cy="184" r="6" fill="#d2c2a6" stroke="#483d34" stroke-width="2"/>
+  <circle cx="166" cy="181" r="6" fill="#d2c2a6" stroke="#483d34" stroke-width="2"/>
+  <circle cx="227" cy="157" r="7" fill="#b38b5b" stroke="#483d34" stroke-width="2"/>
+  <circle cx="271" cy="106" r="39" fill="#dccdb2" stroke="#8d6850"/>
+  <circle cx="271" cy="106" r="33" fill="none" stroke="#8d6850" stroke-dasharray="1.6 3"/>
+  <use href="#fort" transform="translate(248 79) scale(.48)" fill="#343f4a"/>
+  <circle cx="272" cy="117" r="2.5" fill="#e37d59"/>
+  <text x="23" y="239" class="caps" font-size="11" fill="#453b32">TUYẾN QUA CỔNG</text>
+</svg>
+
+<svg x="534" y="286" width="372" height="266" viewBox="0 0 372 266">
+  <rect width="372" height="266" fill="url(#sky)"/>
+  <path d="M0 86 41 61l45 56 53-44 50 44 56-59 38 25 46-37 43 29v134H0z" fill="#6f9199" opacity=".49"/>
+  <path d="M0 119 53 94l46 49 77-49 66 44 74-44 56 17v155H0z" fill="#485e6b"/>
+  <path d="M0 203 102 190l79 6 81-10 110 21v59H0z" fill="#344553"/>
+  <path d="M45 266 143 210l44-9 44 9 94 56z" fill="#617a82"/>
+  <use href="#fort" transform="translate(65 3) scale(2.53 2.38)" fill="#202a34"/>
+  <use href="#fort" transform="translate(65 3) scale(2.53 2.38)" fill="url(#hatch)" opacity=".63"/>
+  <path d="m105 44 28-17-10 36-12 14-8 44-19 38zm165-12 12 19 20 83-14-23-13-52-11-17z" fill="#83bbcb" opacity=".72"/>
+  <path d="m150 87 22-34 14-30 15 29 23 36-22-19-16-22-16 23z" fill="#c2d6d3" opacity=".65"/>
+  <path d="M0 212 52 204l-19 11-33 3m372-13-32 6-36-9 27 18 41 8" fill="#83bbcb" opacity=".69"/>
+  <circle cx="202" cy="164" r="22" fill="#e37d59" opacity=".13"/>
+  <circle cx="202" cy="164" r="11" fill="#e37d59" opacity=".19"/>
+  <path d="M198 183v-16h8v16m-6-17 2-5 2 5" stroke="#1d2831" stroke-width="2" fill="none"/>
+  <circle cx="202" cy="164" r="3.4" fill="#f6b77f"/>
+  <g transform="translate(16 193)">
+    <rect width="152" height="46" rx="4" fill="#171b22" stroke="#83bbcb"/>
+    <path d="M12 14l8-4 8 4v10l-8 6-8-6z" fill="none" stroke="#83bbcb" stroke-width="2"/>
+    <text x="37" y="29" class="label" fill="#e8dcc5">Thủ · 8 Khiên</text>
+  </g>
+</svg>
+
+<svg x="992" y="286" width="372" height="266" viewBox="0 0 372 266">
+  <rect width="372" height="266" fill="#343f4a"/>
+  <rect width="372" height="266" fill="url(#grain)" color="#e8dcc5"/>
+  <ellipse cx="103" cy="155" rx="87" ry="17" fill="#27303b"/>
+  <use href="#turtle" transform="translate(14 75) scale(.53)"/>
+  <path d="M184 120h29m-7-6 7 6-7 6" fill="none" stroke="#b38b5b" stroke-width="2"/>
+  <rect x="226" y="22" width="127" height="212" rx="9" fill="#161c24" opacity=".65"/>
+  <rect x="221" y="17" width="127" height="212" rx="9" fill="#e8dcc5" stroke="#b38b5b" stroke-width="2"/>
+  <rect x="227" y="23" width="115" height="200" rx="5" fill="none" stroke="#9c8668"/>
+  <text x="235" y="54" fill="#252c36" class="serif" font-weight="bold" font-size="25">7</text>
+  <path d="m262 35 8 11-8 11-8-11z" fill="none" stroke="#3e6c7d" stroke-width="2.5"/>
+  <path d="M241 104q44-39 87 0-8 38-43 48-33-10-44-48z" fill="#c4cccc" stroke="#658891" stroke-width=".9"/>
+  <use href="#turtle" transform="translate(231 88) scale(.325)" filter="url(#ink)"/>
+  <path d="M236 159h98" stroke="#9c8668"/>
+  <text x="284" y="181" text-anchor="middle" fill="#252c36" class="serif" font-weight="bold" font-size="16">Rùa Gương</text>
+  <text x="284" y="202" text-anchor="middle" fill="#40535b" class="sans" font-size="11">ẤN THÚ · NƯỚC</text>
+  <text x="21" y="219" fill="#c2c9c8" class="caps" style="font-size:11px">QUÁI SỐNG</text>
+</svg>
+
+<text x="76" y="593" fill="#e8dcc5" class="serif" font-size="25">Dấu cổng trên giấy</text>
+<text x="76" y="625" fill="#bfc7c7" class="small">Mực hành quân, giấy tro và quân cờ đồng.</text>
+<text x="534" y="593" fill="#e8dcc5" class="serif" font-size="25">Bước qua cổng ấy</text>
+<text x="534" y="625" fill="#bfc7c7" class="small">Hai trụ nghiêng, vết nứt và một đốm đèn.</text>
+<text x="992" y="593" fill="#e8dcc5" class="serif" font-size="25">Mang dấu thú theo</text>
+<text x="992" y="625" fill="#bfc7c7" class="small">Giữ đầu thấp và các mảng mai kính.</text>
+
+<text x="52" y="709" fill="#c9aa6d" class="caps">BẢNG MÀU / VẬT LIỆU VÀ NGUYÊN TỐ</text>
+<g class="label">
+  <rect x="52" y="731" width="158" height="65" fill="#171b22" stroke="#48535b"/>
+  <rect x="220" y="731" width="158" height="65" fill="#343f4a"/>
+  <rect x="388" y="731" width="158" height="65" fill="#e8dcc5"/>
+  <rect x="556" y="731" width="158" height="65" fill="#b38b5b"/>
+  <rect x="724" y="731" width="158" height="65" fill="#e37d59"/>
+  <rect x="892" y="731" width="158" height="65" fill="#83bbcb"/>
+  <rect x="1060" y="731" width="158" height="65" fill="#a6cdb9"/>
+  <rect x="1228" y="731" width="160" height="65" fill="#c9aa6d"/>
+  <text x="66" y="772" fill="#e8dcc5">Than</text><text x="234" y="772" fill="#e8dcc5">Sắt xám</text>
+  <g fill="#171b22">
+    <text x="402" y="772">Giấy tro</text><text x="570" y="772">Đồng cũ</text>
+    <text x="766" y="772">Lửa</text><text x="934" y="772">Nước</text>
+    <text x="1102" y="772">Gió</text><text x="1270" y="772">Đất</text>
+  </g>
+  <g fill="none" stroke="#171b22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m742 776-3-7 8-13 1 6 5-3 2 10-5 7z"/>
+    <path d="M915 754c-5 7-8 11-8 15a8 8 0 0 0 16 0c0-4-3-8-8-15zm-4 15q1 4 5 4"/>
+    <path d="m1075 773 20-14m-20 8 12-8m-4 18 12-9"/>
+    <path d="M1243 776h20l-3-6h-14zm2-9h16l-4-5h-9zm4-8h8l-2-4h-3z"/>
+  </g>
+</g>
+<g fill="#bfc7c7" class="small">
+  <text x="52" y="821">#171B22</text><text x="220" y="821">#343F4A</text>
+  <text x="388" y="821">#E8DCC5</text><text x="556" y="821">#B38B5B</text>
+  <text x="724" y="821">#E37D59</text><text x="892" y="821">#83BBCB</text>
+  <text x="1060" y="821">#A6CDB9</text><text x="1228" y="821">#C9AA6D</text>
+</g>
+<text x="52" y="886" fill="#b38b5b" class="caps" style="font-size:11px">V0.1 · PHÁC THẢO HÌNH KHỐI VÀ GIAO DIỆN</text>
+</svg>

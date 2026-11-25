@@ -1,0 +1,28 @@
+# Local backups and generated review artifacts
+/.backups/
+/.artifacts/
+
+# Dependencies and caches
+node_modules/
+__pycache__/
+*.py[cod]
+.cache/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+~$*

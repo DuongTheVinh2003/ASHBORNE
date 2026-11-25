@@ -1,0 +1,15 @@
+Ashborne Veil v0.2 — experimental typography direction
+
+Derived from Alegreya and Alegreya Italic, Google Fonts.
+Copyright 2011 The Alegreya Project Authors.
+https://github.com/google/fonts/tree/main/ofl/alegreya
+License: SIL Open Font License 1.1. See OFL.txt.
+
+Display uses the original true italic curves at source weight 500; no faceting.
+Regular uses source weight 400; Medium uses 550.
+Small added advance spacing: 14/6/8 font units respectively.
+Original glyph coverage and shaping retained. No claim of original glyph design.
+This proposal supersedes the angular direction only if approved by the user.
+No game files or prior font versions were replaced.
+
+UI legibility and engine rendering still need testing at actual sizes.

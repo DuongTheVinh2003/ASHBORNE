@@ -1,0 +1,44 @@
+.atlas-page { display: grid; grid-template-columns: 212px minmax(0,1fr); min-height: 100vh; background: #090f18; }
+.atlas-index { padding: 25px 18px; background: #131e2d; border-right: 1px solid #85694566; }
+.atlas-index h1 { font: 700 25px/1.2 var(--serif); margin: 5px 0 10px; }
+.atlas-index > a { font-size: 12px; }
+#screen-index { display: grid; gap: 6px; margin-top: 24px; }
+#screen-index a { padding: 7px 9px; color: #bbc7d2; border-left: 2px solid transparent; font-size: 13px; }
+#screen-index a[aria-current] { color: #f6dfb8; background: #273448; border-color: #e5bd73; }
+.atlas-main { min-width: 0; padding: clamp(14px,3vw,43px); }
+.atlas-stage { min-height: 480px; padding: clamp(17px,4vw,50px); display: grid; align-content: start; gap: 20px; border: 1px solid #9e835669; background: radial-gradient(ellipse at top right,#233954,#111c2c 68%); }
+.atlas-stage.scene { background-image: linear-gradient(90deg,#0b1320f7,#0b1320bd 60%,#0b132077),url(media/thanh-kinh-lanh.png); background-size: cover; background-position: center; }
+.atlas-stage.atlas-map { background-image: linear-gradient(90deg,#0b1320 45%,#0b13206b 80%),url(media/atlas-ashborne.png); background-repeat: no-repeat; background-size: cover, auto 100%; background-position: center, right; }
+.atlas-stage h2 { font: 700 clamp(27px,5vw,48px)/1.12 var(--serif); margin-top: 4px; }
+.atlas-stage h3 { font: 700 19px/1.2 var(--serif); margin: 0 0 9px; }
+.atlas-stage .blurb { max-width: 65ch; font-size: 14px; }
+.examples { display: flex; flex-wrap: wrap; gap: 6px; }
+.examples button, .catalog-control input, .catalog-control select { border: 1px solid #907653aa; background: #101928; color: var(--text); padding: 6px 9px; font: inherit; }
+.examples [aria-pressed=true] { border-color: #e5bd73; color: #ffd99b; }
+.readouts { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; }
+.readouts div { padding: 6px 10px; background: #07121de8; border-bottom: 2px solid #aa865b; min-width: 80px; }
+.readouts dt { color: #bfccd6; font-size: 11px; }
+.readouts dd { margin: 0; color: #fbe3b6; font-weight: 750; }
+.atlas-zones { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(205px,100%),1fr)); gap: 10px; }
+.atlas-zone { background: #0c1523eb; padding: 14px; border-top: 1px solid #a2875da1; }
+.atlas-zone ul { margin: 0; padding-left: 16px; color: #d2d7dd; font-size: 13px; }
+.atlas-zone li + li { margin-top: 6px; }
+.atlas-outcome { padding: 8px 12px; border-left: 2px solid #e5bd73; background: #0a1523e8; max-width: 70ch; }
+.catalog-control { display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0 8px; }
+.catalog-control label { display: grid; gap: 4px; font-size: 13px; }
+#catalog-count { color: #e5bd73; margin: 8px 0; }
+.catalog-list { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(245px,100%),1fr)); gap: 10px; }
+.catalog-list article { border: 1px solid #82684266; background: #172334; padding: 13px; }
+.catalog-list h3 { margin: 0 0 4px; font: 700 18px var(--serif); }
+.catalog-list small { color: #f1cc92; }
+.catalog-list p { margin-top: 6px; font-size: 13px; }
+@media (max-width: 700px) {
+  .atlas-page { grid-template-columns: 1fr; }
+  .atlas-index { border-right: 0; padding: 12px 15px; }
+  #screen-index { display: flex; flex-wrap: wrap; margin-top: 10px; gap: 2px; }
+  #screen-index a { padding: 4px 6px; font-size: 12px; }
+  .atlas-stage { min-height: 0; }
+}
+
+.interaction-sample { max-width: 740px; padding: 13px 15px; background: #17283cf5; border: 1px solid #9b845d; }
+.interaction-sample output { display: block; margin-top: 9px; font-size: 13px; color: #d8ebf4; }

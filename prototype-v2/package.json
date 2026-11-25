@@ -1,0 +1,12 @@
+{
+  "name": "ashborne-siege-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "test": "node tests/game.test.mjs"
+  },
+  "dependencies": { "three": "0.170.0" }
+}

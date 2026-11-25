@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101917"><title>Ashborne — Công thành</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="world" aria-label="Chiến trường 2D"></div>
+  <div class="vignette"></div>
+  <header class="topbar">
+    <a class="brand" href="#" id="home"><span class="brand-mark">♜</span> ASHBORNE <small>PROTOTYPE / 02</small></a>
+    <nav id="journey" aria-label="Tiến trình công thành"></nav>
+    <div class="top-actions"><button id="help-button" class="quiet">? Cách chơi</button><button id="sound-button" class="quiet" aria-label="Bật âm thanh">♪ Âm: tắt</button><button id="pause-button" class="quiet">Ⅱ Tạm dừng</button></div>
+  </header>
+  <main id="hud" hidden>
+    <section class="location"><p id="region" class="eyebrow"></p><h1 id="castle-name"></h1><p id="phase-label"></p></section>
+    <aside class="left-info" id="left-info"></aside>
+    <aside class="mission-panel" id="mission-panel"></aside>
+    <div id="actor-labels"></div>
+    <section id="target-stack" class="timed-stack" hidden aria-label="Chồng bài đang đếm ngược trên địch"></section>
+    <div id="deployment" class="deployment" hidden aria-label="Bàn xếp quân 5 cột 4 hàng"></div>
+    <section id="decision" class="decision" hidden aria-live="polite"></section>
+    <div id="floaters" aria-hidden="true"></div>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <section class="bottom-dock" id="dock" aria-label="Điều khiển trận"></section>
+  </main>
+  <section id="landing" class="overlay landing">
+    <div class="landing-inner"><p class="eyebrow">MỘT HÀNH TRÌNH QUA TRO VÀ BĂNG</p><h1>ASHBORNE</h1><p class="landing-sub">Dẫn quân phá cổng.<br>Dùng bài đoạt thành.</p><div class="ornament">◆ ────── ◆ ────── ◆</div><p class="intro-copy">Hai thành trì. Bốn cuộc chạm trán.<br>Xếp đội hình, dung hợp bài và thu phục Ấn Thú.</p><button class="primary large" id="new-game">BẮT ĐẦU CÔNG THÀNH <span>→</span></button><button id="continue-game" class="secondary large" hidden>Tiếp tục hành trình</button><p class="footnote">BẢN THỬ THREE.JS · KHOẢNG 10–15 PHÚT · CHƠI BẰNG CHUỘT</p><p class="landing-note">Đồ họa 2D đơn giản · Chỉ số thử nghiệm · Tự lưu trên trình duyệt</p></div>
+  </section>
+  <dialog id="modal"><div id="modal-content"></div><button id="close-modal" class="secondary">Đã hiểu · Đóng</button></dialog>
+  <div id="fatal" hidden role="alert"></div>
+  <script type="module" src="app.mjs"></script>
+</body>
+</html>

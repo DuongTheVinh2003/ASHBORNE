@@ -1,0 +1,17 @@
+Ashborne Veil v0.3 — controlled pen-pressure variation
+
+Derived from Alegreya and Alegreya Italic, Google Fonts.
+Copyright 2011 The Alegreya Project Authors.
+https://github.com/google/fonts/tree/main/ofl/alegreya
+License: SIL Open Font License 1.1. See OFL.txt.
+
+Simple Bezier outlines interpolate compatible 400/650 source weights
+using a smooth, deterministic pressure field. No point jitter or faceting.
+Italic: baseline source weight 500, pressure amplitude 100.
+Medium: baseline 550, amplitude 30. Regular: baseline 425, amplitude 18.
+Combining marks retain their source outlines; composed letters reuse base glyphs.
+Original character coverage and shaping tables retained. Edited outlines unhinted.
+No claim of a typeface drawn from scratch.
+Repeated instances of a character use the same outline, not random alternates.
+Previous font versions and the running game were not replaced.
+Actual UI size and game-engine legibility still require review.

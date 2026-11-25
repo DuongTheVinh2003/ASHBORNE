@@ -1,0 +1,13 @@
+Base: Alegreya variable upright, Google Fonts
+https://github.com/google/fonts/tree/main/ofl/alegreya
+Copyright 2011 The Alegreya Project Authors
+License: SIL Open Font License 1.1 (see OFL.txt)
+Source SHA256: ba5564634b93a8f8ba57b48cd4f1ae7417d2b4656fbac779028679b00de3cf12
+
+Ashborne Forge v0.1 is an experimental modified derivative, not an original typeface drawn from scratch.
+Regular: source weight 500, smooth curves retained for UI.
+Semibold: source weight 650, quadratic curves converted to 2-segment facets.
+Bold: source weight 800, uppercase and digit quadratic curves converted to 1-segment facets; other curves to 2-segment facets for display.
+Accented composite letters reuse the modified base glyphs.
+Original character coverage, shaping and spacing tables retained; altered outlines are unhinted.
+Not yet production-qualified at small sizes or in a game engine.

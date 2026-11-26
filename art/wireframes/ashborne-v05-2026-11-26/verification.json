@@ -1,0 +1,59 @@
+{
+  "savedOn": "2026-11-26",
+  "version": "v05",
+  "sourceMatchesReviewedVersion": true,
+  "files": {
+    "index.html": {
+      "sha256": "78ebc3c0190e651e713b6acbd7d5568e626158c97f6c6ccfdce632625c221d49",
+      "bytes": 235666
+    },
+    "wireframe-source.html": {
+      "sha256": "85686864888075a707348cbb4413ff9790c5020c0bc38120a9ac7dcf11b344c4",
+      "bytes": 118270
+    },
+    "README.md": {
+      "sha256": "9c51c9dc31e63d9594eb3cad8aa8b0137c1c09958c70c2af2a823cd24c93fa99",
+      "bytes": 2717
+    },
+    "QUYET-DINH-UI.md": {
+      "sha256": "892b6dfe12fb780dd0bef898a712a05f2872d2848dd6a9b447be9abe16c5cf15",
+      "bytes": 3916
+    }
+  },
+  "designVerification": {
+    "widths": [
+      1120,
+      736,
+      390,
+      320
+    ],
+    "mainContexts": 4,
+    "checks": [
+      "Army/craft/replenishment in one dialog",
+      "Loadout retains choices while inspecting cards/seals",
+      "Shop/event prices and clues stay inline",
+      "Capture and reward in one panel; no duplicate reward",
+      "Combat intent uses anchored explanation",
+      "Book inspection preserves battle and remaining timer",
+      "Settings and save errors remain in same pause workspace",
+      "Encounter transition stays on battlefield",
+      "Map preview retains position and supports changing selection",
+      "Camp 2.5D and location preserved",
+      "Retreat confirmation returns directly to camp"
+    ],
+    "errors": [],
+    "overflows": []
+  },
+  "additionalDesignCheck": "Inter-encounter notice does not overlap hero at 1120, 736, 390, 320 px; anchored intent explanation remains readable.",
+  "exportVerification": {
+    "offline": true,
+    "checks": [
+      "Standalone file opens offline and contains all four play contexts plus menu",
+      "Card interaction and pause work offline",
+      "Reward/capture popup returns to the exploration scene",
+      "Camp 2.5D movement works offline"
+    ],
+    "pageErrors": [],
+    "networkRequests": []
+  }
+}

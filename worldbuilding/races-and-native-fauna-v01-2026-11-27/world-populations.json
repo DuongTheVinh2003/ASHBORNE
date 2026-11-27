@@ -1,7 +1,7 @@
 {
   "version": "0.1",
   "date": "2026-11-27",
-  "status": "Đề xuất phân bố, tên nhánh và năng lực; ràng buộc NPC thiểu số không có thẻ/chỉ số là yêu cầu người dùng.",
+  "status": "Bản nháp có phần đã rút: phân bố Mimic/Linh hỏa ở đủ 58 vùng không còn hiệu lực.",
   "summary": {
     "baseRaceProfiles": 60,
     "npcMinorityBranches": 99,
@@ -22,7 +22,10 @@
     "newNPCStatBlocks": 0,
     "existingSealProgenitors": 54,
     "sealDescendantBranchesUnchanged": 255,
-    "creatureDexEntriesIfMerged": 541
+    "creatureDexEntriesIfMerged": 541,
+    "countsMeaning": "Số hồ sơ của mẫu đề xuất cũ; gồm các phương án phân bố đã rút.",
+    "withdrawnUniversalDistributionRecords": 116,
+    "finalSpeciesCount": null
   },
   "sources": [
     {
@@ -1059,8 +1062,8 @@
     },
     {
       "id": 2,
-      "baseName": "High Elf — Cao tinh linh",
-      "sourceDescription": "Cổ xưa, thanh lịch, kiêu hãnh, học thuật và ma thuật tinh vi.",
+      "baseName": "High Elf — Thượng tiên tộc",
+      "sourceDescription": "Cổ xưa, thanh lịch, kiêu ngạo, học thuật và ma thuật tinh vi.",
       "npcVariantRefs": [
         "NPC-ELF-Q-01",
         "NPC-ELF-Q-02",
@@ -1069,11 +1072,11 @@
         "NPC-ELF-Q-05",
         "NPC-ELF-Q-06"
       ],
-      "proposedWorldInterpretation": "Cao tinh linh Quang Mạch"
+      "proposedWorldInterpretation": "Thượng tiên tộc Quang Mạch"
     },
     {
       "id": 3,
-      "baseName": "Wood Elf — Mộc tinh linh",
+      "baseName": "Wood Elf — Mộc tiên tộc",
       "sourceDescription": "Rừng sâu, thợ săn, kín đáo; bảo vệ thiên nhiên quyết liệt.",
       "npcVariantRefs": [
         "NPC-ELF-M-01",
@@ -1083,11 +1086,11 @@
         "NPC-ELF-M-05",
         "NPC-ELF-M-06"
       ],
-      "proposedWorldInterpretation": "Mộc tinh linh Cổ Lâm"
+      "proposedWorldInterpretation": "Mộc tiên tộc Cổ Lâm"
     },
     {
       "id": 4,
-      "baseName": "Dark Elf — Hắc tinh linh",
+      "baseName": "Dark Elf — Hắc tiên tộc",
       "sourceDescription": "Cư dân rừng tối và hang đá; các nhánh NPC có mắt thích nghi thiếu sáng, nghe dư chấn và giấu dấu bằng bóng. Không mặc định cùng một đạo đức hoặc phe phái.",
       "npcVariantRefs": [
         "NPC-ELF-A-01",
@@ -1097,7 +1100,7 @@
         "NPC-ELF-A-05",
         "NPC-ELF-A-06"
       ],
-      "proposedWorldInterpretation": "Hắc tinh linh Thạch Ảnh"
+      "proposedWorldInterpretation": "Hắc tiên tộc Thạch Ảnh"
     },
     {
       "id": 5,
@@ -1597,8 +1600,8 @@
       "id": "NPC-ELF-Q-01",
       "familyId": "ELF-Q",
       "baseRaceRef": 2,
-      "baseRaceName": "High Elf — Cao tinh linh",
-      "name": "Tinh linh Quang Mạch Tịch Quang",
+      "baseRaceName": "High Elf — Thượng tiên tộc",
+      "name": "Thượng tiên tộc Quang Mạch Tịch Quang",
       "regionId": "LTQ",
       "region": "Tịch Quang",
       "realm": "L",
@@ -1608,7 +1611,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện High Elf — Cao tinh linh; biến đổi bề mặt/cơ quan thích nghi với bãi quang yên và ánh lặng và dư chấn.",
+      "appearance": "Giữ nhận diện High Elf — Thượng tiên tộc; biến đổi bề mặt/cơ quan thích nghi với bãi quang yên và ánh lặng và dư chấn.",
       "culture": "Phong tục và nghề nghiệp khai thác ánh lặng và dư chấn; năng lực được dùng để lưu quang và giảm nhiễu. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Quang Mạch Tịch Quang",
@@ -1622,8 +1625,8 @@
       "id": "NPC-ELF-Q-02",
       "familyId": "ELF-Q",
       "baseRaceRef": 2,
-      "baseRaceName": "High Elf — Cao tinh linh",
-      "name": "Tinh linh Quang Mạch Kính Hàn",
+      "baseRaceName": "High Elf — Thượng tiên tộc",
+      "name": "Thượng tiên tộc Quang Mạch Kính Hàn",
       "regionId": "WCA",
       "region": "Caldris",
       "realm": "W",
@@ -1633,7 +1636,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện High Elf — Cao tinh linh; biến đổi bề mặt/cơ quan thích nghi với chân núi băng và băng trong và ánh lạnh.",
+      "appearance": "Giữ nhận diện High Elf — Thượng tiên tộc; biến đổi bề mặt/cơ quan thích nghi với chân núi băng và băng trong và ánh lạnh.",
       "culture": "Phong tục và nghề nghiệp khai thác băng trong và ánh lạnh; năng lực được dùng để khúc xạ và giữ nhiệt. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Quang Mạch Kính Hàn",
@@ -1647,8 +1650,8 @@
       "id": "NPC-ELF-Q-03",
       "familyId": "ELF-Q",
       "baseRaceRef": 2,
-      "baseRaceName": "High Elf — Cao tinh linh",
-      "name": "Tinh linh Quang Mạch Mạch Hội",
+      "baseRaceName": "High Elf — Thượng tiên tộc",
+      "name": "Thượng tiên tộc Quang Mạch Mạch Hội",
       "regionId": "WAS",
       "region": "Ashborne",
       "realm": "W",
@@ -1658,7 +1661,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện High Elf — Cao tinh linh; biến đổi bề mặt/cơ quan thích nghi với lòng chảo và linh mạch công trình.",
+      "appearance": "Giữ nhận diện High Elf — Thượng tiên tộc; biến đổi bề mặt/cơ quan thích nghi với lòng chảo và linh mạch công trình.",
       "culture": "Phong tục và nghề nghiệp khai thác linh mạch công trình; năng lực được dùng để dẫn lực cộng đồng. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Quang Mạch Mạch Hội",
@@ -1672,8 +1675,8 @@
       "id": "NPC-ELF-Q-04",
       "familyId": "ELF-Q",
       "baseRaceRef": 2,
-      "baseRaceName": "High Elf — Cao tinh linh",
-      "name": "Tinh linh Quang Mạch Bạch Thạch",
+      "baseRaceName": "High Elf — Thượng tiên tộc",
+      "name": "Thượng tiên tộc Quang Mạch Bạch Thạch",
       "regionId": "LBT",
       "region": "Bạch Thạch",
       "realm": "L",
@@ -1683,7 +1686,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện High Elf — Cao tinh linh; biến đổi bề mặt/cơ quan thích nghi với cao nguyên đá trắng và thạch lực và ánh trắng.",
+      "appearance": "Giữ nhận diện High Elf — Thượng tiên tộc; biến đổi bề mặt/cơ quan thích nghi với cao nguyên đá trắng và thạch lực và ánh trắng.",
       "culture": "Phong tục và nghề nghiệp khai thác thạch lực và ánh trắng; năng lực được dùng để ghi và dồn lực trong đá. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Quang Mạch Bạch Thạch",
@@ -1697,8 +1700,8 @@
       "id": "NPC-ELF-Q-05",
       "familyId": "ELF-Q",
       "baseRaceRef": 2,
-      "baseRaceName": "High Elf — Cao tinh linh",
-      "name": "Tinh linh Quang Mạch Kính Hồ",
+      "baseRaceName": "High Elf — Thượng tiên tộc",
+      "name": "Thượng tiên tộc Quang Mạch Kính Hồ",
       "regionId": "LHK",
       "region": "Hồ Linh Kính",
       "realm": "L",
@@ -1708,7 +1711,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện High Elf — Cao tinh linh; biến đổi bề mặt/cơ quan thích nghi với hồ linh quang và nước phản quang.",
+      "appearance": "Giữ nhận diện High Elf — Thượng tiên tộc; biến đổi bề mặt/cơ quan thích nghi với hồ linh quang và nước phản quang.",
       "culture": "Phong tục và nghề nghiệp khai thác nước phản quang; năng lực được dùng để khúc xạ và giữ mạch nước. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Quang Mạch Kính Hồ",
@@ -1722,8 +1725,8 @@
       "id": "NPC-ELF-Q-06",
       "familyId": "ELF-Q",
       "baseRaceRef": 2,
-      "baseRaceName": "High Elf — Cao tinh linh",
-      "name": "Tinh linh Quang Mạch Cựu Đô",
+      "baseRaceName": "High Elf — Thượng tiên tộc",
+      "name": "Thượng tiên tộc Quang Mạch Cựu Đô",
       "regionId": "UCD",
       "region": "Cựu Đô",
       "realm": "U",
@@ -1733,7 +1736,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện High Elf — Cao tinh linh; biến đổi bề mặt/cơ quan thích nghi với đô thị phế tích và vật liệu cũ và dấu linh.",
+      "appearance": "Giữ nhận diện High Elf — Thượng tiên tộc; biến đổi bề mặt/cơ quan thích nghi với đô thị phế tích và vật liệu cũ và dấu linh.",
       "culture": "Phong tục và nghề nghiệp khai thác vật liệu cũ và dấu linh; năng lực được dùng để đọc vật và giữ mạch. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Quang Mạch Cựu Đô",
@@ -1747,8 +1750,8 @@
       "id": "NPC-ELF-M-01",
       "familyId": "ELF-M",
       "baseRaceRef": 3,
-      "baseRaceName": "Wood Elf — Mộc tinh linh",
-      "name": "Mộc tinh linh Cổ Lâm Cổ Tán",
+      "baseRaceName": "Wood Elf — Mộc tiên tộc",
+      "name": "Mộc tiên tộc Cổ Lâm Cổ Tán",
       "regionId": "WSY",
       "region": "Sylvar",
       "realm": "W",
@@ -1758,7 +1761,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Wood Elf — Mộc tinh linh; biến đổi bề mặt/cơ quan thích nghi với rừng cổ và mạch cây già.",
+      "appearance": "Giữ nhận diện Wood Elf — Mộc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với rừng cổ và mạch cây già.",
       "culture": "Phong tục và nghề nghiệp khai thác mạch cây già; năng lực được dùng để giao cảm rễ. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Cộng Sinh Cổ Tán",
@@ -1772,8 +1775,8 @@
       "id": "NPC-ELF-M-02",
       "familyId": "ELF-M",
       "baseRaceRef": 3,
-      "baseRaceName": "Wood Elf — Mộc tinh linh",
-      "name": "Mộc tinh linh Cổ Lâm Cổ Rễ",
+      "baseRaceName": "Wood Elf — Mộc tiên tộc",
+      "name": "Mộc tiên tộc Cổ Lâm Cổ Rễ",
       "regionId": "LCL",
       "region": "Cổ Linh Lâm",
       "realm": "L",
@@ -1783,7 +1786,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Wood Elf — Mộc tinh linh; biến đổi bề mặt/cơ quan thích nghi với rừng đại cổ và rễ và sinh khí cây.",
+      "appearance": "Giữ nhận diện Wood Elf — Mộc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với rừng đại cổ và rễ và sinh khí cây.",
       "culture": "Phong tục và nghề nghiệp khai thác rễ và sinh khí cây; năng lực được dùng để dẫn sinh lực qua rễ. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Cộng Sinh Cổ Rễ",
@@ -1797,8 +1800,8 @@
       "id": "NPC-ELF-M-03",
       "familyId": "ELF-M",
       "baseRaceRef": 3,
-      "baseRaceName": "Wood Elf — Mộc tinh linh",
-      "name": "Mộc tinh linh Cổ Lâm Rêu Đầm",
+      "baseRaceName": "Wood Elf — Mộc tiên tộc",
+      "name": "Mộc tiên tộc Cổ Lâm Rêu Đầm",
       "regionId": "WLO",
       "region": "Lorath",
       "realm": "W",
@@ -1808,7 +1811,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Wood Elf — Mộc tinh linh; biến đổi bề mặt/cơ quan thích nghi với rừng đầm và mùn và rễ ngập.",
+      "appearance": "Giữ nhận diện Wood Elf — Mộc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với rừng đầm và mùn và rễ ngập.",
       "culture": "Phong tục và nghề nghiệp khai thác mùn và rễ ngập; năng lực được dùng để dẫn ẩm và lọc uế. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Cộng Sinh Rêu Đầm",
@@ -1822,8 +1825,8 @@
       "id": "NPC-ELF-M-04",
       "familyId": "ELF-M",
       "baseRaceRef": 3,
-      "baseRaceName": "Wood Elf — Mộc tinh linh",
-      "name": "Mộc tinh linh Cổ Lâm Tro Mầm",
+      "baseRaceName": "Wood Elf — Mộc tiên tộc",
+      "name": "Mộc tiên tộc Cổ Lâm Tro Mầm",
       "regionId": "WNA",
       "region": "Nameri",
       "realm": "W",
@@ -1833,7 +1836,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Wood Elf — Mộc tinh linh; biến đổi bề mặt/cơ quan thích nghi với rừng tro và tro nguội và rễ mới.",
+      "appearance": "Giữ nhận diện Wood Elf — Mộc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với rừng tro và tro nguội và rễ mới.",
       "culture": "Phong tục và nghề nghiệp khai thác tro nguội và rễ mới; năng lực được dùng để tái sinh và cách nhiệt. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Cộng Sinh Tro Mầm",
@@ -1847,8 +1850,8 @@
       "id": "NPC-ELF-M-05",
       "familyId": "ELF-M",
       "baseRaceRef": 3,
-      "baseRaceName": "Wood Elf — Mộc tinh linh",
-      "name": "Mộc tinh linh Cổ Lâm Thiên Diệp",
+      "baseRaceName": "Wood Elf — Mộc tiên tộc",
+      "name": "Mộc tiên tộc Cổ Lâm Thiên Diệp",
       "regionId": "LTD",
       "region": "Thiên Diệp",
       "realm": "L",
@@ -1858,7 +1861,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Wood Elf — Mộc tinh linh; biến đổi bề mặt/cơ quan thích nghi với tán rừng linh và ánh lọc qua lá.",
+      "appearance": "Giữ nhận diện Wood Elf — Mộc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với tán rừng linh và ánh lọc qua lá.",
       "culture": "Phong tục và nghề nghiệp khai thác ánh lọc qua lá; năng lực được dùng để mượn bóng tán. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Cộng Sinh Thiên Diệp",
@@ -1872,8 +1875,8 @@
       "id": "NPC-ELF-M-06",
       "familyId": "ELF-M",
       "baseRaceRef": 3,
-      "baseRaceName": "Wood Elf — Mộc tinh linh",
-      "name": "Mộc tinh linh Cổ Lâm Lộc Thảo",
+      "baseRaceName": "Wood Elf — Mộc tiên tộc",
+      "name": "Mộc tiên tộc Cổ Lâm Lộc Thảo",
       "regionId": "LLU",
       "region": "Lộc Uyển",
       "realm": "L",
@@ -1883,7 +1886,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Wood Elf — Mộc tinh linh; biến đổi bề mặt/cơ quan thích nghi với đồng cỏ linh và sinh khí đàn thú.",
+      "appearance": "Giữ nhận diện Wood Elf — Mộc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với đồng cỏ linh và sinh khí đàn thú.",
       "culture": "Phong tục và nghề nghiệp khai thác sinh khí đàn thú; năng lực được dùng để cộng hưởng nhịp sống. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Cộng Sinh Lộc Thảo",
@@ -1897,8 +1900,8 @@
       "id": "NPC-ELF-A-01",
       "familyId": "ELF-A",
       "baseRaceRef": 4,
-      "baseRaceName": "Dark Elf — Hắc tinh linh",
-      "name": "Hắc tinh linh Thạch Ảnh Địa Ảnh",
+      "baseRaceName": "Dark Elf — Hắc tiên tộc",
+      "name": "Hắc tiên tộc Thạch Ảnh Địa Ảnh",
       "regionId": "WDU",
       "region": "Duskell",
       "realm": "W",
@@ -1908,7 +1911,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Dark Elf — Hắc tinh linh; biến đổi bề mặt/cơ quan thích nghi với hang rừng và âm dội và nấm sáng.",
+      "appearance": "Giữ nhận diện Dark Elf — Hắc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với hang rừng và âm dội và nấm sáng.",
       "culture": "Phong tục và nghề nghiệp khai thác âm dội và nấm sáng; năng lực được dùng để nghe qua đá. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Thạch Ảnh Địa Ảnh",
@@ -1922,8 +1925,8 @@
       "id": "NPC-ELF-A-02",
       "familyId": "ELF-A",
       "baseRaceRef": 4,
-      "baseRaceName": "Dark Elf — Hắc tinh linh",
-      "name": "Hắc tinh linh Thạch Ảnh U Sơn",
+      "baseRaceName": "Dark Elf — Hắc tiên tộc",
+      "name": "Hắc tiên tộc Thạch Ảnh U Sơn",
       "regionId": "UUS",
       "region": "U Sơn",
       "realm": "U",
@@ -1933,7 +1936,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Dark Elf — Hắc tinh linh; biến đổi bề mặt/cơ quan thích nghi với núi hang sâu và âm đá và khoáng tối.",
+      "appearance": "Giữ nhận diện Dark Elf — Hắc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với núi hang sâu và âm đá và khoáng tối.",
       "culture": "Phong tục và nghề nghiệp khai thác âm đá và khoáng tối; năng lực được dùng để đọc cấu trúc đá. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Thạch Ảnh U Sơn",
@@ -1947,8 +1950,8 @@
       "id": "NPC-ELF-A-03",
       "familyId": "ELF-A",
       "baseRaceRef": 4,
-      "baseRaceName": "Dark Elf — Hắc tinh linh",
-      "name": "Hắc tinh linh Thạch Ảnh Quặng Rèn",
+      "baseRaceName": "Dark Elf — Hắc tiên tộc",
+      "name": "Hắc tiên tộc Thạch Ảnh Quặng Rèn",
       "regionId": "WMO",
       "region": "Morcant",
       "realm": "W",
@@ -1958,7 +1961,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Dark Elf — Hắc tinh linh; biến đổi bề mặt/cơ quan thích nghi với mỏ và lò rèn và kim loại và rung đá.",
+      "appearance": "Giữ nhận diện Dark Elf — Hắc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với mỏ và lò rèn và kim loại và rung đá.",
       "culture": "Phong tục và nghề nghiệp khai thác kim loại và rung đá; năng lực được dùng để cảm quặng. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Thạch Ảnh Quặng Rèn",
@@ -1972,8 +1975,8 @@
       "id": "NPC-ELF-A-04",
       "familyId": "ELF-A",
       "baseRaceRef": 4,
-      "baseRaceName": "Dark Elf — Hắc tinh linh",
-      "name": "Hắc tinh linh Thạch Ảnh Vô Thanh",
+      "baseRaceName": "Dark Elf — Hắc tiên tộc",
+      "name": "Hắc tiên tộc Thạch Ảnh Vô Thanh",
       "regionId": "UVC",
       "region": "Vực Câm",
       "realm": "U",
@@ -1983,7 +1986,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Dark Elf — Hắc tinh linh; biến đổi bề mặt/cơ quan thích nghi với vực tắt âm và khoảng lặng và khí đá.",
+      "appearance": "Giữ nhận diện Dark Elf — Hắc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với vực tắt âm và khoảng lặng và khí đá.",
       "culture": "Phong tục và nghề nghiệp khai thác khoảng lặng và khí đá; năng lực được dùng để hấp và gửi âm. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Thạch Ảnh Vô Thanh",
@@ -1997,8 +2000,8 @@
       "id": "NPC-ELF-A-05",
       "familyId": "ELF-A",
       "baseRaceRef": 4,
-      "baseRaceName": "Dark Elf — Hắc tinh linh",
-      "name": "Hắc tinh linh Thạch Ảnh Cựu Đô",
+      "baseRaceName": "Dark Elf — Hắc tiên tộc",
+      "name": "Hắc tiên tộc Thạch Ảnh Cựu Đô",
       "regionId": "UCD",
       "region": "Cựu Đô",
       "realm": "U",
@@ -2008,7 +2011,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Dark Elf — Hắc tinh linh; biến đổi bề mặt/cơ quan thích nghi với đô thị phế tích và vật liệu cũ và dấu linh.",
+      "appearance": "Giữ nhận diện Dark Elf — Hắc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với đô thị phế tích và vật liệu cũ và dấu linh.",
       "culture": "Phong tục và nghề nghiệp khai thác vật liệu cũ và dấu linh; năng lực được dùng để đọc vật và giữ mạch. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Thạch Ảnh Cựu Đô",
@@ -2022,8 +2025,8 @@
       "id": "NPC-ELF-A-06",
       "familyId": "ELF-A",
       "baseRaceRef": 4,
-      "baseRaceName": "Dark Elf — Hắc tinh linh",
-      "name": "Hắc tinh linh Thạch Ảnh Mộng Sắc",
+      "baseRaceName": "Dark Elf — Hắc tiên tộc",
+      "name": "Hắc tiên tộc Thạch Ảnh Mộng Sắc",
       "regionId": "LMT",
       "region": "Mộng Triều",
       "realm": "L",
@@ -2033,7 +2036,7 @@
       "cardEligible": false,
       "hasCombatStatBlock": false,
       "armySpecialtyOverride": false,
-      "appearance": "Giữ nhận diện Dark Elf — Hắc tinh linh; biến đổi bề mặt/cơ quan thích nghi với rừng mộng và dư âm cảm giác.",
+      "appearance": "Giữ nhận diện Dark Elf — Hắc tiên tộc; biến đổi bề mặt/cơ quan thích nghi với rừng mộng và dư âm cảm giác.",
       "culture": "Phong tục và nghề nghiệp khai thác dư âm cảm giác; năng lực được dùng để dẫn và giấu cảm giác. Không mặc định mọi cá thể chung đạo đức hoặc nghề nghiệp.",
       "adaptivePower": {
         "name": "Thạch Ảnh Mộng Sắc",
@@ -4091,20 +4094,22 @@
     "MIM": {
       "name": "Ngụy vật — Mimic",
       "prefix": "Mimic",
-      "population": "thường gặp tại những điểm có vật liệu phù hợp",
+      "population": "Chưa chốt mật độ; không hiện diện ở mọi vùng.",
       "role": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
       "identity": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương.",
       "limit": "Phải học mẫu gần và cần thời gian đổi dạng. Không sao trí tuệ, kỹ năng hoặc toàn bộ năng lực của vật hay sinh vật khác.",
-      "sourceRaceRef": null
+      "sourceRaceRef": null,
+      "distributionStatus": "withdrawn-universal-template"
     },
     "WIS": {
       "name": "Linh hỏa — Wisp",
       "prefix": "Linh hỏa",
-      "population": "thường gặp theo cụm tại nơi có nguồn linh lực",
+      "population": "Chưa chốt mật độ; không hiện diện ở mọi vùng.",
       "role": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
       "identity": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh.",
       "limit": "Nguồn năng lượng hữu hạn, phải hấp thu lại từ sinh cảnh; không đọc toàn bộ ký ức, hồi sinh hoặc tự mở cổng qua cõi.",
-      "sourceRaceRef": null
+      "sourceRaceRef": null,
+      "distributionStatus": "withdrawn-universal-template"
     }
   },
   "nativeVariants": [
@@ -4170,8 +4175,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với bờ băng.",
       "habitat": "bờ băng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Băng Triều",
         "effect": "Giả tảng băng có khoang ấm nhử sinh vật tìm chỗ trú.",
@@ -4181,7 +4186,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-01",
@@ -4195,8 +4201,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với bờ băng.",
       "habitat": "bờ băng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Băng Triều",
         "effect": "Ánh đèn chỉ khe băng còn nước chảy.",
@@ -4206,7 +4212,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-02",
@@ -4270,8 +4277,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với rừng lạnh.",
       "habitat": "rừng lạnh",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Tùng Sương",
         "effect": "Giả thân tùng rỗng rồi khép thớ gỗ quanh vật chạm.",
@@ -4281,7 +4288,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-02",
@@ -4295,8 +4303,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với rừng lạnh.",
       "habitat": "rừng lạnh",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Tùng Sương",
         "effect": "Làm nhựa cây phát nhiệt dịu quanh gốc.",
@@ -4306,7 +4314,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-03",
@@ -4370,8 +4379,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với núi băng.",
       "habitat": "núi băng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Tuyết Lĩnh",
         "effect": "Giả mỏm đá rồi phát tiếng bước chân từ phía vách đối diện.",
@@ -4381,7 +4390,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-03",
@@ -4395,8 +4405,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với núi băng.",
       "habitat": "núi băng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Tuyết Lĩnh",
         "effect": "Dọi ánh làm lộ chỗ tuyết rỗng sát mặt.",
@@ -4406,7 +4416,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-04",
@@ -4470,8 +4481,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với rừng đầm.",
       "habitat": "rừng đầm",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Rêu Đầm",
         "effect": "Giả gốc cây ngập và dùng rễ giả níu mồi nhỏ.",
@@ -4481,7 +4492,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-04",
@@ -4495,8 +4507,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với rừng đầm.",
       "habitat": "rừng đầm",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Rêu Đầm",
         "effect": "Ánh đèn làm dấu độc chất trong màng nước hiện màu.",
@@ -4506,7 +4518,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-05",
@@ -4570,8 +4583,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với rừng cổ.",
       "habitat": "rừng cổ",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Cổ Tán",
         "effect": "Giả thân gỗ rồi tạm nối cành gãy quanh nơi trú.",
@@ -4581,7 +4594,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-05",
@@ -4595,8 +4609,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với rừng cổ.",
       "habitat": "rừng cổ",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Cổ Tán",
         "effect": "Truyền tín hiệu sáng qua mạng lá đang nối nhau.",
@@ -4606,7 +4620,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-06",
@@ -4670,8 +4685,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với vách rừng.",
       "habitat": "vách rừng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Vách Lá",
         "effect": "Giả tổ treo và dùng sợi dính giấu thân sau cành.",
@@ -4681,7 +4696,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-06",
@@ -4695,8 +4711,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với vách rừng.",
       "habitat": "vách rừng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Vách Lá",
         "effect": "Vẽ khí lưu thành vệt sáng chỉ đường qua tán.",
@@ -4706,7 +4722,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-07",
@@ -4770,8 +4787,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với hang rừng.",
       "habitat": "hang rừng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Địa Ảnh",
         "effect": "Giả lối hang có chiều sâu để dụ mồi tiến vào.",
@@ -4781,7 +4798,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-07",
@@ -4795,8 +4813,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với hang rừng.",
       "habitat": "hang rừng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Địa Ảnh",
         "effect": "Mượn ánh nấm tạo một đốm sáng giả lệch thân.",
@@ -4806,7 +4824,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-08",
@@ -4870,8 +4889,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với lòng chảo.",
       "habitat": "lòng chảo",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Mạch Hội",
         "effect": "Giả đồ dùng và lưu một dấu lực của người từng chạm.",
@@ -4881,7 +4900,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-08",
@@ -4895,8 +4915,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với lòng chảo.",
       "habitat": "lòng chảo",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Mạch Hội",
         "effect": "Gửi nhịp sáng qua công trình có linh mạch liên tục.",
@@ -4906,7 +4926,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-09",
@@ -4970,8 +4991,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đèo lạnh.",
       "habitat": "đèo lạnh",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Đèo Vọng",
         "effect": "Giả phiến đá nối khe rồi thu thân khi bị đạp.",
@@ -4981,7 +5002,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-09",
@@ -4995,8 +5017,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đèo lạnh.",
       "habitat": "đèo lạnh",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Đèo Vọng",
         "effect": "Gửi tiếng vọng báo động qua khe núi gần.",
@@ -5006,7 +5028,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-10",
@@ -5070,8 +5093,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với chân núi băng.",
       "habitat": "chân núi băng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Kính Hàn",
         "effect": "Giả tinh thể băng có ánh phản quang dẫn dụ.",
@@ -5081,7 +5104,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-10",
@@ -5095,8 +5119,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với chân núi băng.",
       "habitat": "chân núi băng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Kính Hàn",
         "effect": "Làm vết nứt băng đang lan hiện sáng.",
@@ -5106,7 +5130,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-11",
@@ -5170,8 +5195,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với rừng sông.",
       "habitat": "rừng sông",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Bồi Thủy",
         "effect": "Giả khúc gỗ trôi và neo thân vào dòng ngầm.",
@@ -5181,7 +5206,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-11",
@@ -5195,8 +5221,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với rừng sông.",
       "habitat": "rừng sông",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Bồi Thủy",
         "effect": "Làm nước đục sát thân trong lại để soi mồi.",
@@ -5206,7 +5232,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-12",
@@ -5270,8 +5297,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với mỏ và lò rèn.",
       "habitat": "mỏ và lò rèn",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Quặng Rèn",
         "effect": "Giả rương quặng và kéo mạt sắt bám giữ vật chạm.",
@@ -5281,7 +5308,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-12",
@@ -5295,8 +5323,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với mỏ và lò rèn.",
       "habitat": "mỏ và lò rèn",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Quặng Rèn",
         "effect": "Ánh đèn đổi nhịp khi đi qua mạch quặng nông.",
@@ -5306,7 +5334,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-13",
@@ -5370,8 +5399,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với cao địa đá.",
       "habitat": "cao địa đá",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Khe Thạch",
         "effect": "Giả bậc đá và hút nhẹ trọng lượng vật đặt lên.",
@@ -5381,7 +5410,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-13",
@@ -5395,8 +5425,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với cao địa đá.",
       "habitat": "cao địa đá",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Khe Thạch",
         "effect": "Dẫn vệt sáng theo một đường nước ngầm nông.",
@@ -5406,7 +5436,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-14",
@@ -5470,8 +5501,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với sa mạc đá.",
       "habitat": "sa mạc đá",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Cát Thạch",
         "effect": "Giả miệng giếng nông có hơi mát dụ mồi.",
@@ -5481,7 +5512,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-14",
@@ -5495,8 +5527,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với sa mạc đá.",
       "habitat": "sa mạc đá",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Cát Thạch",
         "effect": "Tạo ảnh hơi nóng giả chỉ sai đường tiến.",
@@ -5506,7 +5538,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-15",
@@ -5570,8 +5603,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đồng cỏ khô.",
       "habitat": "đồng cỏ khô",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Cỏ Hạn",
         "effect": "Giả bụi cỏ có bóng mát và cuộn thân quanh vật chạm.",
@@ -5581,7 +5614,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-15",
@@ -5595,8 +5629,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đồng cỏ khô.",
       "habitat": "đồng cỏ khô",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Cỏ Hạn",
         "effect": "Làm cả bãi cỏ sống rung theo nhịp sáng báo động.",
@@ -5606,7 +5640,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-16",
@@ -5670,8 +5705,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với cồn cát.",
       "habitat": "cồn cát",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Lưu Sa",
         "effect": "Giả túi hành lý bỏ lại và dựng vòng cát che miệng.",
@@ -5681,7 +5716,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-16",
@@ -5695,8 +5731,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với cồn cát.",
       "habitat": "cồn cát",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Lưu Sa",
         "effect": "Giữ một hướng sáng qua đêm giúp đàn tìm về.",
@@ -5706,7 +5742,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-17",
@@ -5770,8 +5807,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với cao nguyên khô.",
       "habitat": "cao nguyên khô",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Nham Nắng",
         "effect": "Giả phiến đá mát và niêm mùi thân trong đá giả.",
@@ -5781,7 +5818,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-17",
@@ -5795,8 +5833,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với cao nguyên khô.",
       "habitat": "cao nguyên khô",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Nham Nắng",
         "effect": "Giữ ánh hoàng hôn để phát lại lúc tối.",
@@ -5806,7 +5844,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-18",
@@ -5870,8 +5909,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với rừng tro.",
       "habitat": "rừng tro",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Tro Mầm",
         "effect": "Giả gốc cây cháy rồi dựng màn tro ấm khi bị chạm.",
@@ -5881,7 +5920,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-18",
@@ -5895,8 +5935,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với rừng tro.",
       "habitat": "rừng tro",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Tro Mầm",
         "effect": "Dập tàn lửa nhỏ và chuyển nhiệt thành ánh nuôi mầm.",
@@ -5906,7 +5946,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-19",
@@ -5970,8 +6011,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với vịnh nhiệt.",
       "habitat": "vịnh nhiệt",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Nhiệt Triều",
         "effect": "Giả vỏ sò có luồng nước ấm thu hút mồi.",
@@ -5981,7 +6022,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-19",
@@ -5995,8 +6037,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với vịnh nhiệt.",
       "habitat": "vịnh nhiệt",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Nhiệt Triều",
         "effect": "Làm ranh giới nước quá nóng hiện sáng để đàn tránh.",
@@ -6006,7 +6048,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-20",
@@ -6070,8 +6113,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đầm tro.",
       "habitat": "đầm tro",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Mưa Tro",
         "effect": "Giả chùm rễ ngập rồi kéo lá thành lưới quanh thân.",
@@ -6081,7 +6124,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-20",
@@ -6095,8 +6139,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đầm tro.",
       "habitat": "đầm tro",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Mưa Tro",
         "effect": "Gom giọt mưa đang rơi thành đường nước tới ổ.",
@@ -6106,7 +6150,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-21",
@@ -6170,8 +6215,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với bazan nhiệt.",
       "habitat": "bazan nhiệt",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Bazan Đỏ",
         "effect": "Giả quặng nóng và rút nhiệt từ vật chạm để gây tê.",
@@ -6181,7 +6226,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-21",
@@ -6195,8 +6241,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với bazan nhiệt.",
       "habitat": "bazan nhiệt",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Bazan Đỏ",
         "effect": "Kết khí phun thành vệt sáng xua kẻ săn khỏi ổ.",
@@ -6206,7 +6252,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-22",
@@ -6270,8 +6317,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với bờ biển cực.",
       "habitat": "bờ biển cực",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Hải Hàn",
         "effect": "Giả hốc băng kín gió có nguồn ấm nhỏ nhử mồi.",
@@ -6281,7 +6328,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-22",
@@ -6295,8 +6343,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với bờ biển cực.",
       "habitat": "bờ biển cực",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Hải Hàn",
         "effect": "Tích linh quang thành đèn soi dưới băng.",
@@ -6306,7 +6354,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-23",
@@ -6370,8 +6419,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với hồ băng.",
       "habitat": "hồ băng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Băng Tan",
         "effect": "Giả phiến băng có hình cá phản chiếu phía dưới.",
@@ -6381,7 +6430,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-23",
@@ -6395,8 +6445,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với hồ băng.",
       "habitat": "hồ băng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Băng Tan",
         "effect": "Giữ sinh khí trong địa y qua một đợt rét ngắn.",
@@ -6406,7 +6456,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-24",
@@ -6470,8 +6521,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với hang băng.",
       "habitat": "hang băng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Băng Cốt",
         "effect": "Giả cửa hang băng và phát tiếng gió từ bên trong.",
@@ -6481,7 +6532,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-24",
@@ -6495,8 +6547,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với hang băng.",
       "habitat": "hang băng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Băng Cốt",
         "effect": "Dẫn ánh sáng dọc vân băng để báo chỗ đang nứt.",
@@ -6506,7 +6558,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-25",
@@ -6570,8 +6623,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển băng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Bắc Triều",
         "effect": "Giả bè băng trôi với mặt dưới dính bắt mồi.",
@@ -6581,7 +6634,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-25",
@@ -6595,8 +6649,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển băng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Bắc Triều",
         "effect": "Truyền nhịp sáng qua nước lạnh để đàn con bám nhau.",
@@ -6606,7 +6660,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-26",
@@ -6670,8 +6725,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển sóng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Tây Phong",
         "effect": "Giả gỗ trôi và kéo dòng nhỏ giữ sát tuyến mồi.",
@@ -6681,7 +6736,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-26",
@@ -6695,8 +6751,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển sóng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Tây Phong",
         "effect": "Vẽ sáng trên đỉnh sóng chỉ lối lặn cho đàn.",
@@ -6706,7 +6762,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-27",
@@ -6770,8 +6827,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển sâu",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Đông Lưu",
         "effect": "Giả chùm phù du sáng quanh lõi dính.",
@@ -6781,7 +6838,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-27",
@@ -6795,8 +6853,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển sâu",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Đông Lưu",
         "effect": "Bẻ ánh còn sót thành chớp giao tiếp trong nước sâu.",
@@ -6806,7 +6864,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-28",
@@ -6870,8 +6929,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển kín",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Nội Triều",
         "effect": "Giả thùng bến trôi và giấu mùi qua nước lợ.",
@@ -6881,7 +6940,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-28",
@@ -6895,8 +6955,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển kín",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Nội Triều",
         "effect": "Trao nhịp sáng báo hướng nước đang đổi mặn.",
@@ -6906,7 +6966,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-29",
@@ -6970,8 +7031,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển lạnh",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Nam Hàn",
         "effect": "Giả rong trôi mang bọt sáng thu hút mồi nhỏ.",
@@ -6981,7 +7042,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-29",
@@ -6995,8 +7057,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển lạnh",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Nam Hàn",
         "effect": "Lưu dấu nhịp dòng theo mùa để đàn tìm vùng ăn.",
@@ -7006,7 +7068,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-30",
@@ -7070,8 +7133,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với tán rừng linh.",
       "habitat": "tán rừng linh",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Thiên Diệp",
         "effect": "Giả lá lớn có giọt mật phát sáng dụ côn trùng.",
@@ -7081,7 +7144,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-30",
@@ -7095,8 +7159,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với tán rừng linh.",
       "habitat": "tán rừng linh",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Thiên Diệp",
         "effect": "Nối bóng các lá thành tín hiệu cảnh báo chạy theo tán.",
@@ -7106,7 +7170,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-31",
@@ -7170,8 +7235,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với núi gió.",
       "habitat": "núi gió",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Ngân Phong",
         "effect": "Giả phiến chuông đá phát âm từ một hướng khác.",
@@ -7181,7 +7246,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-31",
@@ -7195,8 +7261,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với núi gió.",
       "habitat": "núi gió",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Ngân Phong",
         "effect": "Làm các luồng khí chạm nhau hiện thành đường sáng.",
@@ -7206,7 +7272,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-32",
@@ -7270,8 +7337,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với hồ linh quang.",
       "habitat": "hồ linh quang",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Kính Hồ",
         "effect": "Giả hoa súng có hình mồi phản chiếu dưới lá.",
@@ -7281,7 +7348,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-32",
@@ -7295,8 +7363,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với hồ linh quang.",
       "habitat": "hồ linh quang",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Kính Hồ",
         "effect": "Tạo ảnh phản chiếu báo chuyển động phía sau mặt hồ.",
@@ -7306,7 +7374,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-33",
@@ -7370,8 +7439,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đảo mây và biển.",
       "habitat": "đảo mây và biển",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Vân Triều",
         "effect": "Giả đá nổi rồi dựng sương che lõi cơ thể.",
@@ -7381,7 +7450,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-33",
@@ -7395,8 +7465,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đảo mây và biển.",
       "habitat": "đảo mây và biển",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Vân Triều",
         "effect": "Gửi nhịp sáng giữa sương và nước để đàn khỏi lạc.",
@@ -7406,7 +7476,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-34",
@@ -7470,8 +7541,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với rừng mộng.",
       "habitat": "rừng mộng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Mộng Sắc",
         "effect": "Giả vật quen trong ký ức giác quan của con mồi đang ở gần.",
@@ -7481,7 +7552,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-34",
@@ -7495,8 +7567,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với rừng mộng.",
       "habitat": "rừng mộng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Mộng Sắc",
         "effect": "Ánh đèn biến tiếng động nhỏ thành vệt màu để đọc môi trường.",
@@ -7506,7 +7578,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-35",
@@ -7570,8 +7643,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đồng hoa linh.",
       "habitat": "đồng hoa linh",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Bách Hoa",
         "effect": "Giả chùm hoa với hương ngọt để giữ mồi côn trùng.",
@@ -7581,7 +7654,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-35",
@@ -7595,8 +7669,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đồng hoa linh.",
       "habitat": "đồng hoa linh",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Bách Hoa",
         "effect": "Mang hương giữa hai khóm hoa và làm dấu đường bằng sáng.",
@@ -7606,7 +7680,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-36",
@@ -7670,8 +7745,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với rừng đại cổ.",
       "habitat": "rừng đại cổ",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Cổ Rễ",
         "effect": "Giả gốc rễ và tạm nối rễ đứt làm lối dụ mồi.",
@@ -7681,7 +7756,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-36",
@@ -7695,8 +7771,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với rừng đại cổ.",
       "habitat": "rừng đại cổ",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Cổ Rễ",
         "effect": "Dẫn ánh ngầm qua rễ để báo chỗ cây đang tổn thương.",
@@ -7706,7 +7782,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-37",
@@ -7770,8 +7847,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đồng cỏ linh.",
       "habitat": "đồng cỏ linh",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Lộc Thảo",
         "effect": "Giả bụi cây có mùi an toàn để kéo mồi nhỏ nghỉ lại.",
@@ -7781,7 +7858,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-37",
@@ -7795,8 +7873,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đồng cỏ linh.",
       "habitat": "đồng cỏ linh",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Lộc Thảo",
         "effect": "Các đèn chớp theo nhịp đàn đi qua để gửi dấu hướng.",
@@ -7806,7 +7884,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-38",
@@ -7870,8 +7949,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với suối linh.",
       "habitat": "suối linh",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Minh Châu",
         "effect": "Giả viên ngọc nước có lõi dính và ánh sáng dịu.",
@@ -7881,7 +7960,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-38",
@@ -7895,8 +7975,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với suối linh.",
       "habitat": "suối linh",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Minh Châu",
         "effect": "Đèn gom các giọt mạch tản thành một vệt sáng dẫn dòng.",
@@ -7906,7 +7986,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-39",
@@ -7970,8 +8051,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với cao nguyên đá trắng.",
       "habitat": "cao nguyên đá trắng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Bạch Thạch",
         "effect": "Giả bia đá có chữ sáng tự đổi theo hướng ánh.",
@@ -7981,7 +8062,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-39",
@@ -7995,8 +8077,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với cao nguyên đá trắng.",
       "habitat": "cao nguyên đá trắng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Bạch Thạch",
         "effect": "Ánh đèn làm lộ đường linh lực yếu trong đá gần.",
@@ -8006,7 +8088,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-40",
@@ -8070,8 +8153,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với bãi quang yên.",
       "habitat": "bãi quang yên",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Tịch Quang",
         "effect": "Giả đèn đá lưu ánh để kéo mồi tới điểm phục kích.",
@@ -8081,7 +8164,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-40",
@@ -8095,8 +8179,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với bãi quang yên.",
       "habitat": "bãi quang yên",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Tịch Quang",
         "effect": "Giữ một nhịp sáng làm mốc dù ánh quanh liên tục đổi.",
@@ -8106,7 +8190,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-41",
@@ -8170,8 +8255,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với bến đá và giao mạch.",
       "habitat": "bến đá và giao mạch",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Bến Vọng",
         "effect": "Giả vật bỏ lại và phát lại âm từng nghe từ vật đó.",
@@ -8181,7 +8266,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-41",
@@ -8195,8 +8281,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với bến đá và giao mạch.",
       "habitat": "bến đá và giao mạch",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Bến Vọng",
         "effect": "Ánh đèn nhận dấu lối cũ để hiện mũi đường mờ.",
@@ -8206,7 +8292,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-42",
@@ -8270,8 +8357,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển linh quang",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Linh Quang",
         "effect": "Giả cụm sinh vật phát sáng với những ngọn đèn nhỏ bên ngoài.",
@@ -8281,7 +8368,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-42",
@@ -8295,8 +8383,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển linh quang",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Linh Quang",
         "effect": "Trao ánh sáng giữa các tầng nước như tín hiệu dẫn đàn.",
@@ -8306,7 +8394,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-43",
@@ -8370,8 +8459,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển mây sâu",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Vân Uyên",
         "effect": "Giả khối mây sát nước rồi tạo mặt dính bên trong.",
@@ -8381,7 +8470,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-43",
@@ -8395,8 +8485,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển mây sâu",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Vân Uyên",
         "effect": "Giữ sáng trong bọt áp lực rồi thả bọt báo đường sâu.",
@@ -8406,7 +8496,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-44",
@@ -8470,8 +8561,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với băng tàn tích.",
       "habitat": "băng tàn tích",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Mộ Băng",
         "effect": "Giả một phiến băng có vật sáng bên dưới để dụ mồi.",
@@ -8481,7 +8572,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-44",
@@ -8495,8 +8587,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với băng tàn tích.",
       "habitat": "băng tàn tích",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Mộ Băng",
         "effect": "Đèn làm những dấu chân mới trên băng phát sáng mờ.",
@@ -8506,7 +8598,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-45",
@@ -8570,8 +8663,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với vực băng tối.",
       "habitat": "vực băng tối",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Hàn Uyên",
         "effect": "Giả miệng hốc ít gió với một ánh ấm giả bên trong.",
@@ -8581,7 +8674,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-45",
@@ -8595,8 +8689,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với vực băng tối.",
       "habitat": "vực băng tối",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Hàn Uyên",
         "effect": "Tiếng sáng của đèn bật lại từ mặt băng để dò khoảng rỗng.",
@@ -8606,7 +8700,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-46",
@@ -8670,8 +8765,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với vực tắt âm.",
       "habitat": "vực tắt âm",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Vô Thanh",
         "effect": "Giả vách đá và phát tiếng gọi từ phía vách khác.",
@@ -8681,7 +8776,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-46",
@@ -8695,8 +8791,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với vực tắt âm.",
       "habitat": "vực tắt âm",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Vô Thanh",
         "effect": "Đèn đổi rung động thành sáng thay cho âm để giao tiếp.",
@@ -8706,7 +8802,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-47",
@@ -8770,8 +8867,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với cát khoáng trắng.",
       "habitat": "cát khoáng trắng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Cốt Sa",
         "effect": "Giả đoạn xương khoáng hóa để nhử sinh vật tìm chất khoáng.",
@@ -8781,7 +8878,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-47",
@@ -8795,8 +8893,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với cát khoáng trắng.",
       "habitat": "cát khoáng trắng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Cốt Sa",
         "effect": "Ánh đèn vẽ dấu vật rỗng ẩn ngay dưới lớp cát.",
@@ -8806,7 +8904,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-48",
@@ -8870,8 +8969,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đồng tro tái sinh.",
       "habitat": "đồng tro tái sinh",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Tàn Tro",
         "effect": "Giả đống than nguội có vùng nhiệt dễ chịu để dụ mồi.",
@@ -8881,7 +8980,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-48",
@@ -8895,8 +8995,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đồng tro tái sinh.",
       "habitat": "đồng tro tái sinh",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Tàn Tro",
         "effect": "Đèn rút nhiệt từ tàn lửa nhỏ rồi phát thành tín hiệu.",
@@ -8906,7 +9006,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-49",
@@ -8970,8 +9071,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với khe khoáng nhiệt.",
       "habitat": "khe khoáng nhiệt",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Hắc Nham",
         "effect": "Giả hòn quặng rồi niêm hơi khoáng quanh lõi.",
@@ -8981,7 +9082,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-49",
@@ -8995,8 +9097,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với khe khoáng nhiệt.",
       "habitat": "khe khoáng nhiệt",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Hắc Nham",
         "effect": "Đèn làm khí phun có độc yếu hiện thành dải màu cảnh báo.",
@@ -9006,7 +9108,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-50",
@@ -9070,8 +9173,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đất mộ và đá cổ.",
       "habitat": "đất mộ và đá cổ",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Hoang Lăng",
         "effect": "Giả vật tang lễ hoặc đá kê có hình thức đã học.",
@@ -9081,7 +9184,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-50",
@@ -9095,8 +9199,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đất mộ và đá cổ.",
       "habitat": "đất mộ và đá cổ",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Hoang Lăng",
         "effect": "Đèn phát lại một dấu ánh vừa hấp thụ từ di vật.",
@@ -9106,7 +9210,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-51",
@@ -9170,8 +9275,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với rừng đá.",
       "habitat": "rừng đá",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Thạch Lâm",
         "effect": "Giả một đoạn cây hóa thạch và khép các khe thân.",
@@ -9181,7 +9286,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-51",
@@ -9195,8 +9301,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với rừng đá.",
       "habitat": "rừng đá",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Thạch Lâm",
         "effect": "Đèn đưa ánh qua vân gỗ đá để lộ lối hốc gần.",
@@ -9206,7 +9312,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-52",
@@ -9270,8 +9377,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đồng sương và tiếng vọng.",
       "habitat": "đồng sương và tiếng vọng",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Đồng Vọng",
         "effect": "Giả đá nghỉ có tiếng nước êm để thu hút mồi.",
@@ -9281,7 +9388,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-52",
@@ -9295,8 +9403,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đồng sương và tiếng vọng.",
       "habitat": "đồng sương và tiếng vọng",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Đồng Vọng",
         "effect": "Đèn phát lại mảnh âm môi trường bằng nhịp chớp.",
@@ -9306,7 +9414,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-53",
@@ -9370,8 +9479,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đầm tối.",
       "habitat": "đầm tối",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Dạ Trạch",
         "effect": "Giả gốc rễ ngập rồi dính mồi vào mạng bọt.",
@@ -9381,7 +9490,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-53",
@@ -9395,8 +9505,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đầm tối.",
       "habitat": "đầm tối",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Dạ Trạch",
         "effect": "Đèn làm đường nước còn lưu thông sáng hơn vùng tù.",
@@ -9406,7 +9516,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-54",
@@ -9470,8 +9581,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với núi hang sâu.",
       "habitat": "núi hang sâu",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic U Sơn",
         "effect": "Giả mặt đá liền để che một túi thân trong hốc.",
@@ -9481,7 +9592,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-54",
@@ -9495,8 +9607,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với núi hang sâu.",
       "habitat": "núi hang sâu",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa U Sơn",
         "effect": "Đèn gửi xung sáng qua thạch lực để dò một lớp đá mỏng.",
@@ -9506,7 +9618,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-55",
@@ -9570,8 +9683,8 @@
       "morphology": "Thân mềm có lõi và mặt dính, sao dáng vật thể/vật liệu địa phương; không chỉ giả rương. Diện mạo thích ứng với đô thị phế tích.",
       "habitat": "đô thị phế tích",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Cựu Đô",
         "effect": "Giả đồ dùng cổ và giữ lại một dấu chạm để nhận vật quen.",
@@ -9581,7 +9694,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-55",
@@ -9595,8 +9709,8 @@
       "morphology": "Hạch sống nhỏ được bao bằng linh quang, không mang hình người cố định; khác cơ thể nguyên tố thuần của hồ sơ 57. Dạng dưới nước có bọt/màng linh. Diện mạo thích ứng với đô thị phế tích.",
       "habitat": "đô thị phế tích",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Cựu Đô",
         "effect": "Đèn làm dấu lực mới trên vật cũ hiện rõ trong chốc lát.",
@@ -9606,7 +9720,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-56",
@@ -9670,8 +9785,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "sông tối",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Vong Thủy",
         "effect": "Giả gỗ chìm có âm rung giống một đàn mồi.",
@@ -9681,7 +9796,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-56",
@@ -9695,8 +9811,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "sông tối",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Vong Thủy",
         "effect": "Đèn dõi một giọt nước được đánh dấu qua đoạn sông gần.",
@@ -9706,7 +9822,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-57",
@@ -9770,8 +9887,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển khoáng yên",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Tĩnh Hải",
         "effect": "Giả ụ khoáng dưới biển có bọt mồi nổi lên.",
@@ -9781,7 +9898,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-57",
@@ -9795,8 +9913,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển khoáng yên",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Tĩnh Hải",
         "effect": "Đèn giấu ánh vào túi nước rồi thả chớp khi cần gọi đàn.",
@@ -9806,7 +9924,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-SLM-58",
@@ -9870,8 +9989,8 @@
       "morphology": "Màng trao đổi khí dưới nước và lớp thân giống vật liệu biển/sông; lõi bám nền hoặc trôi theo dòng.",
       "habitat": "biển sâu tối",
       "foodAndRole": "Ngụy trang phục kích sinh vật nhỏ và ăn xác; không mặc định thù địch mọi cư dân.",
-      "abundance": "thường gặp tại những điểm có vật liệu phù hợp",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Mimic Hắc Hải",
         "effect": "Giả sinh vật phù du phát sáng bao quanh một lõi dính tối.",
@@ -9881,7 +10000,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     },
     {
       "id": "N-WIS-58",
@@ -9895,8 +10015,8 @@
       "morphology": "Lõi quang nằm trong bọt linh, giao tiếp bằng ánh trong nước.",
       "habitat": "biển sâu tối",
       "foodAndRole": "Tích và trao linh lực môi trường, báo đường và cộng sinh; không mặc định là hồn người chết.",
-      "abundance": "thường gặp theo cụm tại nơi có nguồn linh lực",
-      "distributionPolicy": "rộng và phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh",
+      "abundance": "Chưa chốt; không suy từ bảng mẫu cũ.",
+      "distributionPolicy": "Chỉ xem xét tại sinh cảnh phù hợp; không bắt buộc mỗi vùng một biến thể.",
       "adaptivePower": {
         "name": "Linh hỏa Hắc Hải",
         "effect": "Đèn khuếch ánh ít ỏi thành một tín hiệu định hướng ngắn.",
@@ -9906,7 +10026,8 @@
       "consciousLocalElementMastery": false,
       "sealEligible": false,
       "raceFamilyRef": null,
-      "status": "đề xuất"
+      "status": "Ý tưởng lưu tham khảo; phân bố phủ mọi vùng đã rút, chưa chọn giữ.",
+      "distributionStatus": "withdrawn-universal-template"
     }
   ],
   "distribution": [
@@ -10938,10 +11059,16 @@
     },
     "native": {
       "origin": "Độc lập với 54 dòng Ấn Thú",
-      "onePerFamilyPerRegion": true,
+      "onePerFamilyPerRegion": false,
       "plasticity": "Mạnh hơn hậu duệ Ấn Thú trong việc hình thành biến thể theo nơi sống",
       "frequency": "Phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh; đông thưa mô tả định tính, không phải số cá thể đo đạc",
-      "slimeAlias": "Họ Niêm thể đã có ở hồ sơ 60; cá thể hoang và nhánh có ý thức không được tính thành hai họ khác nhau."
+      "slimeAlias": "Họ Niêm thể đã có ở hồ sơ 60; cá thể hoang và nhánh có ý thức không được tính thành hai họ khác nhau.",
+      "familyDistributionReview": {
+        "MIM": "Không phủ mọi vùng; chờ chọn sinh cảnh và thu gọn biến thể.",
+        "WIS": "Không phủ mọi vùng; chờ chọn sinh cảnh và thu gọn biến thể.",
+        "SLM": "Phân bố rộng vẫn là đề xuất; không tự coi mọi biến thể là đã duyệt.",
+        "DRK": "Phân bố rộng vẫn là đề xuất; không tự coi mọi biến thể là đã duyệt."
+      }
     },
     "sourceCardCountPreserved": true,
     "minorityDoesNotMeanNoSpread": true,
@@ -10949,6 +11076,19 @@
     "noFreePlaneTravel": "Phân bố lịch sử ở nhiều cõi không tự trao quyền qua cõi cho từng cá thể.",
     "noAutomaticElementMastery": "Năng lực thích nghi không tự tạo quyền học hoặc điều khiển toàn bộ nguyên tố.",
     "independentFamilies": "Tiểu long không phải tổ tiên của Long nhân; Linh hỏa không mặc định là vong linh hình người; Mimic giả người không thành chủng người.",
-    "dexCounting": "Các nhánh NPC là mục dân cư riêng; không cộng 99 nhánh vào 541 mục sinh vật. Không cộng lại Niêm thể số 60 thành một họ mới."
+    "dexCounting": "541 là số hồ sơ ý tưởng lưu từ bản cũ, không phải tổng loài được chốt; không gồm nhánh NPC."
+  },
+  "review": {
+    "date": "2026-11-27",
+    "withdrawnUniversalFamilies": [
+      "MIM",
+      "WIS"
+    ],
+    "reason": "Mimic và Linh hỏa không có ở mọi vùng; không tạo biến thể chỉ để đủ địa danh.",
+    "retainedRecordsMeaning": "Kho ý tưởng cũ, không phải phân bố đã duyệt hoặc tổng số loài chính thức.",
+    "restrictedHabitatSelection": "Chưa chốt vị trí và số biến thể được giữ.",
+    "finalSpeciesCount": null,
+    "auditDocument": "Ashborne-Ra-soat-Nen-tang-The-gioi-2026-11-27.md",
+    "generatorStatus": "Các script v01 còn tái tạo mẫu cũ; không dùng kết quả của chúng để coi phân bố đã được duyệt."
   }
 }

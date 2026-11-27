@@ -122,7 +122,7 @@ M=['# Ashborne Chủng tộc thích nghi và sinh vật bản địa đề xuấ
 f"Giữ **60 hồ sơ nền**. Đề xuất **99 nhánh NPC** và **4 họ sinh vật bản địa với 232 biến thể** tại **58 vùng**. Những con số này là số mục thiết kế, không phải số dân hoặc xác suất xuất hiện.",
 '',
 '## 1 Kết quả tham khảo fantasy','',
-'Không có một danh mục thống nhất cho tất cả tác phẩm để xác định chủng nhiều biến thể nhất toàn ngành. Trong phạm vi các nguồn D&D chính thức đã kiểm tra, Long nhân/rồng, Tinh linh, Người lùn và các nhánh cự nhân có nhiều mẫu phân hóa phù hợp tham khảo. Không cộng bản Legacy/2024, tuổi của rồng hoặc tên gọi đồng nghĩa thành loài mới.',
+'Không có một danh mục thống nhất cho tất cả tác phẩm để xác định chủng nhiều biến thể nhất toàn ngành. Trong phạm vi các nguồn D&D chính thức đã kiểm tra, Long nhân/rồng, Tiên tộc, Người lùn và các nhánh cự nhân có nhiều mẫu phân hóa phù hợp tham khảo. Không cộng bản Legacy/2024, tuổi của rồng hoặc tên gọi đồng nghĩa thành loài mới.',
 '',
 '| Phạm vi nguồn | Quan sát dùng được | Cách áp dụng cho Ashborne |','| --- | --- | --- |',
 '| [Character Origins 2024](https://www.dndbeyond.com/sources/dnd/br-2024/character-origins) | 10 lựa chọn tổ tiên rồng cho Dragonborn; 3 lineage Elf trong chương. Dwarf có các cộng đồng đồi/núi. Các mục này không cùng một đơn vị phân loại. | Tham khảo cách gắn đặc điểm cơ thể và năng lực với nhánh; không dùng làm số dân hoặc tốc độ tiến hóa. |',
@@ -135,7 +135,7 @@ f"Giữ **60 hồ sơ nền**. Đề xuất **99 nhánh NPC** và **4 họ sinh 
 for plan in d['plans']:
     zs=[regions[z] for z in plan['variants']]
     M+=['| '+' | '.join(md(x) for x in [plan['label'],len(zs),', '.join(dict.fromkeys(realms[r['realm']] for r in zs))])+' |']
-M+=['','Tinh linh có tổng 18 nhánh qua ba nhóm hiện có. Số điểm cư trú tăng nhưng các nhánh vẫn là dân cư thiểu số. Một họ xuất hiện ở nhiều cõi không có nghĩa mọi thành viên được tự qua cõi. Không gắn nhánh với đạo đức, nghề nghiệp hay phe phái duy nhất.','',
+M+=['','Tiên tộc có tổng 18 nhánh qua ba nhóm hiện có. Số điểm cư trú tăng nhưng các nhánh vẫn là dân cư thiểu số. Một họ xuất hiện ở nhiều cõi không có nghĩa mọi thành viên được tự qua cõi. Không gắn nhánh với đạo đức, nghề nghiệp hay phe phái duy nhất.','',
 'Các cách gọi như Quang Mạch, Thạch Ảnh, Băng Nham, Tro Đảo, Hải Nham là nhãn nhánh NPC hoặc hướng thể hiện địa phương. Không tự đổi tên thẻ nền, thêm lá, thêm sở trường hoặc thay luật ghép quân. Cự nhân núi tiếp tục giữ bất lợi với Pháp binh theo luật hiện hành.','',
 '## 3 Bốn họ sinh vật bản địa','',
 '| Họ | Phạm vi | Vai trò | Nhận diện cần giữ |','| --- | --- | --- | --- |']

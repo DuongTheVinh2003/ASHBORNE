@@ -133,3 +133,9 @@ Giữ cụm thông tin ổn định, dữ liệu gần chủ thể, chọn mục
 Trước khi tạo một nhóm asset hoặc một màn mới, đối chiếu ảnh chuẩn, cách dùng font và quy tắc của nhóm tương ứng. Khi ghép vào game, kiểm tra cùng lúc với các thành phần lân cận để bảo đảm chung nét, chung vật liệu và chung thứ bậc thị giác.
 
 Các ảnh/mockup cũ giữ vai trò lịch sử và tham chiếu bố cục. Khi khác hướng về nét vẽ hoặc chữ, dùng chuẩn trong file này. Những phần gameplay còn chờ đặc tả tiếp tục được xử lý trong tài liệu gameplay, không tự suy ra từ style.
+
+## 11. Chữ cổ Vāryan
+
+Bổ sung theo yêu cầu người dùng ngày **27/11/2026**: dùng [bảng chữ Vāryan](art/script-reference/varyan/varyan-script-reference.png) để phát triển ký tự cho pháp trận, cổ thư, văn khắc và các thành phần cổ xưa, huyền bí. Đọc [ghi chú và quy ước Vāryan](Ashborne-Varyan-Chu-Co-va-Quy-uoc-Su-dung-v01.md) khi sản xuất nhóm art có chữ cổ.
+
+Vāryan bổ sung văn tự trong thế giới; Ashborne Veil v0.3 tiếp tục dùng cho giao diện, tên, mô tả luật, hội thoại và bản dịch. Hình chữ tham chiếu được áp dụng cùng chất vẽ của approved-scene-v2.png; poster Vāryan không thay chuẩn màu, vật liệu, kiến trúc hoặc độ chi tiết của toàn game. Ảnh hiện là tham chiếu, chưa phải bộ font/glyph đã sản xuất.

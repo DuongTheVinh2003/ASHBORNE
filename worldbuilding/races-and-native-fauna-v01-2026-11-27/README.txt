@@ -1,3 +1,18 @@
+DANH MỤC BỔ SUNG 27/11/2026
+Đọc ../../Ashborne-Rong-va-Sinh-Vat-Ban-Dia-v03.md
+Dữ liệu ../native-expansion-v03-2026-11-27/native-catalog.json
+Chỉ mục ../native-expansion-v03-2026-11-27/native-dex-index.json
+12 nhóm rồng/long thú (Drake dùng lại DRK), 4 loài nước, 4 loài bay, 4 loài dưới đất.
+26 biến thể: Dragon 8, Drake 10, Wyvern 8. Tổng 50 mục thiết kế ở nhiều cấp, chưa phải số loài sinh học.
+10 nhánh Drake ở v03 thay bộ mẫu theo 58 vùng v01 trong phần bản địa hiện hành; không cộng song song.
+
+ĐIỀU CHỈNH 27/11/2026
+Phân bố Mimic và Linh hỏa tại đủ 58 vùng đã rút. 116 hồ sơ tương ứng chỉ là ý tưởng chưa chọn giữ.
+232/541 là số hồ sơ mẫu cũ, không phải tổng số loài đã duyệt. Bảng distribution giữ để tra cứu mẫu cũ.
+Chưa chốt số loài sau thu gọn. Không lấy việc đủ bốn họ mỗi vùng làm tiêu chí đúng.
+Các script v01 chưa cập nhật chính sách này; chạy lại sẽ tái tạo mẫu cũ.
+Xem ../../Ashborne-Ra-soat-Nen-tang-The-gioi-2026-11-27.md
+
 ASHBORNE CHỦNG TỘC THÍCH NGHI VÀ SINH VẬT BẢN ĐỊA V01
 Ngày 27/11/2026.
 

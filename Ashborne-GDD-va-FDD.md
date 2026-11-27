@@ -33,9 +33,11 @@ Hướng tới người thích xây bộ bài, đọc ý đồ địch và khám
 
 ## 01 Thế giới và cốt truyện
 
+**Cập nhật 27/11/2026:** [Khung Tam Giới đã chốt](Ashborne-Khung-Tam-Gioi-Da-Chot-2026-11-27.md) là nguồn ưu tiên về lịch sử và quy luật thế giới. Ba cõi cùng năm tồn tại thời kỳ đầu có trước thủy tổ; các quốc gia hình thành sau thời kỳ phong ấn. Hội giữ phong ấn duy trì các phong ấn cổ và hạn chế người biết. Tuyến truyện, thủ phạm và vai trò Joker trong phần cũ bên dưới cần đối chiếu lại với khung này; [phương án biến cố mới](Ashborne-Loi-vao-Linh-Gioi-va-Bien-co-Phong-an-De-xuat-v01.md) vẫn là đề xuất.
+
 ### Vương quốc sau đại chiến
 
-Các vương triều xây nền văn minh bằng Lửa, Nước, Gió và Đất. Chiến tranh khiến nguồn sức mạnh vượt tầm kiểm soát, phá hủy Ashborne và làm biến dị sinh vật trên khắp lục địa. Hệ thống phong ấn vỡ, giải phóng 54 sinh vật. Một số chiếm thành trì. Số khác trú trong phế tích, tuyến thương mại hoặc lãnh thổ các phe.
+Trong khung biến cố đang phát triển, phong ấn vỡ giải phóng những sinh vật đang bị phong ấn và ảnh hưởng tới các thủy tổ vốn sống tự do. Không phải toàn bộ 54 thủy tổ từng bị giam giữ. Nguyên nhân, mức tàn phá và phân bố các thế lực chiếm thành cần xây lại dựa trên khung Tam Giới; chiến tranh giữa các vương triều chưa được xác nhận là nguyên nhân chính thức.
 
 Người thừa kế mất gia đình, quân đội và quê hương. Hành trình gồm tập hợp người sống sót, điều tra ai đã đẩy các vương triều vào chiến tranh và giành lại ngai vàng. Các thành được giải phóng trở thành nguồn tuyển quân và nơi nhân vật đối diện hệ quả từ quyết định trước đó.
 

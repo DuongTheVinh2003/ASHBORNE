@@ -1,5 +1,5 @@
 {
-  "status": "đề xuất; không gồm NPC",
+  "status": "Kho 541 hồ sơ ý tưởng cũ; không phải tổng số loài chính thức. Phân bố phổ quát Mimic/Linh hỏa đã rút.",
   "count": 541,
   "entries": [
     {
@@ -3126,7 +3126,9 @@
       "regionId": "WHR",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-01"
+      "sourceRef": "N-MIM-01",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WHR",
@@ -3138,7 +3140,9 @@
       "regionId": "WHR",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-01"
+      "sourceRef": "N-WIS-01",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WOL",
@@ -3174,7 +3178,9 @@
       "regionId": "WOL",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-02"
+      "sourceRef": "N-MIM-02",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WOL",
@@ -3186,7 +3192,9 @@
       "regionId": "WOL",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-02"
+      "sourceRef": "N-WIS-02",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WVA",
@@ -3222,7 +3230,9 @@
       "regionId": "WVA",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-03"
+      "sourceRef": "N-MIM-03",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WVA",
@@ -3234,7 +3244,9 @@
       "regionId": "WVA",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-03"
+      "sourceRef": "N-WIS-03",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WLO",
@@ -3270,7 +3282,9 @@
       "regionId": "WLO",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-04"
+      "sourceRef": "N-MIM-04",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WLO",
@@ -3282,7 +3296,9 @@
       "regionId": "WLO",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-04"
+      "sourceRef": "N-WIS-04",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WSY",
@@ -3318,7 +3334,9 @@
       "regionId": "WSY",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-05"
+      "sourceRef": "N-MIM-05",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WSY",
@@ -3330,7 +3348,9 @@
       "regionId": "WSY",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-05"
+      "sourceRef": "N-WIS-05",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WVE",
@@ -3366,7 +3386,9 @@
       "regionId": "WVE",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-06"
+      "sourceRef": "N-MIM-06",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WVE",
@@ -3378,7 +3400,9 @@
       "regionId": "WVE",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-06"
+      "sourceRef": "N-WIS-06",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WDU",
@@ -3414,7 +3438,9 @@
       "regionId": "WDU",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-07"
+      "sourceRef": "N-MIM-07",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WDU",
@@ -3426,7 +3452,9 @@
       "regionId": "WDU",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-07"
+      "sourceRef": "N-WIS-07",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WAS",
@@ -3462,7 +3490,9 @@
       "regionId": "WAS",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-08"
+      "sourceRef": "N-MIM-08",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WAS",
@@ -3474,7 +3504,9 @@
       "regionId": "WAS",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-08"
+      "sourceRef": "N-WIS-08",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WVG",
@@ -3510,7 +3542,9 @@
       "regionId": "WVG",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-09"
+      "sourceRef": "N-MIM-09",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WVG",
@@ -3522,7 +3556,9 @@
       "regionId": "WVG",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-09"
+      "sourceRef": "N-WIS-09",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WCA",
@@ -3558,7 +3594,9 @@
       "regionId": "WCA",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-10"
+      "sourceRef": "N-MIM-10",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WCA",
@@ -3570,7 +3608,9 @@
       "regionId": "WCA",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-10"
+      "sourceRef": "N-WIS-10",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WTH",
@@ -3606,7 +3646,9 @@
       "regionId": "WTH",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-11"
+      "sourceRef": "N-MIM-11",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WTH",
@@ -3618,7 +3660,9 @@
       "regionId": "WTH",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-11"
+      "sourceRef": "N-WIS-11",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WMO",
@@ -3654,7 +3698,9 @@
       "regionId": "WMO",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-12"
+      "sourceRef": "N-MIM-12",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WMO",
@@ -3666,7 +3712,9 @@
       "regionId": "WMO",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-12"
+      "sourceRef": "N-WIS-12",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WIS",
@@ -3702,7 +3750,9 @@
       "regionId": "WIS",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-13"
+      "sourceRef": "N-MIM-13",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WIS",
@@ -3714,7 +3764,9 @@
       "regionId": "WIS",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-13"
+      "sourceRef": "N-WIS-13",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WQA",
@@ -3750,7 +3802,9 @@
       "regionId": "WQA",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-14"
+      "sourceRef": "N-MIM-14",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WQA",
@@ -3762,7 +3816,9 @@
       "regionId": "WQA",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-14"
+      "sourceRef": "N-WIS-14",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WSU",
@@ -3798,7 +3854,9 @@
       "regionId": "WSU",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-15"
+      "sourceRef": "N-MIM-15",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WSU",
@@ -3810,7 +3868,9 @@
       "regionId": "WSU",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-15"
+      "sourceRef": "N-WIS-15",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WDO",
@@ -3846,7 +3906,9 @@
       "regionId": "WDO",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-16"
+      "sourceRef": "N-MIM-16",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WDO",
@@ -3858,7 +3920,9 @@
       "regionId": "WDO",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-16"
+      "sourceRef": "N-WIS-16",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WES",
@@ -3894,7 +3958,9 @@
       "regionId": "WES",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-17"
+      "sourceRef": "N-MIM-17",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WES",
@@ -3906,7 +3972,9 @@
       "regionId": "WES",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-17"
+      "sourceRef": "N-WIS-17",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WNA",
@@ -3942,7 +4010,9 @@
       "regionId": "WNA",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-18"
+      "sourceRef": "N-MIM-18",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WNA",
@@ -3954,7 +4024,9 @@
       "regionId": "WNA",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-18"
+      "sourceRef": "N-WIS-18",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WSA",
@@ -3990,7 +4062,9 @@
       "regionId": "WSA",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-19"
+      "sourceRef": "N-MIM-19",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WSA",
@@ -4002,7 +4076,9 @@
       "regionId": "WSA",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-19"
+      "sourceRef": "N-WIS-19",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WTA",
@@ -4038,7 +4114,9 @@
       "regionId": "WTA",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-20"
+      "sourceRef": "N-MIM-20",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WTA",
@@ -4050,7 +4128,9 @@
       "regionId": "WTA",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-20"
+      "sourceRef": "N-WIS-20",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WOR",
@@ -4086,7 +4166,9 @@
       "regionId": "WOR",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-21"
+      "sourceRef": "N-MIM-21",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WOR",
@@ -4098,7 +4180,9 @@
       "regionId": "WOR",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-21"
+      "sourceRef": "N-WIS-21",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WKR",
@@ -4134,7 +4218,9 @@
       "regionId": "WKR",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-22"
+      "sourceRef": "N-MIM-22",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WKR",
@@ -4146,7 +4232,9 @@
       "regionId": "WKR",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-22"
+      "sourceRef": "N-WIS-22",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WNI",
@@ -4182,7 +4270,9 @@
       "regionId": "WNI",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-23"
+      "sourceRef": "N-MIM-23",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WNI",
@@ -4194,7 +4284,9 @@
       "regionId": "WNI",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-23"
+      "sourceRef": "N-WIS-23",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WTO",
@@ -4230,7 +4322,9 @@
       "regionId": "WTO",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-24"
+      "sourceRef": "N-MIM-24",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WTO",
@@ -4242,7 +4336,9 @@
       "regionId": "WTO",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-24"
+      "sourceRef": "N-WIS-24",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WBN",
@@ -4278,7 +4374,9 @@
       "regionId": "WBN",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-25"
+      "sourceRef": "N-MIM-25",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WBN",
@@ -4290,7 +4388,9 @@
       "regionId": "WBN",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-25"
+      "sourceRef": "N-WIS-25",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WDT",
@@ -4326,7 +4426,9 @@
       "regionId": "WDT",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-26"
+      "sourceRef": "N-MIM-26",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WDT",
@@ -4338,7 +4440,9 @@
       "regionId": "WDT",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-26"
+      "sourceRef": "N-WIS-26",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WDD",
@@ -4374,7 +4478,9 @@
       "regionId": "WDD",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-27"
+      "sourceRef": "N-MIM-27",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WDD",
@@ -4386,7 +4492,9 @@
       "regionId": "WDD",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-27"
+      "sourceRef": "N-WIS-27",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WNL",
@@ -4422,7 +4530,9 @@
       "regionId": "WNL",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-28"
+      "sourceRef": "N-MIM-28",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WNL",
@@ -4434,7 +4544,9 @@
       "regionId": "WNL",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-28"
+      "sourceRef": "N-WIS-28",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-WPN",
@@ -4470,7 +4582,9 @@
       "regionId": "WPN",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-29"
+      "sourceRef": "N-MIM-29",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-WPN",
@@ -4482,7 +4596,9 @@
       "regionId": "WPN",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-29"
+      "sourceRef": "N-WIS-29",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LTD",
@@ -4518,7 +4634,9 @@
       "regionId": "LTD",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-30"
+      "sourceRef": "N-MIM-30",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LTD",
@@ -4530,7 +4648,9 @@
       "regionId": "LTD",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-30"
+      "sourceRef": "N-WIS-30",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LNP",
@@ -4566,7 +4686,9 @@
       "regionId": "LNP",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-31"
+      "sourceRef": "N-MIM-31",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LNP",
@@ -4578,7 +4700,9 @@
       "regionId": "LNP",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-31"
+      "sourceRef": "N-WIS-31",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LHK",
@@ -4614,7 +4738,9 @@
       "regionId": "LHK",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-32"
+      "sourceRef": "N-MIM-32",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LHK",
@@ -4626,7 +4752,9 @@
       "regionId": "LHK",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-32"
+      "sourceRef": "N-WIS-32",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LVH",
@@ -4662,7 +4790,9 @@
       "regionId": "LVH",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-33"
+      "sourceRef": "N-MIM-33",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LVH",
@@ -4674,7 +4804,9 @@
       "regionId": "LVH",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-33"
+      "sourceRef": "N-WIS-33",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LMT",
@@ -4710,7 +4842,9 @@
       "regionId": "LMT",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-34"
+      "sourceRef": "N-MIM-34",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LMT",
@@ -4722,7 +4856,9 @@
       "regionId": "LMT",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-34"
+      "sourceRef": "N-WIS-34",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LBH",
@@ -4758,7 +4894,9 @@
       "regionId": "LBH",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-35"
+      "sourceRef": "N-MIM-35",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LBH",
@@ -4770,7 +4908,9 @@
       "regionId": "LBH",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-35"
+      "sourceRef": "N-WIS-35",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LCL",
@@ -4806,7 +4946,9 @@
       "regionId": "LCL",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-36"
+      "sourceRef": "N-MIM-36",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LCL",
@@ -4818,7 +4960,9 @@
       "regionId": "LCL",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-36"
+      "sourceRef": "N-WIS-36",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LLU",
@@ -4854,7 +4998,9 @@
       "regionId": "LLU",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-37"
+      "sourceRef": "N-MIM-37",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LLU",
@@ -4866,7 +5012,9 @@
       "regionId": "LLU",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-37"
+      "sourceRef": "N-WIS-37",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LSM",
@@ -4902,7 +5050,9 @@
       "regionId": "LSM",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-38"
+      "sourceRef": "N-MIM-38",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LSM",
@@ -4914,7 +5064,9 @@
       "regionId": "LSM",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-38"
+      "sourceRef": "N-WIS-38",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LBT",
@@ -4950,7 +5102,9 @@
       "regionId": "LBT",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-39"
+      "sourceRef": "N-MIM-39",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LBT",
@@ -4962,7 +5116,9 @@
       "regionId": "LBT",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-39"
+      "sourceRef": "N-WIS-39",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LTQ",
@@ -4998,7 +5154,9 @@
       "regionId": "LTQ",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-40"
+      "sourceRef": "N-MIM-40",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LTQ",
@@ -5010,7 +5168,9 @@
       "regionId": "LTQ",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-40"
+      "sourceRef": "N-WIS-40",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LBV",
@@ -5046,7 +5206,9 @@
       "regionId": "LBV",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-41"
+      "sourceRef": "N-MIM-41",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LBV",
@@ -5058,7 +5220,9 @@
       "regionId": "LBV",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-41"
+      "sourceRef": "N-WIS-41",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LBL",
@@ -5094,7 +5258,9 @@
       "regionId": "LBL",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-42"
+      "sourceRef": "N-MIM-42",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LBL",
@@ -5106,7 +5272,9 @@
       "regionId": "LBL",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-42"
+      "sourceRef": "N-WIS-42",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-LVU",
@@ -5142,7 +5310,9 @@
       "regionId": "LVU",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-43"
+      "sourceRef": "N-MIM-43",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-LVU",
@@ -5154,7 +5324,9 @@
       "regionId": "LVU",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-43"
+      "sourceRef": "N-WIS-43",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UBM",
@@ -5190,7 +5362,9 @@
       "regionId": "UBM",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-44"
+      "sourceRef": "N-MIM-44",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UBM",
@@ -5202,7 +5376,9 @@
       "regionId": "UBM",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-44"
+      "sourceRef": "N-WIS-44",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UHU",
@@ -5238,7 +5414,9 @@
       "regionId": "UHU",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-45"
+      "sourceRef": "N-MIM-45",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UHU",
@@ -5250,7 +5428,9 @@
       "regionId": "UHU",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-45"
+      "sourceRef": "N-WIS-45",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UVC",
@@ -5286,7 +5466,9 @@
       "regionId": "UVC",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-46"
+      "sourceRef": "N-MIM-46",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UVC",
@@ -5298,7 +5480,9 @@
       "regionId": "UVC",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-46"
+      "sourceRef": "N-WIS-46",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UCS",
@@ -5334,7 +5518,9 @@
       "regionId": "UCS",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-47"
+      "sourceRef": "N-MIM-47",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UCS",
@@ -5346,7 +5532,9 @@
       "regionId": "UCS",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-47"
+      "sourceRef": "N-WIS-47",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UTT",
@@ -5382,7 +5570,9 @@
       "regionId": "UTT",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-48"
+      "sourceRef": "N-MIM-48",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UTT",
@@ -5394,7 +5584,9 @@
       "regionId": "UTT",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-48"
+      "sourceRef": "N-WIS-48",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UHN",
@@ -5430,7 +5622,9 @@
       "regionId": "UHN",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-49"
+      "sourceRef": "N-MIM-49",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UHN",
@@ -5442,7 +5636,9 @@
       "regionId": "UHN",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-49"
+      "sourceRef": "N-WIS-49",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UHL",
@@ -5478,7 +5674,9 @@
       "regionId": "UHL",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-50"
+      "sourceRef": "N-MIM-50",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UHL",
@@ -5490,7 +5688,9 @@
       "regionId": "UHL",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-50"
+      "sourceRef": "N-WIS-50",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-URH",
@@ -5526,7 +5726,9 @@
       "regionId": "URH",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-51"
+      "sourceRef": "N-MIM-51",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-URH",
@@ -5538,7 +5740,9 @@
       "regionId": "URH",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-51"
+      "sourceRef": "N-WIS-51",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UDV",
@@ -5574,7 +5778,9 @@
       "regionId": "UDV",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-52"
+      "sourceRef": "N-MIM-52",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UDV",
@@ -5586,7 +5792,9 @@
       "regionId": "UDV",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-52"
+      "sourceRef": "N-WIS-52",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UDT",
@@ -5622,7 +5830,9 @@
       "regionId": "UDT",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-53"
+      "sourceRef": "N-MIM-53",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UDT",
@@ -5634,7 +5844,9 @@
       "regionId": "UDT",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-53"
+      "sourceRef": "N-WIS-53",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UUS",
@@ -5670,7 +5882,9 @@
       "regionId": "UUS",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-54"
+      "sourceRef": "N-MIM-54",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UUS",
@@ -5682,7 +5896,9 @@
       "regionId": "UUS",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-54"
+      "sourceRef": "N-WIS-54",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UCD",
@@ -5718,7 +5934,9 @@
       "regionId": "UCD",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-55"
+      "sourceRef": "N-MIM-55",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UCD",
@@ -5730,7 +5948,9 @@
       "regionId": "UCD",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-55"
+      "sourceRef": "N-WIS-55",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UVG",
@@ -5766,7 +5986,9 @@
       "regionId": "UVG",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-56"
+      "sourceRef": "N-MIM-56",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UVG",
@@ -5778,7 +6000,9 @@
       "regionId": "UVG",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-56"
+      "sourceRef": "N-WIS-56",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UBT",
@@ -5814,7 +6038,9 @@
       "regionId": "UBT",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-57"
+      "sourceRef": "N-MIM-57",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UBT",
@@ -5826,7 +6052,9 @@
       "regionId": "UBT",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-57"
+      "sourceRef": "N-WIS-57",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-SLM-UHH",
@@ -5862,7 +6090,9 @@
       "regionId": "UHH",
       "familyId": "MIM",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-MIM-58"
+      "sourceRef": "N-MIM-58",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     },
     {
       "id": "N-WIS-UHH",
@@ -5874,7 +6104,22 @@
       "regionId": "UHH",
       "familyId": "WIS",
       "source": "races-and-native-fauna-v01-2026-11-27/world-populations.json",
-      "sourceRef": "N-WIS-58"
+      "sourceRef": "N-WIS-58",
+      "distributionStatus": "withdrawn-universal-template",
+      "status": "Chưa chọn giữ; vùng ghi trong hồ sơ là phương án cũ."
     }
-  ]
+  ],
+  "review": {
+    "date": "2026-11-27",
+    "withdrawnUniversalFamilies": [
+      "MIM",
+      "WIS"
+    ],
+    "reason": "Mimic và Linh hỏa không có ở mọi vùng; không tạo biến thể chỉ để đủ địa danh.",
+    "retainedRecordsMeaning": "Kho ý tưởng cũ, không phải phân bố đã duyệt hoặc tổng số loài chính thức.",
+    "restrictedHabitatSelection": "Chưa chốt vị trí và số biến thể được giữ.",
+    "finalSpeciesCount": null,
+    "auditDocument": "Ashborne-Ra-soat-Nen-tang-The-gioi-2026-11-27.md",
+    "generatorStatus": "Các script v01 còn tái tạo mẫu cũ; không dùng kết quả của chúng để coi phân bố đã được duyệt."
+  }
 }

@@ -2,38 +2,38 @@
 
 Ngày: 27/11/2026. Các nhánh dưới đây là NPC/cộng đồng thiểu số, không có thẻ bài, chỉ số chiến đấu hoặc sở trường binh chủng riêng. Tên và địa bàn là đề xuất.
 
-## Tinh linh Quang Mạch
+## Thượng tiên tộc Quang Mạch
 
 | Nhánh NPC | Cõi và nơi sống | Năng lực thích nghi dùng trong kể chuyện | Giới hạn |
 | --- | --- | --- | --- |
-| Tinh linh Quang Mạch Tịch Quang | Linh giới — Tịch Quang | Quang Mạch Tịch Quang: Dùng ánh mạch bám cơ thể làm hiện biến động của ánh lặng và dư chấn, hỗ trợ lưu quang và giảm nhiễu. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
-| Tinh linh Quang Mạch Kính Hàn | Thế giới — Caldris | Quang Mạch Kính Hàn: Dùng ánh mạch bám cơ thể làm hiện biến động của băng trong và ánh lạnh, hỗ trợ khúc xạ và giữ nhiệt. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
-| Tinh linh Quang Mạch Mạch Hội | Thế giới — Ashborne | Quang Mạch Mạch Hội: Dùng ánh mạch bám cơ thể làm hiện biến động của linh mạch công trình, hỗ trợ dẫn lực cộng đồng. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
-| Tinh linh Quang Mạch Bạch Thạch | Linh giới — Bạch Thạch | Quang Mạch Bạch Thạch: Dùng ánh mạch bám cơ thể làm hiện biến động của thạch lực và ánh trắng, hỗ trợ ghi và dồn lực trong đá. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
-| Tinh linh Quang Mạch Kính Hồ | Linh giới — Hồ Linh Kính | Quang Mạch Kính Hồ: Dùng ánh mạch bám cơ thể làm hiện biến động của nước phản quang, hỗ trợ khúc xạ và giữ mạch nước. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
-| Tinh linh Quang Mạch Cựu Đô | Âm giới — Cựu Đô | Quang Mạch Cựu Đô: Dùng ánh mạch bám cơ thể làm hiện biến động của vật liệu cũ và dấu linh, hỗ trợ đọc vật và giữ mạch. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
+| Thượng tiên tộc Quang Mạch Tịch Quang | Linh giới — Tịch Quang | Quang Mạch Tịch Quang: Dùng ánh mạch bám cơ thể làm hiện biến động của ánh lặng và dư chấn, hỗ trợ lưu quang và giảm nhiễu. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
+| Thượng tiên tộc Quang Mạch Kính Hàn | Thế giới — Caldris | Quang Mạch Kính Hàn: Dùng ánh mạch bám cơ thể làm hiện biến động của băng trong và ánh lạnh, hỗ trợ khúc xạ và giữ nhiệt. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
+| Thượng tiên tộc Quang Mạch Mạch Hội | Thế giới — Ashborne | Quang Mạch Mạch Hội: Dùng ánh mạch bám cơ thể làm hiện biến động của linh mạch công trình, hỗ trợ dẫn lực cộng đồng. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
+| Thượng tiên tộc Quang Mạch Bạch Thạch | Linh giới — Bạch Thạch | Quang Mạch Bạch Thạch: Dùng ánh mạch bám cơ thể làm hiện biến động của thạch lực và ánh trắng, hỗ trợ ghi và dồn lực trong đá. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
+| Thượng tiên tộc Quang Mạch Kính Hồ | Linh giới — Hồ Linh Kính | Quang Mạch Kính Hồ: Dùng ánh mạch bám cơ thể làm hiện biến động của nước phản quang, hỗ trợ khúc xạ và giữ mạch nước. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
+| Thượng tiên tộc Quang Mạch Cựu Đô | Âm giới — Cựu Đô | Quang Mạch Cựu Đô: Dùng ánh mạch bám cơ thể làm hiện biến động của vật liệu cũ và dấu linh, hỗ trợ đọc vật và giữ mạch. | Chỉ cảm và dẫn một lượng lực nhỏ; không tự làm chủ mọi nguyên tố. |
 
-## Mộc tinh linh Cổ Lâm
-
-| Nhánh NPC | Cõi và nơi sống | Năng lực thích nghi dùng trong kể chuyện | Giới hạn |
-| --- | --- | --- | --- |
-| Mộc tinh linh Cổ Lâm Cổ Tán | Thế giới — Sylvar | Cộng Sinh Cổ Tán: Cảm mạch cây già qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
-| Mộc tinh linh Cổ Lâm Cổ Rễ | Linh giới — Cổ Linh Lâm | Cộng Sinh Cổ Rễ: Cảm rễ và sinh khí cây qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
-| Mộc tinh linh Cổ Lâm Rêu Đầm | Thế giới — Lorath | Cộng Sinh Rêu Đầm: Cảm mùn và rễ ngập qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
-| Mộc tinh linh Cổ Lâm Tro Mầm | Thế giới — Nameri | Cộng Sinh Tro Mầm: Cảm tro nguội và rễ mới qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
-| Mộc tinh linh Cổ Lâm Thiên Diệp | Linh giới — Thiên Diệp | Cộng Sinh Thiên Diệp: Cảm ánh lọc qua lá qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
-| Mộc tinh linh Cổ Lâm Lộc Thảo | Linh giới — Lộc Uyển | Cộng Sinh Lộc Thảo: Cảm sinh khí đàn thú qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
-
-## Hắc tinh linh Thạch Ảnh
+## Mộc tiên tộc Cổ Lâm
 
 | Nhánh NPC | Cõi và nơi sống | Năng lực thích nghi dùng trong kể chuyện | Giới hạn |
 | --- | --- | --- | --- |
-| Hắc tinh linh Thạch Ảnh Địa Ảnh | Thế giới — Duskell | Thạch Ảnh Địa Ảnh: Đọc dư chấn của âm dội và nấm sáng và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
-| Hắc tinh linh Thạch Ảnh U Sơn | Âm giới — U Sơn | Thạch Ảnh U Sơn: Đọc dư chấn của âm đá và khoáng tối và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
-| Hắc tinh linh Thạch Ảnh Quặng Rèn | Thế giới — Morcant | Thạch Ảnh Quặng Rèn: Đọc dư chấn của kim loại và rung đá và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
-| Hắc tinh linh Thạch Ảnh Vô Thanh | Âm giới — Vực Câm | Thạch Ảnh Vô Thanh: Đọc dư chấn của khoảng lặng và khí đá và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
-| Hắc tinh linh Thạch Ảnh Cựu Đô | Âm giới — Cựu Đô | Thạch Ảnh Cựu Đô: Đọc dư chấn của vật liệu cũ và dấu linh và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
-| Hắc tinh linh Thạch Ảnh Mộng Sắc | Linh giới — Mộng Triều | Thạch Ảnh Mộng Sắc: Đọc dư chấn của dư âm cảm giác và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
+| Mộc tiên tộc Cổ Lâm Cổ Tán | Thế giới — Sylvar | Cộng Sinh Cổ Tán: Cảm mạch cây già qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
+| Mộc tiên tộc Cổ Lâm Cổ Rễ | Linh giới — Cổ Linh Lâm | Cộng Sinh Cổ Rễ: Cảm rễ và sinh khí cây qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
+| Mộc tiên tộc Cổ Lâm Rêu Đầm | Thế giới — Lorath | Cộng Sinh Rêu Đầm: Cảm mùn và rễ ngập qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
+| Mộc tiên tộc Cổ Lâm Tro Mầm | Thế giới — Nameri | Cộng Sinh Tro Mầm: Cảm tro nguội và rễ mới qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
+| Mộc tiên tộc Cổ Lâm Thiên Diệp | Linh giới — Thiên Diệp | Cộng Sinh Thiên Diệp: Cảm ánh lọc qua lá qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
+| Mộc tiên tộc Cổ Lâm Lộc Thảo | Linh giới — Lộc Uyển | Cộng Sinh Lộc Thảo: Cảm sinh khí đàn thú qua mô cộng sinh rồi truyền sinh lực nhỏ vào rễ hoặc lớp cây quanh nơi trú. | Cần cây đang sống và quan hệ cộng sinh; không điều khiển cả khu rừng. |
+
+## Hắc tiên tộc Thạch Ảnh
+
+| Nhánh NPC | Cõi và nơi sống | Năng lực thích nghi dùng trong kể chuyện | Giới hạn |
+| --- | --- | --- | --- |
+| Hắc tiên tộc Thạch Ảnh Địa Ảnh | Thế giới — Duskell | Thạch Ảnh Địa Ảnh: Đọc dư chấn của âm dội và nấm sáng và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
+| Hắc tiên tộc Thạch Ảnh U Sơn | Âm giới — U Sơn | Thạch Ảnh U Sơn: Đọc dư chấn của âm đá và khoáng tối và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
+| Hắc tiên tộc Thạch Ảnh Quặng Rèn | Thế giới — Morcant | Thạch Ảnh Quặng Rèn: Đọc dư chấn của kim loại và rung đá và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
+| Hắc tiên tộc Thạch Ảnh Vô Thanh | Âm giới — Vực Câm | Thạch Ảnh Vô Thanh: Đọc dư chấn của khoảng lặng và khí đá và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
+| Hắc tiên tộc Thạch Ảnh Cựu Đô | Âm giới — Cựu Đô | Thạch Ảnh Cựu Đô: Đọc dư chấn của vật liệu cũ và dấu linh và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
+| Hắc tiên tộc Thạch Ảnh Mộng Sắc | Linh giới — Mộng Triều | Thạch Ảnh Mộng Sắc: Đọc dư chấn của dư âm cảm giác và đặt một bóng cảm giác ngắn để giấu chuyển động. | Cần nền phản xạ phù hợp; ánh hoặc âm quá rối làm lộ dấu. |
 
 ## Người lùn
 

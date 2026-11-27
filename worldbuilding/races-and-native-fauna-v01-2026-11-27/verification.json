@@ -25,7 +25,11 @@
     "exactly60BaseRaceProfiles": true,
     "noExtraArmyCards": true,
     "allNPCBranchesMinorityAndNoStats": true,
-    "fourNativeVariantsInEachRegion": true,
+    "fourNativeVariantsInEachRegion": {
+      "historicalTemplateResult": true,
+      "currentDesignRequirement": false,
+      "reason": "Quy tắc phủ mọi vùng bị rút đối với Mimic/Linh hỏa."
+    },
     "allNativeEffectsDistinct": true,
     "allRegionIdsValid": true,
     "slimeReferencesExistingRace60": true,
@@ -51,5 +55,19 @@
     38,
     46
   ],
-  "sealSourceSha256": "41482d460c3966a57daf5bbe79518aaab119267a5782c22e61e388f1779ae7cd"
+  "sealSourceSha256": "41482d460c3966a57daf5bbe79518aaab119267a5782c22e61e388f1779ae7cd",
+  "review": {
+    "date": "2026-11-27",
+    "withdrawnUniversalFamilies": [
+      "MIM",
+      "WIS"
+    ],
+    "reason": "Mimic và Linh hỏa không có ở mọi vùng; không tạo biến thể chỉ để đủ địa danh.",
+    "retainedRecordsMeaning": "Kho ý tưởng cũ, không phải phân bố đã duyệt hoặc tổng số loài chính thức.",
+    "restrictedHabitatSelection": "Chưa chốt vị trí và số biến thể được giữ.",
+    "finalSpeciesCount": null,
+    "auditDocument": "Ashborne-Ra-soat-Nen-tang-The-gioi-2026-11-27.md",
+    "generatorStatus": "Các script v01 còn tái tạo mẫu cũ; không dùng kết quả của chúng để coi phân bố đã được duyệt."
+  },
+  "status": "Kiểm tra cấu trúc mẫu cũ; không xác nhận tính hợp lý hoặc phê duyệt phân bố."
 }

@@ -1,5 +1,7 @@
 # Ashborne Dex sinh vật bản địa đề xuất
 
+> **Điều chỉnh 27/11/2026:** Đã rút phương án Mimic và Linh hỏa có đủ 58 biến thể ở 58 vùng. Các bảng và số 232/541 bên dưới lưu mẫu ý tưởng cũ, không phải phân bố hoặc tổng loài đã chốt. Chưa chọn số biến thể giữ lại. Xem [rà soát nền tảng thế giới](../../Ashborne-Ra-soat-Nen-tang-The-gioi-2026-11-27.md).
+
 Ngày: 27/11/2026. Bốn họ bản địa độc lập với 54 dòng Ấn; mỗi họ có một biến thể ở mỗi vùng trong 58 vùng thống kê. Không phải 232 loài sinh học đã được xác lập.
 
 Niêm thể dùng chung họ với hồ sơ chủng số 60. Tiểu long là sinh vật trưởng thành cỡ nhỏ/vừa, không phải rồng con hay Long nhân. Linh hỏa không mặc định là người chết. Các biến thể địa phương là quần thể ổn định, không có nghĩa một cá thể tự đổi thành mọi dạng ngay khi đổi vùng.

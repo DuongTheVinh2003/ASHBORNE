@@ -5,7 +5,7 @@
   "entries": [
     {
       "id": "NPC-ELF-Q-01",
-      "name": "Tinh linh Quang Mạch Tịch Quang",
+      "name": "Thượng tiên tộc Quang Mạch Tịch Quang",
       "baseRaceRef": 2,
       "regionId": "LTQ",
       "realm": "L",
@@ -13,7 +13,7 @@
     },
     {
       "id": "NPC-ELF-Q-02",
-      "name": "Tinh linh Quang Mạch Kính Hàn",
+      "name": "Thượng tiên tộc Quang Mạch Kính Hàn",
       "baseRaceRef": 2,
       "regionId": "WCA",
       "realm": "W",
@@ -21,7 +21,7 @@
     },
     {
       "id": "NPC-ELF-Q-03",
-      "name": "Tinh linh Quang Mạch Mạch Hội",
+      "name": "Thượng tiên tộc Quang Mạch Mạch Hội",
       "baseRaceRef": 2,
       "regionId": "WAS",
       "realm": "W",
@@ -29,7 +29,7 @@
     },
     {
       "id": "NPC-ELF-Q-04",
-      "name": "Tinh linh Quang Mạch Bạch Thạch",
+      "name": "Thượng tiên tộc Quang Mạch Bạch Thạch",
       "baseRaceRef": 2,
       "regionId": "LBT",
       "realm": "L",
@@ -37,7 +37,7 @@
     },
     {
       "id": "NPC-ELF-Q-05",
-      "name": "Tinh linh Quang Mạch Kính Hồ",
+      "name": "Thượng tiên tộc Quang Mạch Kính Hồ",
       "baseRaceRef": 2,
       "regionId": "LHK",
       "realm": "L",
@@ -45,7 +45,7 @@
     },
     {
       "id": "NPC-ELF-Q-06",
-      "name": "Tinh linh Quang Mạch Cựu Đô",
+      "name": "Thượng tiên tộc Quang Mạch Cựu Đô",
       "baseRaceRef": 2,
       "regionId": "UCD",
       "realm": "U",
@@ -53,7 +53,7 @@
     },
     {
       "id": "NPC-ELF-M-01",
-      "name": "Mộc tinh linh Cổ Lâm Cổ Tán",
+      "name": "Mộc tiên tộc Cổ Lâm Cổ Tán",
       "baseRaceRef": 3,
       "regionId": "WSY",
       "realm": "W",
@@ -61,7 +61,7 @@
     },
     {
       "id": "NPC-ELF-M-02",
-      "name": "Mộc tinh linh Cổ Lâm Cổ Rễ",
+      "name": "Mộc tiên tộc Cổ Lâm Cổ Rễ",
       "baseRaceRef": 3,
       "regionId": "LCL",
       "realm": "L",
@@ -69,7 +69,7 @@
     },
     {
       "id": "NPC-ELF-M-03",
-      "name": "Mộc tinh linh Cổ Lâm Rêu Đầm",
+      "name": "Mộc tiên tộc Cổ Lâm Rêu Đầm",
       "baseRaceRef": 3,
       "regionId": "WLO",
       "realm": "W",
@@ -77,7 +77,7 @@
     },
     {
       "id": "NPC-ELF-M-04",
-      "name": "Mộc tinh linh Cổ Lâm Tro Mầm",
+      "name": "Mộc tiên tộc Cổ Lâm Tro Mầm",
       "baseRaceRef": 3,
       "regionId": "WNA",
       "realm": "W",
@@ -85,7 +85,7 @@
     },
     {
       "id": "NPC-ELF-M-05",
-      "name": "Mộc tinh linh Cổ Lâm Thiên Diệp",
+      "name": "Mộc tiên tộc Cổ Lâm Thiên Diệp",
       "baseRaceRef": 3,
       "regionId": "LTD",
       "realm": "L",
@@ -93,7 +93,7 @@
     },
     {
       "id": "NPC-ELF-M-06",
-      "name": "Mộc tinh linh Cổ Lâm Lộc Thảo",
+      "name": "Mộc tiên tộc Cổ Lâm Lộc Thảo",
       "baseRaceRef": 3,
       "regionId": "LLU",
       "realm": "L",
@@ -101,7 +101,7 @@
     },
     {
       "id": "NPC-ELF-A-01",
-      "name": "Hắc tinh linh Thạch Ảnh Địa Ảnh",
+      "name": "Hắc tiên tộc Thạch Ảnh Địa Ảnh",
       "baseRaceRef": 4,
       "regionId": "WDU",
       "realm": "W",
@@ -109,7 +109,7 @@
     },
     {
       "id": "NPC-ELF-A-02",
-      "name": "Hắc tinh linh Thạch Ảnh U Sơn",
+      "name": "Hắc tiên tộc Thạch Ảnh U Sơn",
       "baseRaceRef": 4,
       "regionId": "UUS",
       "realm": "U",
@@ -117,7 +117,7 @@
     },
     {
       "id": "NPC-ELF-A-03",
-      "name": "Hắc tinh linh Thạch Ảnh Quặng Rèn",
+      "name": "Hắc tiên tộc Thạch Ảnh Quặng Rèn",
       "baseRaceRef": 4,
       "regionId": "WMO",
       "realm": "W",
@@ -125,7 +125,7 @@
     },
     {
       "id": "NPC-ELF-A-04",
-      "name": "Hắc tinh linh Thạch Ảnh Vô Thanh",
+      "name": "Hắc tiên tộc Thạch Ảnh Vô Thanh",
       "baseRaceRef": 4,
       "regionId": "UVC",
       "realm": "U",
@@ -133,7 +133,7 @@
     },
     {
       "id": "NPC-ELF-A-05",
-      "name": "Hắc tinh linh Thạch Ảnh Cựu Đô",
+      "name": "Hắc tiên tộc Thạch Ảnh Cựu Đô",
       "baseRaceRef": 4,
       "regionId": "UCD",
       "realm": "U",
@@ -141,7 +141,7 @@
     },
     {
       "id": "NPC-ELF-A-06",
-      "name": "Hắc tinh linh Thạch Ảnh Mộng Sắc",
+      "name": "Hắc tiên tộc Thạch Ảnh Mộng Sắc",
       "baseRaceRef": 4,
       "regionId": "LMT",
       "realm": "L",

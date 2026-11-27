@@ -1,5 +1,7 @@
 # Ashborne Ghi chú thế giới trước khi viết lại cốt truyện
 
+> **Cập nhật 27/11/2026:** Người dùng đã bổ sung và chốt một phần khung thế giới tại [Khung Tam Giới đã chốt](Ashborne-Khung-Tam-Gioi-Da-Chot-2026-11-27.md), gồm điều kiện sống ở ba cõi, thứ tự lịch sử, năm tồn tại thời kỳ đầu và hội giữ phong ấn. Các dòng chờ phát triển dưới đây phản ánh thời điểm 26/11; khi khác quyết định mới, ưu tiên khung ngày 27/11. Lối vào Linh giới và phương án biến cố mới vẫn được ghi riêng dưới dạng đề xuất.
+
 Ngày ghi nhận: **26 tháng 11 năm 2026**.
 
 File này lưu các ghi chú của người dùng cho lần xây dựng thế giới và viết lại cốt truyện tiếp theo. Những yêu cầu được ghi nhận bên dưới chưa phải một bản lore hoàn chỉnh; các chi tiết còn thiếu tiếp tục để mở.

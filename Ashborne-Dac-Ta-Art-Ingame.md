@@ -441,3 +441,13 @@ Prompt hỗ trợ truyền đạt; ảnh chuẩn, brief của asset và tiêu ch
 Hạng mục hoàn thành khi **asset ghép trong cảnh giữ đúng chất ref, hoạt động với chuyển động/UI liên quan và có đủ dữ liệu bàn giao để dùng tiếp**. Không dừng ở ảnh concept đẹp hoặc ảnh phóng lớn che giấu lỗi ở kích thước chơi.
 
 Mọi thay đổi về style sau này cần ghi lại rõ để các đợt asset không lệch nhau. Font hiện hành và ảnh chuẩn được giữ cố định cho tới khi người dùng yêu cầu thay đổi.
+
+## 22. Ký tự cổ Vāryan
+
+Bổ sung ngày **27/11/2026**. Với pháp trận, cổ thư, văn khắc và các vật mang nội dung cổ xưa, huyền bí, tham chiếu [ảnh Vāryan](art/script-reference/varyan/varyan-script-reference.png) và [quy ước sử dụng](Ashborne-Varyan-Chu-Co-va-Quy-uoc-Su-dung-v01.md).
+
+- Khi tạo hình có chữ cổ, đưa ảnh Vāryan vào làm ref hình chữ, đồng thời dùng approved-scene-v2.png làm ref chất vẽ. Giữ vai trò từng ảnh riêng.
+- Kiểm tra thân chữ, dấu phụ và chuỗi ký tự lặp lại theo cùng bảng; không thay bằng chữ rune/Unicode ngẫu nhiên. Văn khắc có ý nghĩa cần lưu nội dung và cách phiên âm đi kèm.
+- Giữ nhịp nét và khoảng trống để chữ không thành texture nhiễu ở kích thước chơi; ánh sáng theo cảnh và cơ chế.
+- Nội dung người chơi phải đọc có bản dịch hoặc diễn giải bằng Veil v0.3. Vāryan không thay font cơ chế và HUD.
+- Chưa coi ảnh bảng chữ là font, vector hoặc bộ pháp trận dùng được ngay; cần kiểm tra glyph riêng khi sản xuất.

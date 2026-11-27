@@ -7,6 +7,8 @@ Tài liệu concept cho hệ card quân đội ở Phase 1. Nội dung tổng h�
 - **Đề xuất** — Phương án hoặc ví dụ để duyệt.
 - **Chưa chốt** — Cần quyết định trước khi đặc tả hoặc triển khai phần tương ứng.
 
+> **Thuật ngữ cập nhật 27/11/2026:** Elf gọi là **Tiên tộc**; High Elf = **Thượng tiên tộc**, Wood Elf = **Mộc tiên tộc**, Dark Elf = **Hắc tiên tộc**. Các nhánh Quang Mạch/Cổ Lâm/Thạch Ảnh dùng cùng cách gọi mới. **Tinh linh** dùng cho nhóm nhỏ có cánh, bay được (Fairy/Pixie), phân biệt với Elf. Đây là điều chỉnh tên và nhận diện, không tự cấp cơ chế bay trong combat hoặc đổi chỉ số.
+
 ## 1. Cấu trúc một đơn vị
 
 | Thành phần | Quyết định điều gì |
@@ -40,8 +42,8 @@ Mỗi chủng có tối đa hai binh chủng sở trường. Một lá Chủng t
 | --- | --- |
 | Cự nhân núi + Khiên binh | Tổ hợp sở trường thiên về chống chịu. |
 | Cự nhân núi + Pháp binh | Ví dụ tổ hợp rất yếu và đắt. Nâng bậc Pháp binh vẫn giữ bất lợi tương thích. |
-| Mộc tinh linh + Cung binh | Hướng bắn xa chuyên dụng. |
-| Mộc tinh linh + Giáo binh | Hướng giữ khoảng cách và đánh chặn. |
+| Mộc tiên tộc + Cung binh | Hướng bắn xa chuyên dụng. |
+| Mộc tiên tộc + Giáo binh | Hướng giữ khoảng cách và đánh chặn. |
 
 ## 3. Phạm vi khởi đầu và binh chủng ứng viên
 
@@ -66,9 +68,9 @@ Mã giữ theo tài liệu nguồn để dễ đối chiếu. Tên và sở trư
 | Mã | Chủng hoặc nhánh | Hình tượng | Sở trường đề xuất |
 | --- | --- | --- | --- |
 | 01 | Human — Nhân tộc | Vương quốc, đế chế, tham vọng, kỷ luật; mạnh nhờ tổ chức và huấn luyện. | Giáo, Khiên |
-| 02 | High Elf — Cao tinh linh | Cổ xưa, thanh lịch, kiêu hãnh, học thuật và ma thuật tinh vi. | Pháp, Kiếm |
-| 03 | Wood Elf — Mộc tinh linh | Rừng sâu, thợ săn, kín đáo; bảo vệ thiên nhiên quyết liệt. | Cung, Giáo |
-| 04 | Dark Elf — Hắc tinh linh | Cư dân rừng tối và hang đá; các nhánh NPC có mắt thích nghi thiếu sáng, nghe dư chấn và giấu dấu bằng bóng. Không mặc định cùng một đạo đức hoặc phe phái. | Kiếm, Pháp |
+| 02 | High Elf — Thượng tiên tộc | Cổ xưa, thanh lịch, kiêu ngạo, học thuật và ma thuật tinh vi. | Pháp, Kiếm |
+| 03 | Wood Elf — Mộc tiên tộc | Rừng sâu, thợ săn, kín đáo; bảo vệ thiên nhiên quyết liệt. | Cung, Giáo |
+| 04 | Dark Elf — Hắc tiên tộc | Cư dân rừng tối và hang đá; các nhánh NPC có mắt thích nghi thiếu sáng, nghe dư chấn và giấu dấu bằng bóng. Không mặc định cùng một đạo đức hoặc phe phái. | Kiếm, Pháp |
 | 05 | Dwarf — Người lùn | Thành trì trong núi, lò rèn, giáp nặng, gia tộc và bền bỉ. | Khiên, Kiếm |
 | 06 | Orc | Thể lực, chiến tranh, danh dự bộ tộc hoặc chinh phạt; đánh trực diện. | Kiếm, Giáo |
 | 07 | Goblin | Nhỏ con, cơ hội, đông đúc, bẫy, đồ chế và mưu mẹo. | Cung, Pháp |
@@ -148,7 +150,7 @@ Hình tượng trong tín ngưỡng, thần thoại và tác phẩm giải trí 
 
 | Mã | Chủng hoặc nhánh | Hình tượng | Sở trường đề xuất |
 | --- | --- | --- | --- |
-| 42 | Fairy hoặc Pixie — Tiểu tiên | Nhỏ, có cánh, đẹp nhưng khó lường, mê hoặc và trò đùa. | Pháp, Cung |
+| 42 | Fairy hoặc Pixie — Tinh linh | Nhỏ, có cánh, đẹp nhưng khó lường, mê hoặc và trò đùa. | Pháp, Cung |
 | 43 | Dryad — Mộc linh | Linh hồn cây, vẻ đẹp tự nhiên, bảo vệ rừng hoặc trả thù khi cây bị hại. | Pháp, Cung |
 | 44 | Treant — Thụ nhân | Cây sống lâu đời, chậm nhưng mạnh, canh giữ rừng. | Khiên, Giáo |
 | 45 | Nymph — Tự nhiên linh | Hiện thân của suối, hồ, núi hoặc rừng; duyên dáng, huyền bí. | Pháp |
@@ -186,7 +188,7 @@ Elemental, Celestial và Fiend là họ rất rộng: cần chọn một phiên 
 
 ## 5. Quân hai chuyên môn — đề xuất
 
-Hai sở trường cho một chủng hai hướng ghép hiệu quả. Để tạo một đơn vị mang đồng thời hai chuyên môn, phương án đang cân nhắc là ghép một lá Chủng tộc với hai lá Binh chủng khác loại, cùng bậc. Ví dụ **Mộc tinh linh + Cung binh + Giáo binh** có thể bắn xa và chống xung phong.
+Hai sở trường cho một chủng hai hướng ghép hiệu quả. Để tạo một đơn vị mang đồng thời hai chuyên môn, phương án đang cân nhắc là ghép một lá Chủng tộc với hai lá Binh chủng khác loại, cùng bậc. Ví dụ **Mộc tiên tộc + Cung binh + Giáo binh** có thể bắn xa và chống xung phong.
 
 Hướng cân bằng là tăng chi phí để đổi lấy tính linh hoạt, với hiệu quả từng vai trò thấp hơn quân chuyên dụng. Điều kiện cùng bậc, khả năng dùng chuyên môn ngoài sở trường và chi phí đều cần chốt.
 

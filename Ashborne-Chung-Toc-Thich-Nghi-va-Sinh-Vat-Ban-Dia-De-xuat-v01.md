@@ -1,12 +1,16 @@
 # Ashborne Chủng tộc thích nghi và sinh vật bản địa đề xuất v01
 
+> **Danh mục bổ sung hiện hành 27/11/2026:** [Rồng và sinh vật bản địa v03](Ashborne-Rong-va-Sinh-Vat-Ban-Dia-v03.md) có 12 nhóm rồng/long thú, 4 loài nước, 4 loài bay, 4 loài dưới đất và 26 biến thể rồng phổ biến. Drake dùng lại họ DRK; 10 nhánh Drake ở v03 là bộ hiện hành, các mẫu 58 vùng ở bản cũ chỉ lưu tham khảo, không cộng song song. Tổng phần bổ sung là 50 mục thiết kế ở nhiều cấp phân loại; không cộng thẳng vào 541 hồ sơ lịch sử để công bố số loài chính thức.
+
+> **Điều chỉnh 27/11/2026:** Đã rút phương án Mimic và Linh hỏa có đủ 58 biến thể ở 58 vùng. Các bảng và số 232/541 bên dưới lưu mẫu ý tưởng cũ, không phải phân bố hoặc tổng loài đã chốt. Chưa chọn số biến thể giữ lại. Xem [rà soát nền tảng thế giới](Ashborne-Ra-soat-Nen-tang-The-gioi-2026-11-27.md).
+
 Ngày: **27/11/2026**. Bản này điều chỉnh cách phân bố và thể hiện một số họ trong 60 hồ sơ, bổ sung sinh vật bản địa có nhiều biến thể. Các nhánh chủng tộc là **NPC/cộng đồng thiểu số, không làm thẻ bài hoặc chỉ số riêng**.
 
 Giữ **60 hồ sơ nền**. Đề xuất **99 nhánh NPC** và **4 họ sinh vật bản địa với 232 biến thể** tại **58 vùng**. Những con số này là số mục thiết kế, không phải số dân hoặc xác suất xuất hiện.
 
 ## 1 Kết quả tham khảo fantasy
 
-Không có một danh mục thống nhất cho tất cả tác phẩm để xác định chủng nhiều biến thể nhất toàn ngành. Trong phạm vi các nguồn D&D chính thức đã kiểm tra, Long nhân/rồng, Tinh linh, Người lùn và các nhánh cự nhân có nhiều mẫu phân hóa phù hợp tham khảo. Không cộng bản Legacy/2024, tuổi của rồng hoặc tên gọi đồng nghĩa thành loài mới.
+Không có một danh mục thống nhất cho tất cả tác phẩm để xác định chủng nhiều biến thể nhất toàn ngành. Trong phạm vi các nguồn D&D chính thức đã kiểm tra, Long nhân/rồng, Tiên tộc, Người lùn và các nhánh cự nhân có nhiều mẫu phân hóa phù hợp tham khảo. Không cộng bản Legacy/2024, tuổi của rồng hoặc tên gọi đồng nghĩa thành loài mới.
 
 | Phạm vi nguồn | Quan sát dùng được | Cách áp dụng cho Ashborne |
 | --- | --- | --- |
@@ -19,9 +23,9 @@ Các số lượng nhánh dưới đây là lựa chọn thiết kế, không ph
 
 | Họ hoặc nhóm | Nhánh NPC đề xuất | Hướng phân bố |
 | --- | ---: | --- |
-| Tinh linh Quang Mạch | 6 | Linh giới, Thế giới, Âm giới |
-| Mộc tinh linh Cổ Lâm | 6 | Thế giới, Linh giới |
-| Hắc tinh linh Thạch Ảnh | 6 | Thế giới, Âm giới, Linh giới |
+| Thượng tiên tộc Quang Mạch | 6 | Linh giới, Thế giới, Âm giới |
+| Mộc tiên tộc Cổ Lâm | 6 | Thế giới, Linh giới |
+| Hắc tiên tộc Thạch Ảnh | 6 | Thế giới, Âm giới, Linh giới |
 | Người lùn | 12 | Thế giới, Linh giới, Âm giới |
 | Long nhân | 12 | Thế giới, Linh giới, Âm giới |
 | Goblin | 10 | Thế giới, Linh giới, Âm giới |
@@ -38,7 +42,7 @@ Các số lượng nhánh dưới đây là lựa chọn thiết kế, không ph
 | Hồ ly Mộng Triều | 3 | Linh giới, Thế giới, Âm giới |
 | Nấm nhân Bào Linh | 2 | Linh giới, Âm giới |
 
-Tinh linh có tổng 18 nhánh qua ba nhóm hiện có. Số điểm cư trú tăng nhưng các nhánh vẫn là dân cư thiểu số. Một họ xuất hiện ở nhiều cõi không có nghĩa mọi thành viên được tự qua cõi. Không gắn nhánh với đạo đức, nghề nghiệp hay phe phái duy nhất.
+Tiên tộc có tổng 18 nhánh qua ba nhóm hiện có. Số điểm cư trú tăng nhưng các nhánh vẫn là dân cư thiểu số. Một họ xuất hiện ở nhiều cõi không có nghĩa mọi thành viên được tự qua cõi. Không gắn nhánh với đạo đức, nghề nghiệp hay phe phái duy nhất.
 
 Các cách gọi như Quang Mạch, Thạch Ảnh, Băng Nham, Tro Đảo, Hải Nham là nhãn nhánh NPC hoặc hướng thể hiện địa phương. Không tự đổi tên thẻ nền, thêm lá, thêm sở trường hoặc thay luật ghép quân. Cự nhân núi tiếp tục giữ bất lợi với Pháp binh theo luật hiện hành.
 

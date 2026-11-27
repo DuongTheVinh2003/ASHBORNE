@@ -1,7 +1,7 @@
 {
   "version": "0.1",
   "date": "2026-11-27",
-  "status": "Đề xuất phân bố, tên nhánh và năng lực; ràng buộc NPC thiểu số không có thẻ/chỉ số là yêu cầu người dùng.",
+  "status": "Bản nháp có phần đã rút: phân bố Mimic/Linh hỏa ở đủ 58 vùng không còn hiệu lực.",
   "regions": [
     {
       "id": "WHR",
@@ -996,7 +996,7 @@
       "sourceIds": [
         2
       ],
-      "label": "Tinh linh Quang Mạch",
+      "label": "Thượng tiên tộc Quang Mạch",
       "variants": [
         "LTQ",
         "WCA",
@@ -1012,7 +1012,7 @@
       "sourceIds": [
         3
       ],
-      "label": "Mộc tinh linh Cổ Lâm",
+      "label": "Mộc tiên tộc Cổ Lâm",
       "variants": [
         "WSY",
         "LCL",
@@ -1028,7 +1028,7 @@
       "sourceIds": [
         4
       ],
-      "label": "Hắc tinh linh Thạch Ảnh",
+      "label": "Hắc tiên tộc Thạch Ảnh",
       "variants": [
         "WDU",
         "UUS",
@@ -1274,9 +1274,9 @@
     }
   ],
   "aliases": {
-    "2": "Cao tinh linh Quang Mạch",
-    "3": "Mộc tinh linh Cổ Lâm",
-    "4": "Hắc tinh linh Thạch Ảnh",
+    "2": "Thượng tiên tộc Quang Mạch",
+    "3": "Mộc tiên tộc Cổ Lâm",
+    "4": "Hắc tiên tộc Thạch Ảnh",
     "11": "Cự nhân Sơn Thạch",
     "13": "Troll Rêu Đầm",
     "14": "Độc nhãn cự nhân Băng Nham",
@@ -1335,9 +1335,28 @@
   },
   "nativePolicy": {
     "origin": "Độc lập với 54 dòng Ấn Thú",
-    "onePerFamilyPerRegion": true,
+    "onePerFamilyPerRegion": false,
     "plasticity": "Mạnh hơn hậu duệ Ấn Thú trong việc hình thành biến thể theo nơi sống",
     "frequency": "Phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh; đông thưa mô tả định tính, không phải số cá thể đo đạc",
-    "slimeAlias": "Họ Niêm thể đã có ở hồ sơ 60; cá thể hoang và nhánh có ý thức không được tính thành hai họ khác nhau."
+    "slimeAlias": "Họ Niêm thể đã có ở hồ sơ 60; cá thể hoang và nhánh có ý thức không được tính thành hai họ khác nhau.",
+    "familyDistributionReview": {
+      "MIM": "Không phủ mọi vùng; chờ chọn sinh cảnh và thu gọn biến thể.",
+      "WIS": "Không phủ mọi vùng; chờ chọn sinh cảnh và thu gọn biến thể.",
+      "SLM": "Phân bố rộng vẫn là đề xuất; không tự coi mọi biến thể là đã duyệt.",
+      "DRK": "Phân bố rộng vẫn là đề xuất; không tự coi mọi biến thể là đã duyệt."
+    }
+  },
+  "review": {
+    "date": "2026-11-27",
+    "withdrawnUniversalFamilies": [
+      "MIM",
+      "WIS"
+    ],
+    "reason": "Mimic và Linh hỏa không có ở mọi vùng; không tạo biến thể chỉ để đủ địa danh.",
+    "retainedRecordsMeaning": "Kho ý tưởng cũ, không phải phân bố đã duyệt hoặc tổng số loài chính thức.",
+    "restrictedHabitatSelection": "Chưa chốt vị trí và số biến thể được giữ.",
+    "finalSpeciesCount": null,
+    "auditDocument": "Ashborne-Ra-soat-Nen-tang-The-gioi-2026-11-27.md",
+    "generatorStatus": "Các script v01 còn tái tạo mẫu cũ; không dùng kết quả của chúng để coi phân bố đã được duyệt."
   }
 }

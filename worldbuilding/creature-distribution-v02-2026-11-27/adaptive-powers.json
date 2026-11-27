@@ -1,0 +1,1944 @@
+{
+  "A♠": [
+    {
+      "name": "Áo Rêu Hư Ảnh",
+      "effect": "Tạo bóng rêu lay động trên giáp để xóa đường viền cơ thể.",
+      "limit": "Chỉ hiệu quả giữa rêu và tán ẩm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nảy Mầm Giáp",
+      "effect": "Hút sinh khí nhựa cây để tự vá những vết nứt nhỏ trên vỏ.",
+      "limit": "Cần cây còn sống và phải đứng yên.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vỏ Nén Tro",
+      "effect": "Nén tro nguội thành lớp giáp mỏng bám ngoài thân.",
+      "limit": "Giáp rã khi gặp dòng nước mạnh.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lướt Lá Kín",
+      "effect": "Gom lá quanh thân thành một màn che di chuyển cùng nó.",
+      "limit": "Màn lá tan khi rời tán rừng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Dẫn Nhựa Rễ",
+      "effect": "Chuyển sinh lực từ rễ bị thương sang đoạn rễ khác đang sống.",
+      "limit": "Không rút được sức từ cây chết.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Màn Mù Phấn Đá",
+      "effect": "Rải phấn khoáng tạo hình bóng giả trên mặt đá.",
+      "limit": "Gió mạnh hoặc nước cuốn sạch phấn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "2♠": [
+    {
+      "name": "Bám Ảnh Thạch",
+      "effect": "Bàn chân hút lấy thổ lực để bám cả mặt đá nhẵn.",
+      "limit": "Mất tác dụng trên bề mặt gỗ và bùn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lặn Cát Mỏng",
+      "effect": "Làm lớp cát sát thân tơi ra để lặn khỏi mặt cát.",
+      "limit": "Không xuyên được đá hoặc đất kết cứng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vảy Hấp Nhiệt",
+      "effect": "Hút nhiệt từ nền đá rồi nhả thành hơi nóng khi bị chạm.",
+      "limit": "Quá nhiệt buộc nó nằm bất động để tản nhiệt.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Da Mượn Lá",
+      "effect": "Da mô phỏng chuyển động của bóng lá, tạo ngụy trang ảo giác.",
+      "limit": "Ánh sáng đều hoặc tán trống làm lộ thân.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Khâu Lá Gió",
+      "effect": "Dính các mép lá thành mái trú mưa tạm bằng một lớp khí lực.",
+      "limit": "Chỉ khâu được lá mỏng còn ẩm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Sờ Đá Bằng Âm",
+      "effect": "Phát xung qua chân để nhận hình vật cản sau lớp đá mỏng.",
+      "limit": "Đất rời làm tán mất xung.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "3♠": [
+    {
+      "name": "Vành Uy Đàn",
+      "effect": "Tỏa uy lực khiến con mồi ở gần chần chừ trước một cú lao.",
+      "limit": "Không áp chế được sinh vật mạnh hơn rõ rệt.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giáp Thanh Dội",
+      "effect": "Âm dội từ vách đá quấn thành lớp đệm giảm chấn quanh ngực.",
+      "limit": "Cần hẻm đá; đồng trống không tạo được lớp đệm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Bờm Hương Trấn",
+      "effect": "Bờm tiết linh hương làm sinh vật trong đàn bớt hoảng loạn.",
+      "limit": "Hiệu lực mất nhanh khi xa đàn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hơi Thở Sương Bịt",
+      "effect": "Thở ra sương lạnh làm mờ đường rút lui.",
+      "limit": "Chỉ tạo màn ngắn, không đóng băng mục tiêu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "4♠": [
+    {
+      "name": "Mõm Đánh Thức Rễ",
+      "effect": "Gõ mõm xuống đất khiến rễ nhỏ trồi lên giữ chân con mồi.",
+      "limit": "Chỉ gọi được rễ đã có trong đất.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vành Đất Bờ Ruộng",
+      "effect": "Húc nền đất mềm tạo gờ đất che phía trước thân.",
+      "limit": "Không nâng nổi đá tảng hoặc nền lát.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lông Giữ Hơi",
+      "effect": "Lông kết khí lực thành túi giữ ấm quanh cả đàn.",
+      "limit": "Suy yếu khi bị ngâm nước lâu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Phả Tro Mù",
+      "effect": "Phun lớp tro tích trên lưng thành bóng giả có dáng một con lợn.",
+      "limit": "Cần tự lăn tro để tích lại vật liệu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mầm Dẫn Lối",
+      "effect": "Để lại rễ sáng yếu chỉ đàn của nó cảm nhận được.",
+      "limit": "Chỉ mọc trên nền rừng còn ẩm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hơi Mùn Ẩn Dấu",
+      "effect": "Biến mùi cơ thể thành mùi mùn phủ lên dấu chân vừa đi.",
+      "limit": "Không xóa được dấu trên đá khô.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "5♠": [
+    {
+      "name": "Nhịp Cỏ Lạc",
+      "effect": "Rung chân khiến tiếng động dường như phát từ bụi cỏ khác.",
+      "limit": "Cần nhiều thân cỏ để truyền rung.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gom Sương Cánh",
+      "effect": "Gom hơi ẩm thành giọt nước trên cánh để sống qua ngày khô.",
+      "limit": "Không tạo nước ở nơi hoàn toàn khô kiệt.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Bật Bóng Lá",
+      "effect": "Để lại một hình lá rung thay cho cơ thể sau cú nhảy.",
+      "limit": "Ảnh tan ngay khi bị chạm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Bám Khe Khí",
+      "effect": "Đóng một điểm tựa khí lực thoáng qua dưới chân khi đáp.",
+      "limit": "Không thể đứng lâu hoặc bay tự do.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Thổi Tro Mầm",
+      "effect": "Thổi luồng sinh khí làm cỏ non bật lên để che nơi đẻ.",
+      "limit": "Chỉ kích được hạt còn sống trên tro nguội.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "6♠": [
+    {
+      "name": "Màn Hương Rừng",
+      "effect": "Tạo mùi rừng giả để làm lệch hướng thú săn bằng khứu giác.",
+      "limit": "Mưa lớn làm trôi lớp hương.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Bước Sương Nhẹ",
+      "effect": "Để móng chạm sương thay mặt đất, giảm tiếng và dấu bước.",
+      "limit": "Chỉ dùng được khi có sương sát nền.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Móng Băng Hoa",
+      "effect": "Kết một lớp băng bám dưới móng để đứng chắc trên mặt trơn.",
+      "limit": "Phải có nước hoặc băng sẵn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gọi Sương Sườn",
+      "effect": "Sừng kéo hơi ẩm thành màn sương mỏng bảo vệ đàn.",
+      "limit": "Gió mạnh xé tan màn sương.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vọng Đường Về",
+      "effect": "Tiếng sừng để lại một dấu âm mà đàn tìm về được qua sương.",
+      "limit": "Không giữ dấu sau khi môi trường bị xáo trộn lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "7♠": [
+    {
+      "name": "Giáp Ký Ức Triều",
+      "effect": "Lớp giáp làm nước trượt quanh thân như một mái vòm nhỏ.",
+      "limit": "Chỉ hoạt động khi ngập nước.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nghe Vân Đá",
+      "effect": "Đọc dư chấn trong đá để nhận biết một đường nứt sắp lan.",
+      "limit": "Không nhìn được tương lai ngoài vỉa đá đang chạm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Sóng Kính Che",
+      "effect": "Gợn nước tạo một lớp hình ảnh lệch vị trí thật của thân.",
+      "limit": "Nước đục hoặc xoáy mạnh phá hình ảnh.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "8♠": [
+    {
+      "name": "Đầm Bùn Hộ",
+      "effect": "Nén bùn quanh chân thành vành đệm cản cú va chạm.",
+      "limit": "Cần bùn ướt và làm thân nặng hơn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mở Rễ Bước",
+      "effect": "Khí lực quanh vai tách cây bụi mảnh thành lối đi rồi khép lại.",
+      "limit": "Không tách được thân cây lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lông Dệt Mây",
+      "effect": "Dệt sương thành mái che mưa gió nhỏ cho đàn nghỉ.",
+      "limit": "Không tạo được mặt đất trên mây.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Cỏ Bụi Khoáng",
+      "effect": "Hơi thở khiến cỏ phủ bụi khoáng thành những lưỡi sắc bảo vệ bãi ăn.",
+      "limit": "Chỉ tác động khoảnh cỏ gần nơi đứng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "9♠": [
+    {
+      "name": "Đốm Hòa Bóng",
+      "effect": "Các đốm kéo dài thành bóng tối che chuyển động trước cú vồ.",
+      "limit": "Mất tác dụng dưới ánh sáng không có bóng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Da Nhiễu Nắng",
+      "effect": "Làm ánh nắng quanh thân rung như hơi nóng, che dáng ở xa.",
+      "limit": "Không che được khi đứng sát đối thủ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mượn Bóng Tán",
+      "effect": "Chuyển đường viền cơ thể sang bóng một tán lá kế bên.",
+      "limit": "Phải có bóng thật gần nó.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mộng Dẫn Mồi",
+      "effect": "Tạo tiếng chân giả khiến con mồi nhìn sai hướng.",
+      "limit": "Không điều khiển được ý chí hoặc trí nhớ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nuốt Tiếng Bước",
+      "effect": "Hút âm bước chân vào bộ lông để đi gần như im lặng.",
+      "limit": "Âm hút quá nhiều buộc nó dừng để xả.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "10♠": [
+    {
+      "name": "Nén Mùn Hạt",
+      "effect": "Nén chất hữu cơ thành viên đất giàu sinh lực giúp cây non bén rễ.",
+      "limit": "Cần phân hoặc mùn thật làm vật liệu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vỏ Rạn Nắng",
+      "effect": "Tích ánh nắng thành lớp phản quang làm lóa kẻ săn ở gần.",
+      "limit": "Chỉ tích được khi phơi nắng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Mạch Mùn",
+      "effect": "Nối các mảnh mùn bằng sợi lực để giữ ẩm cho hốc trú.",
+      "limit": "Hốc bị đào phá thì mạch đứt.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Dấu Khắc Neo",
+      "effect": "Ghim một dấu sáng lên vật nhỏ để tìm lại dù bị che khuất.",
+      "limit": "Chỉ nhớ được vật đã tự chạm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Khóa Mùi Tro",
+      "effect": "Niêm mùi vật hữu cơ trong một viên tro để giấu nguồn ăn.",
+      "limit": "Viên tro vỡ thì mùi thoát ra.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giáp Hạt Rời",
+      "effect": "Làm các hạt khoáng xoay sát vỏ thành lớp chắn cát.",
+      "limit": "Không chặn được đòn nặng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "J♠": [
+    {
+      "name": "Neo Vuốt Đèo",
+      "effect": "Vuốt tạo điểm neo thổ lực trên vách để chống gió hất.",
+      "limit": "Cần chạm đá chắc.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Cánh Gạt Sóng",
+      "effect": "Một nhịp cánh ép mặt nước lệch nhẹ để lộ con mồi nông.",
+      "limit": "Không tách được nước sâu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mắt Vẽ Luồng",
+      "effect": "Nhìn được luồng khí thành vệt sáng mờ để chọn đường lượn.",
+      "limit": "Khói dày và không khí rối làm nhiễu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Móng Gọi Vọng",
+      "effect": "Gõ vuốt khiến vách đối diện phát tiếng động giả.",
+      "limit": "Chỉ có tác dụng trong hệ vách nối nhau.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "Q♠": [
+    {
+      "name": "Móng Neo Vách",
+      "effect": "Móng hút thổ lực để dừng trên gờ đá cực hẹp.",
+      "limit": "Không bám được mặt đá đang vỡ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lông Sương Giáp",
+      "effect": "Kết sương thành lớp đệm lạnh trên lông khi bị vồ.",
+      "limit": "Tốn nhiệt cơ thể và phải nghỉ ấm sau đó.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Sừng Rẽ Mù",
+      "effect": "Sừng tách màn sương trước mặt thành hành lang nhìn tạm.",
+      "limit": "Không xua được sương trên phạm vi lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Móng Đánh Thức Khoáng",
+      "effect": "Gõ móng làm bụi khoáng bật lên che con non.",
+      "limit": "Cần nền đá có hạt rời.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "K♠": [
+    {
+      "name": "Khoang Hút Áp",
+      "effect": "Vỏ rỗng hút bớt áp lực của cú va chạm rồi xả thành tiếng nổ nhỏ.",
+      "limit": "Chỉ chịu được áp lực giới hạn trước khi vỏ rạn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gương Áp Mây",
+      "effect": "Nén sương thành lá chắn cong trước đầu.",
+      "limit": "Lá chắn cần sương và vỡ sau va chạm mạnh.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vang Lạnh Rỗng",
+      "effect": "Khoang giáp hút tiếng động rồi nhả thành xung gây tê nhẹ.",
+      "limit": "Cần thời gian thu âm, không tích vô hạn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "A♥": [
+    {
+      "name": "Lá Ảo Liềm",
+      "effect": "Chi trước tạo ảnh lá rung che góc chém thật.",
+      "limit": "Ảnh tan khi rời nền lá.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nhịp Cỏ Giam",
+      "effect": "Vung liềm khiến cỏ gần chân con mồi quấn lại.",
+      "limit": "Chỉ gọi được cỏ đang mọc.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tro Liềm Kết",
+      "effect": "Kéo tro nguội lên liềm thành cạnh cắt dễ vỡ.",
+      "limit": "Phải có tro và cần đắp lại sau va chạm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hoa Giả Dẫn Mồi",
+      "effect": "Phát hương và ánh hoa giả để kéo côn trùng tới gần.",
+      "limit": "Không mê hoặc được sinh vật lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Cắt Dấu Nhiệt",
+      "effect": "Chém đứt vệt nhiệt của chính mình để ẩn trước kẻ săn cảm nhiệt.",
+      "limit": "Chỉ che dấu trong một nhịp ngắn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "2♥": [
+    {
+      "name": "Tôi Thạch Lực",
+      "effect": "Một số nhánh thợ rèn truyền thổ lực vào vật đang chế tác để tăng độ bền.",
+      "limit": "Cần tiếp xúc và vật liệu phù hợp; không mặc định mọi cư dân đều có.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giao Cảm Tán Rừng",
+      "effect": "Một số nhánh cảm được tổn thương cây và đánh thức rễ nhỏ đáp lại.",
+      "limit": "Mỗi chủng biểu hiện khác nhau; chưa gán đồng loạt cho mọi cư dân rừng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Cốt Lực Sơn",
+      "effect": "Một số nhánh miền núi gắn sức chịu lực với nền đá, đứng vững trước chấn động.",
+      "limit": "Yếu đi khi rời nền đá; chưa phải năng lực mặc định của toàn chủng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Dẫn Sương Khô",
+      "effect": "Một số nhánh vùng khô kéo hơi nước quanh thân thành giọt hoặc màng bảo vệ.",
+      "limit": "Phải có hơi ẩm; không tạo nước từ hư không.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Thân Hòa Triều",
+      "effect": "Một số nhánh đảo điều chỉnh áp lực nước quanh thân để bơi và lặn tốt hơn.",
+      "limit": "Chỉ trong nước và không cho hô hấp vô hạn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Cảm Linh Mạch",
+      "effect": "Một số nhánh hình người cảm và dẫn linh lực tại nơi cư trú.",
+      "limit": "Phải phù hợp linh mạch; không tự có toàn bộ hỏa lực thủy tổ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vọng Ký Giao Cảm",
+      "effect": "Một số nhánh chạm vào vật để nhận mảnh dư âm cảm xúc còn lưu.",
+      "limit": "Không đọc toàn bộ lịch sử hoặc suy nghĩ; phả hệ từng chủng còn mở.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "3♥": [
+    {
+      "name": "Búa Rung Triều",
+      "effect": "Đầu phát xung nước làm con mồi sát đáy mất thăng bằng.",
+      "limit": "Xung yếu đi nhanh ở nước sâu rộng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Da Bẻ Dòng",
+      "effect": "Bẻ dòng nước sát da để lao nhanh một quãng.",
+      "limit": "Phải lấy đà và cần nghỉ sau cú lao.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vệt Nhiệt Dẫn Mồi",
+      "effect": "Làm nóng một vệt nước nhỏ khiến đàn mồi tách hướng.",
+      "limit": "Không đun sôi được cả vùng nước.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Bóng Áp Sâu",
+      "effect": "Tạo áp lực nhẹ thành bóng mồi giả dưới nước tối.",
+      "limit": "Hiệu lực chỉ trong khoảng nước gần đầu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "4♥": [
+    {
+      "name": "Cánh Kéo Giọt",
+      "effect": "Kéo giọt nước quanh cánh thành màn làm lệch cú chụp.",
+      "limit": "Cần mặt nước hoặc không khí ẩm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Dấu Suối Thông",
+      "effect": "Ấu trùng đánh dấu dòng nước bằng xung giúp tìm đường về.",
+      "limit": "Dòng bị ô nhiễm hoặc đứt khiến dấu mất.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vỏ Tro Chống Nhiệt",
+      "effect": "Ấu trùng kết bùn tro thành vỏ giúp sống qua đợt nước ấm bất thường.",
+      "limit": "Không chịu được nước sôi hoặc dung nham.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Kim Quang Liên",
+      "effect": "Ánh cánh nối thành vệt khiến con mồi nhỏ lạc hướng.",
+      "limit": "Cần nguồn sáng hoặc linh quang để tích.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Cánh Hút Âm",
+      "effect": "Giảm tiếng cánh và tiếng gợn nước quanh nơi đẻ.",
+      "limit": "Chỉ giữ được một vùng yên nhỏ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "5♥": [
+    {
+      "name": "Màng Rêu Ấn",
+      "effect": "Tiết màng linh chất làm lá trên miệng trú liền lại thành mái.",
+      "limit": "Màng tan khi khô.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vỏ Vôi Tái Kết",
+      "effect": "Tự kéo khoáng hòa tan vào vỏ để vá mảnh vỡ nhỏ.",
+      "limit": "Cần nước đủ khoáng, không tái tạo cả vỏ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Neo Triều",
+      "effect": "Chân tạo lực hút với đá để bám qua đợt sóng mạnh.",
+      "limit": "Mất neo khi rời đá.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vòng Hơi Lò",
+      "effect": "Hơi nước quanh vỏ tạo vòng nóng đẩy kẻ săn nhỏ lùi lại.",
+      "limit": "Cần nước và nguồn nhiệt sẵn có.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vỏ Kính Lạc Ảnh",
+      "effect": "Vỏ làm hình cơ thể hiện lệch dưới mặt nước.",
+      "limit": "Nước đục phá hiệu ứng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Màng Hút Uế",
+      "effect": "Hấp một phần chất độc yếu trong nước vào lớp màng bỏ đi.",
+      "limit": "Phải thay màng, không lọc được chất độc vô hạn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "6♥": [
+    {
+      "name": "Mắt Khóa Bóng",
+      "effect": "Ghim hình bóng một con mồi để theo dấu khi nó lẩn vào cỏ.",
+      "limit": "Dấu mất khi con mồi đi quá xa.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Cánh Khơi Cát",
+      "effect": "Dùng luồng lực dưới cánh dựng màn cát che đường bổ nhào.",
+      "limit": "Cần nền cát rời.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lông Mờ Sương",
+      "effect": "Lông tạo viền sương hòa cơ thể vào trời lạnh.",
+      "limit": "Khó dùng trong không khí khô.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vuốt Dẫn Nhiệt",
+      "effect": "Móng hút nhiệt nền đá rồi truyền vào cú quắp.",
+      "limit": "Tích quá mức gây bỏng chính chân.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Ráng Gương Cánh",
+      "effect": "Bẻ ánh hoàng hôn thành hình chim giả bên cạnh.",
+      "limit": "Cần góc sáng phù hợp, ảnh không có khối lượng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "7♥": [
+    {
+      "name": "Gai Dệt Rào",
+      "effect": "Cành ở gần tự đan thành hàng rào bảo vệ chỗ mọc.",
+      "limit": "Không di chuyển được cả bộ rễ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mượn Mạch Cây",
+      "effect": "Chuyển một ít sinh lực giữa các cành đang nối nhau.",
+      "limit": "Không làm sống lại cây chết.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nụ Tro Giữ Nhiệt",
+      "effect": "Nụ hút nhiệt đất ban ngày rồi giữ ấm hạt về đêm.",
+      "limit": "Chỉ chứa lượng nhiệt nhỏ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gai Nghe Ý Chạm",
+      "effect": "Nhận dư chấn linh lực khi bị chạm và siết cành đúng hướng.",
+      "limit": "Phải có tiếp xúc hoặc rung gần thân.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gai Ký Thạch",
+      "effect": "Rễ khóa vào vết nứt rồi làm gai hóa khoáng tạm thời.",
+      "limit": "Cần đất khoáng, cành dễ gãy khi rời nguồn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "8♥": [
+    {
+      "name": "Vỏ Cây Hư Ảnh",
+      "effect": "Cánh phóng một mảng vỏ cây giả che chính thân khi đậu.",
+      "limit": "Ảnh chỉ khớp khi đậu yên.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Phấn Gió Rối",
+      "effect": "Phấn cánh làm nhiễu cảm giác hướng của kẻ săn nhỏ.",
+      "limit": "Bị nước hoặc gió mạnh cuốn đi.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Phấn Tro Cách Nhiệt",
+      "effect": "Phấn phủ kén thành lớp ngăn nhiệt bảo vệ qua đợt nóng.",
+      "limit": "Cần tái tạo lớp phấn sau khi gặp mưa.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Kén Giữ Xuân",
+      "effect": "Kén tích hơi ấm mùa hè để chậm hóa quá trình đóng băng.",
+      "limit": "Nguồn ấm hữu hạn, không qua được mọi mùa lạnh.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Âm Mộng Nhẹ",
+      "effect": "Tiếng cánh tạo ảo thanh dụ kẻ săn sang bụi cây khác.",
+      "limit": "Chỉ tác động giác quan trong tầm gần.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mật Quang Hoa Đêm",
+      "effect": "Làm giọt mật phát sáng để dẫn bạn thụ phấn về cùng khóm hoa.",
+      "limit": "Cần mật và không làm sáng cả khu rừng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hấp Tàn Phấn",
+      "effect": "Hút tàn lửa nhỏ vào phấn để dập nóng quanh kén.",
+      "limit": "Phấn no nhiệt phải rụng bỏ, không tích thành vụ nổ lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mộ Sắc Tan",
+      "effect": "Cánh hòa mờ vào màu đá khiến hình thể khó khóa bằng mắt.",
+      "limit": "Chỉ ở nền đá quen thuộc, không trở nên vô hình hoàn toàn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "9♥": [
+    {
+      "name": "Túi Sương Ẩn",
+      "effect": "Giữ một lớp linh sương trong khoang mũi để lấy lại nước đã thở ra.",
+      "limit": "Không tạo nguồn nước mới.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lông Đệm Hàn",
+      "effect": "Lông đan khí lực thành lớp đệm chống gió lạnh.",
+      "limit": "Cần giữ nguyên lớp lông và nghỉ để hồi lực.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Dấu Than Dẫn Đàn",
+      "effect": "Móng để lại vệt ấm mờ giúp đàn tìm nhau qua tro bụi.",
+      "limit": "Vệt tắt khi bị ngâm hoặc bị phủ đất dày.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "10♥": [
+    {
+      "name": "Mùi Mùn Lạc Hướng",
+      "effect": "Tiết mùi linh tính khiến con mồi cảm nhận vị trí của nó lệch sang đám lá bên cạnh.",
+      "limit": "Cần nền mùn và chỉ lừa giác quan tầm gần.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Xung Tê Bờ Đất",
+      "effect": "Truyền một xung tê nhẹ qua đất ẩm để làm chậm chân con mồi nhỏ.",
+      "limit": "Không dẫn được qua đất khô hoặc đá rời.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giáp Tro Hấp Nhiệt",
+      "effect": "Kéo tro và khoáng nguội lên vỏ thành lớp hấp nhiệt bảo vệ cơ thể.",
+      "limit": "Lớp giáp no nhiệt phải được lột bỏ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Dẫn Nhiệt Khe Đá",
+      "effect": "Rút nhiệt ở một điểm đá rồi xả sang điểm khác để điều tiết nơi trú.",
+      "limit": "Phải chạm đường đá liên tục; không tạo nhiệt từ hư không.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mạng Âm Địa",
+      "effect": "Phát xung qua chân để nhận hình vật sau lớp đá mỏng.",
+      "limit": "Đất xốp và khe đứt làm mất hình.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "J♥": [
+    {
+      "name": "Bóng Bầy Rừng",
+      "effect": "Những bóng cây quanh đàn hiện thêm vệt sói giả khi cả bầy di chuyển.",
+      "limit": "Cần nhiều cá thể phối hợp và bóng thật.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gió Giấu Mùi",
+      "effect": "Bẻ luồng mùi của đàn lệch sang hướng gió khác.",
+      "limit": "Gió đảo mạnh khiến đàn tự mất dấu nhau.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hú Kết Sương",
+      "effect": "Tiếng hú gom sương lạnh thành màn che đường chạy.",
+      "limit": "Không đóng băng mục tiêu hoặc giữ màn lâu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Bước Nhiễu Cát",
+      "effect": "Dấu chân tự đổ cát che lại bằng một nhịp địa lực.",
+      "limit": "Chỉ xóa dấu trên cát rời.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Móng Niêm Tàn",
+      "effect": "Dập một tàn lửa nhỏ vào móng để đòn cào mang vệt nóng.",
+      "limit": "Cần lửa sẵn, không giữ được lâu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hú Gửi Vọng",
+      "effect": "Gửi thông điệp âm ngắn qua các lớp sương đến bầy cùng dòng.",
+      "limit": "Thông điệp méo khi đi qua vùng linh lực rối.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "Q♥": [
+    {
+      "name": "Rễ Mượn Sương",
+      "effect": "Rễ kéo sương quanh cành về nuôi cả cụm lan.",
+      "limit": "Không hút được nước từ nơi khô kiệt.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nụ Giữ Ấm",
+      "effect": "Nụ giữ một phần nhiệt ban ngày để chống rét về đêm.",
+      "limit": "Cạn nhiệt phải khép và ngủ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lá Phủ Tro Sống",
+      "effect": "Lá hút tro nguội rồi tạo màng ngăn nhiệt cho rễ non.",
+      "limit": "Tro quá nóng giết cây trước khi màng hình thành.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mật Dưỡng Linh",
+      "effect": "Mật tạm hồi sức cho sinh vật thụ phấn kiệt lực.",
+      "limit": "Lượng mật ít và không chữa vết thương nặng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hương Ảnh Hoa",
+      "effect": "Hương khiến kẻ săn thấy một khóm hoa giả lệch vị trí.",
+      "limit": "Không tác động được sinh vật không dựa vào giác quan tương ứng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Rễ Thanh Mạch",
+      "effect": "Rễ cô độc chất yếu khỏi nước quanh gốc thành hạt bỏ đi.",
+      "limit": "Không thanh tẩy cả dòng suối.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nụ Khóa Tàn",
+      "effect": "Khép một tàn lửa nhỏ trong nụ để giữ nhiệt cho hạt.",
+      "limit": "Chỉ giữ tàn nhỏ; nụ vỡ không tạo chuỗi nổ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hoa Vọng Ký",
+      "effect": "Hoa phát lại một mùi hương từng hấp thụ để dẫn bạn thụ phấn về.",
+      "limit": "Mỗi hoa chỉ lưu được một mùi trong thời gian ngắn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "K♥": [
+    {
+      "name": "Liệm Tro Hư Hình",
+      "effect": "Bóng tro bám thân khiến cú lao trông như đến từ hai hướng.",
+      "limit": "Cần nền tro và ảnh giả không gây sát thương.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lá Liệm Khóa Mùi",
+      "effect": "Vỏ lá khô niêm mùi cơ thể khi nằm phục kích.",
+      "limit": "Phải đứng yên và tái tạo vỏ sau khi di chuyển xa.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Liềm Tôi Bazan",
+      "effect": "Nhiệt trong chi trước nung cứng lớp khoáng mỏng phủ liềm.",
+      "limit": "Khoáng vỡ khi chém mạnh và phải tôi lại.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "A♦": [
+    {
+      "name": "Hàm Kéo Mùn",
+      "effect": "Kéo mùn ẩm tụ lại thành nút che miệng hang của ấu trùng.",
+      "limit": "Chỉ tác động vật liệu hữu cơ nhỏ gần hàm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vỏ Hương Che",
+      "effect": "Giáp phát mùi vỏ cây giả để thú săn bỏ qua nó.",
+      "limit": "Phải tiếp xúc cây để lấy lại mùi.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giáp Nhựa Kết",
+      "effect": "Nhựa cây quanh giáp tự đông thành lớp bảo vệ tạm.",
+      "limit": "Cần nguồn nhựa và làm cánh nặng hơn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giọt Gương Mạch",
+      "effect": "Giọt nước trên vỏ tạo ảnh lệch làm đối thủ hụt cú chạm.",
+      "limit": "Cần giọt nước chưa bị vỡ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nhịp Rễ Hộ",
+      "effect": "Ấu trùng đánh thức rễ nhỏ che hốc sống khi bị xâm nhập.",
+      "limit": "Không gọi được rễ cây chết.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "2♦": [
+    {
+      "name": "Cuộn Địa Sóng",
+      "effect": "Khi cuộn thân phát một sóng cát thấp làm lệch chân kẻ săn.",
+      "limit": "Chỉ trên nền cát hoặc đất tơi.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giáp Đất Tái Kết",
+      "effect": "Hút đất mịn vào vết nứt giáp để vá tạm.",
+      "limit": "Không hồi được phần thân đã mất.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giọt Rêu Hộ",
+      "effect": "Rêu trên giáp tiết màng linh ẩm giảm trầy xước.",
+      "limit": "Cần rêu sống và nguồn ẩm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mộ Thổ Ẩn",
+      "effect": "Chìm nông vào đất như đất tự khép lại quanh thân.",
+      "limit": "Không xuyên đá cứng hoặc nền đóng băng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "3♦": [
+    {
+      "name": "Túi Âm Dội",
+      "effect": "Tiếng kêu tạo một vòng sóng nước đẩy vật nhỏ ra xa trứng.",
+      "limit": "Chỉ hiệu quả tại mặt nước gần tổ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lá Mưa Hư Ảnh",
+      "effect": "Da kéo hình lá quanh thân thành màn ngụy trang động.",
+      "limit": "Cần lá thật và môi trường ẩm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mưa Giọt Gọi",
+      "effect": "Gọi những giọt ẩm quanh hốc cây tụ thành vũng nhỏ.",
+      "limit": "Không gọi được cơn mưa hoặc tạo nước mới.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Da Giữ Sương Lạnh",
+      "effect": "Da kết màng sương chống thất thoát nhiệt khi lặn.",
+      "limit": "Chỉ chịu lạnh ngắn, vẫn phải nghỉ ở nơi phù hợp.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Túi Sương Mù",
+      "effect": "Túi nước phun sương khiến kẻ săn nhìn lệch khoảng cách.",
+      "limit": "Cạn túi phải hấp thu nước lại.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Da Kính Tách Bóng",
+      "effect": "Thân trong mờ tách hình ảnh thành hai vệt dưới nước.",
+      "limit": "Ánh sáng tán xạ quá yếu làm hiệu ứng mất.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tiếng Đầm Khóa Rung",
+      "effect": "Tiếng gọi làm dịu rung động mặt nước quanh bãi đẻ.",
+      "limit": "Không chặn được sóng lớn hoặc vật nặng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "4♦": [
+    {
+      "name": "Gõ Tê Vỏ",
+      "effect": "Mỏ gửi xung qua vỏ cây làm tê con mồi nhỏ bên dưới.",
+      "limit": "Chỉ xuyên qua vỏ gỗ mỏng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gõ Mầm Chữa",
+      "effect": "Nhịp gõ kích cây liền vết nứt nhỏ quanh hốc tổ.",
+      "limit": "Cần cây sống và không chữa được thân mục.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gõ Nhựa Gọi",
+      "effect": "Nhịp gõ khiến nhựa dồn đến vùng rễ bị thương.",
+      "limit": "Tác động trong một cây hoặc cụm rễ nối nhau.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gõ Đá Hiện Mạch",
+      "effect": "Làm đường nứt hoặc hốc rỗng trong thân hóa thạch hiện sáng mờ.",
+      "limit": "Không nhìn xuyên mọi loại đá.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "5♦": [
+    {
+      "name": "Âm Đẩy Triều",
+      "effect": "Tiếng gọi tạo một dòng nước chậm giữ đàn con gần nhau.",
+      "limit": "Không thắng được bão biển.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Da Bẻ Áp",
+      "effect": "Điều tiết một lớp áp lực nước quanh thân để giảm va chạm.",
+      "limit": "Lớp bảo vệ suy khi cơ thể kiệt sức.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mỡ Giữ Hàn",
+      "effect": "Lớp mỡ giữ một vòng nhiệt ổn định quanh thân và con non sát nó.",
+      "limit": "Không làm ấm cả vùng biển.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Ca Dẫn Quang",
+      "effect": "Tiếng gọi kéo linh quang trong nước thành vệt định hướng.",
+      "limit": "Chỉ ở thủy vực có linh quang.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Âm Neo Sâu",
+      "effect": "Tạo một vùng nước yên ngắn để nghỉ giữa dòng ngầm.",
+      "limit": "Phải ngừng bơi và không duy trì lâu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "6♦": [
+    {
+      "name": "Đèn Gương Mồi",
+      "effect": "Ánh đèn hiện thành một chấm giả bên cạnh để kẻ săn chụp hụt.",
+      "limit": "Chỉ có một điểm giả và cần tích sáng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Đèn Rêu Ẩn",
+      "effect": "Làm quầng sáng quanh lá ướt hòa cơ thể vào nền.",
+      "limit": "Không hoạt động trên lá khô.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Đèn Gọi Sương",
+      "effect": "Chớp đèn kéo hơi nước tụ lại bảo vệ nơi đẻ.",
+      "limit": "Nguồn ẩm quanh tổ phải còn đủ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hương Lạc Dấu",
+      "effect": "Mùi tạo cảm giác đường bay lệch hướng dù trưởng thành không có đèn.",
+      "limit": "Không che được hình ảnh khi đứng gần.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Đèn Khâu Mạch",
+      "effect": "Linh quang kết màng che một vết thương rất nhỏ.",
+      "limit": "Cần nước linh địa, không tái sinh cơ quan.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Đèn Vọng Bờ",
+      "effect": "Ánh sáng phản thành chuỗi chấm chỉ lối bờ an toàn cho đàn.",
+      "limit": "Chỉ ghi nhớ được bờ nó từng sống.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "7♦": [
+    {
+      "name": "Mai Dội Sóng",
+      "effect": "Mai trả lại một gợn nước đẩy lệch cú cắn nhỏ.",
+      "limit": "Cần ngập nước để tích và xả lực.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mai Neo Suối",
+      "effect": "Bám vào dòng chảy như có neo lực để tránh bị cuốn.",
+      "limit": "Không thể chống lũ lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vòng Muối Hộ",
+      "effect": "Kết muối quanh mai thành viền mỏng gây khó chịu khi bị cắn.",
+      "limit": "Chỉ dùng trong nước mặn và phải tích lại.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gương Lùi Ảnh",
+      "effect": "Mai giữ một hình cơ thể trước đó để đánh lạc hướng kẻ săn.",
+      "limit": "Chỉ là hình ảnh, không đảo ngược thương tích.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mai Vôi Đắp",
+      "effect": "Kéo khoáng hòa tan thành miếng vôi che vết nứt mai.",
+      "limit": "Không làm sống lại phần cơ thể bị phá hủy.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "8♦": [
+    {
+      "name": "Âm Tê Cánh",
+      "effect": "Tiếng phát xung làm côn trùng mồi chao một nhịp.",
+      "limit": "Không làm tê được sinh vật lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mùi Quả Giả",
+      "effect": "Tạo một mùi quả chín giả để dụ đối thủ rời vùng ăn.",
+      "limit": "Cần hấp thu mùi thật trước đó.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vọng Hang Tách Ảnh",
+      "effect": "Tiếng dội khiến kẻ nghe nhận hai vị trí bay khác nhau.",
+      "limit": "Chỉ ở gần mặt đá phản âm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Màng Cánh Giữ Sương",
+      "effect": "Cánh gom ẩm thành một màn mỏng giúp tránh khô kiệt.",
+      "limit": "Phải có hơi ẩm, không thay thế việc uống nước.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mật Quang Dẫn Hoa",
+      "effect": "Chuyển một ít linh lực trong mật sang hoa để hoa giữ nở lâu hơn.",
+      "limit": "Mỗi lần chỉ tác động một bông hoặc cụm nhỏ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Âm Thanh Mạch",
+      "effect": "Tiếng gọi rung giọt nước để gột một lớp chất bám gây kích ứng nhẹ.",
+      "limit": "Không thanh tẩy độc mạnh hoặc chữa thương nặng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vọng Mặt Nước",
+      "effect": "Nhìn vật dưới lớp nước nông bằng xung linh âm.",
+      "limit": "Nước xoáy và bọt dày gây nhiễu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "9♦": [
+    {
+      "name": "Vằn Nhiễu Nhìn",
+      "effect": "Vằn của cả đàn tạo hiệu ứng khó tách từng cá thể khi chạy.",
+      "limit": "Một con đứng riêng không tạo được màn nhiễu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Móng Gọi Điểm Nước",
+      "effect": "Cảm nhận và đánh dấu một nguồn nước ngầm nông bằng địa lực.",
+      "limit": "Không cảm được nguồn sâu hoặc cách quá xa.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vằn Giữ Sinh Khí",
+      "effect": "Vằn giữ một lớp sinh khí giảm kiệt sức khi chạy qua suối linh.",
+      "limit": "Cần nạp lại ở suối, không chữa vết thương nặng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "10♦": [
+    {
+      "name": "Da Mượn Sắc Linh",
+      "effect": "Mượn sắc và ánh nền xung quanh thành lớp ngụy trang biến động.",
+      "limit": "Không che được bóng hoặc tiếng động.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mắt Khóa Tán",
+      "effect": "Ghim một điểm nhìn linh lực để dò con mồi sau tán lá mỏng.",
+      "limit": "Chỉ giữ một điểm và không xuyên được vật dày.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vết Kính Báo Thương",
+      "effect": "Vệt sáng trên da ghi một hướng vừa bị đánh để tạo phản quang cảnh báo.",
+      "limit": "Không trả lại toàn bộ sát thương hoặc tự lành tức thì.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Thân Bóng Cành",
+      "effect": "Tạo một ảnh cành cây bên cạnh rồi hòa viền thân vào ảnh.",
+      "limit": "Phải đứng gần cành thật.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "J♦": [
+    {
+      "name": "Mắt Lông Dẫn Nhìn",
+      "effect": "Các đốm đuôi phát ánh linh làm kẻ săn nhìn vào đuôi thay thân.",
+      "limit": "Không điều khiển được ý chí.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vành Đuôi Hộ",
+      "effect": "Một nhịp xòe đuôi tạo đệm khí giảm tác động vào con non.",
+      "limit": "Lông đuôi bị hỏng thì đệm yếu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Gọi Giọt Kính",
+      "effect": "Đuôi gom sương thành màn nước mỏng ngăn bụi.",
+      "limit": "Không tạo được trận mưa như thủy tổ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Sắc Hoa Gửi Tín",
+      "effect": "Lông lưu màu một khóm hoa để cả đàn nhận lối về.",
+      "limit": "Màu mất sau khi rời vùng quá lâu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "Q♦": [
+    {
+      "name": "Da Bùn Trượt",
+      "effect": "Da tạo màng nước linh trượt khỏi cú giữ hoặc bùn hút.",
+      "limit": "Cần còn đủ ẩm trên thân.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vảy Nghe Suối",
+      "effect": "Nhận hình vật đang chuyển động bằng xung qua dòng nước.",
+      "limit": "Mất dấu trong dòng quá rối.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tuyến Muối Đổi",
+      "effect": "Điều tiết muối quanh da để giảm sốc khi qua vùng nước lợ.",
+      "limit": "Không chuyển tức thì giữa mọi độ mặn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Da Linh Khép",
+      "effect": "Da mới kết một lớp sinh khí che tổn thương nông sau khi lột.",
+      "limit": "Chỉ tác dụng trong thời gian da còn mới.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vảy Vọng Dòng",
+      "effect": "Gửi một tiếng rít giả theo dòng nước để dụ mồi.",
+      "limit": "Chỉ trong đoạn sông nối liên tục.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Rễ Bóng Bám",
+      "effect": "Mượn bóng rễ ngập để làm đuôi dường như mọc từ chỗ khác.",
+      "limit": "Cần vùng rễ thật và nước đủ tối.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "K♦": [
+    {
+      "name": "Hàm Nhựa Ghép",
+      "effect": "Hàm dồn nhựa cây thành một nút che hốc trứng.",
+      "limit": "Không đúc được vật liệu lớn hoặc cứng như kim loại.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mang Kính Thủy",
+      "effect": "Lớp màng linh chuyển một phần khí hòa tan để kéo dài thời gian dưới nước.",
+      "limit": "Không thở được trong nước chết hoặc thiếu khí hoàn toàn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giáp Gỗ Ngập",
+      "effect": "Kết mảnh gỗ mục quanh vỏ thành lớp bảo vệ có thể tự thay.",
+      "limit": "Cần gỗ ngập, lớp quá dày làm nó chậm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "A♣": [
+    {
+      "name": "Lưới Ghim Bóng",
+      "effect": "Tơ giữ bóng của côn trùng khiến nó khựng trước khi giãy thoát.",
+      "limit": "Chỉ giữ được con mồi nhỏ đã chạm lưới.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Hòa Tán",
+      "effect": "Lưới đổi góc sáng để gần như hòa vào tán rừng.",
+      "limit": "Sương bám quá dày làm lộ lưới.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Kéo Cát",
+      "effect": "Tơ hút cát dính thành màn giáp che hốc trú.",
+      "limit": "Cần cát rời và lớp chắn dễ vỡ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Neo Khe",
+      "effect": "Tơ bám linh lực của đá để căng ngang khe mà ít cần điểm neo.",
+      "limit": "Không căng được khoảng trống lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Lưu Quang",
+      "effect": "Giữ một vệt ánh sáng trên tơ để dẫn hoặc lạc hướng con mồi.",
+      "limit": "Cần nạp ánh sáng, không phát sáng mãi.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Sương Kết",
+      "effect": "Gom sương thành giọt lớn trên lưới để giữ ẩm nơi đẻ.",
+      "limit": "Không tạo nước từ không khí khô.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Nuốt Âm",
+      "effect": "Lưới hấp tiếng rung để kẻ săn khó nghe thấy nơi trú.",
+      "limit": "Âm tích nhiều buộc nó nhả bỏ một phần lưới.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Giáp Khoáng",
+      "effect": "Khoáng trên tơ ghép thành phiến che miệng hang.",
+      "limit": "Không dựng được thành lớn như thủy tổ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "2♣": [
+    {
+      "name": "Phấn Đánh Thức Mầm",
+      "effect": "Phấn bám chân truyền một ít sinh khí giúp hạt gần tổ nảy mầm.",
+      "limit": "Cần hạt và đất còn sống.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hương Rừng Gửi Dấu",
+      "effect": "Gửi đường hương linh tính mà đồng loại cảm được qua cây bụi.",
+      "limit": "Không gửi qua vùng trống hoặc gió quá mạnh.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Sáp Tro Mát",
+      "effect": "Sáp kết tro thành lớp cách nhiệt bảo vệ tổ.",
+      "limit": "Chỉ dùng tro nguội, không chịu dung nham.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mật Dưỡng Mạch",
+      "effect": "Mật giúp sinh vật kiệt sức lấy lại một ít sinh lực.",
+      "limit": "Không thay thức ăn hoặc chữa thương nặng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vành Tổ Cộng Chấn",
+      "effect": "Cả đàn tạo một lớp rung lực quanh tổ để làm lệch kẻ xâm nhập nhỏ.",
+      "limit": "Cần đàn phối hợp, không mang lớp chắn đi xa.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "3♣": [
+    {
+      "name": "Móng Tơi Địa",
+      "effect": "Làm đất trước móng mềm ra trong một nhịp để đào nhanh.",
+      "limit": "Không hóa mềm đá hoặc kim loại.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mạch Mùn Che",
+      "effect": "Kéo mùn tự lấp đường hầm vừa đi qua để giấu lối.",
+      "limit": "Cần đủ mùn, lối lấp có thể bị đào lại.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tai Rễ Dẫn",
+      "effect": "Dùng rễ làm mạng nghe động vật đang bước trên mặt đất.",
+      "limit": "Mạng đứt nếu rễ chết hoặc bị chặt.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Đất Niêm Mùi",
+      "effect": "Ép mùi cơ thể vào đất để đi qua gần kẻ săn mà khó bị ngửi thấy.",
+      "limit": "Không che dấu ngoài đường hầm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "4♣": [
+    {
+      "name": "Da Cát Kết",
+      "effect": "Bụi cát hút lên da thành những phiến giáp tạm.",
+      "limit": "Giáp tăng trọng lượng và rã trong mưa.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Húc Mầm Đất",
+      "effect": "Một cú giậm làm đất mềm trồi thành ụ thấp bảo vệ con non.",
+      "limit": "Không tạo được tường cao hoặc phá thành.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Thạch Giác Hộ",
+      "effect": "Sừng kéo khoáng thành lớp bọc đỡ va chạm.",
+      "limit": "Cần chạm nền khoáng và lớp bọc dễ mẻ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "5♣": [
+    {
+      "name": "Vảy Cát Mù",
+      "effect": "Rung thân tạo một vòng cát lơ lửng che đầu và hướng tấn công.",
+      "limit": "Cần cát khô và không duy trì lâu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mắt Ghim Nhiệt",
+      "effect": "Nhìn dư nhiệt con mồi thành dấu sáng mờ sau bụi cỏ.",
+      "limit": "Dấu mất khi nền nhiệt quá hỗn loạn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nọc Hơi Muối",
+      "effect": "Hơi phun làm muối trong nước bám thành sương kích ứng mắt kẻ săn.",
+      "limit": "Cần nguồn nước mặn và chỉ tác động gần.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Cát Niêm Vảy",
+      "effect": "Vảy khóa cát thành các phiến cứng ở cổ khi bị đe dọa.",
+      "limit": "Phiến vỡ thì phải tích cát lại.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vảy Hòa Thổ",
+      "effect": "Thân hòa màu và bóng với khe đất để mất đường viền trước mắt mồi.",
+      "limit": "Phải nằm yên trên nền phù hợp.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "6♣": [
+    {
+      "name": "Dấu Băng Khóa",
+      "effect": "Móng đông nước thành lớp bám giúp khóa chân trên bờ băng trơn.",
+      "limit": "Cần nước, không đóng băng sinh vật lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lông Đệm Sơn Hàn",
+      "effect": "Lông tạo lớp lực giữ nhiệt và giảm va vào đá khi leo sườn lạnh.",
+      "limit": "Tốn sức, bị ngấm nước lâu thì suy.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vai Kết Hàn Thạch",
+      "effect": "Khoáng trên vai kết với băng thành phiến giáp dày tạm.",
+      "limit": "Giáp làm chậm và rã ở nơi ấm.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "7♣": [
+    {
+      "name": "Màng Bẻ Quang",
+      "effect": "Thân bẻ ánh nước khiến kẻ săn thấy nó lệch vị trí.",
+      "limit": "Nước đục hoặc bóng tối hoàn toàn làm mất lợi thế.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vành Dẫn Dòng",
+      "effect": "Tua bẻ một dòng nước nhỏ để gom sinh vật phù du.",
+      "limit": "Không chống được dòng biển mạnh.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Chuông Giữ Giọt",
+      "effect": "Màng linh giữ nước ngọt sát thân lâu hơn khi nước quanh hồ biến đổi.",
+      "limit": "Không sống được lâu trong môi trường mặn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Màng Kết Khoáng",
+      "effect": "Kết khoáng hòa tan thành tấm màng che phần thân mềm.",
+      "limit": "Tấm màng vỡ sau va chạm và cần tái tạo.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tua Dò Hắc Triều",
+      "effect": "Tua gửi xung linh qua nước để nhận mồi trong vùng tối.",
+      "limit": "Phạm vi ngắn và bị dòng xoáy làm nhiễu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "8♣": [
+    {
+      "name": "Đuôi Gọi Cát",
+      "effect": "Đuôi kéo một vệt cát bật lên để che cú lao hoặc đường rút.",
+      "limit": "Cần nền cát rời.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giáp Mượn Vỏ",
+      "effect": "Giáp tạo hoa văn vỏ cây giả chuyển động theo nền.",
+      "limit": "Chỉ giấu được khi áp sát cây hoặc gỗ mục.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Càng Dò Quặng",
+      "effect": "Càng cảm được đường quặng và hốc rỗng qua tiếp xúc.",
+      "limit": "Không tìm được mọi vật quý hoặc nhìn xuyên đá dày.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Giáp Tản Nhiệt",
+      "effect": "Chuyển một phần nhiệt ở vỏ xuống nền đá để tránh quá nóng.",
+      "limit": "Cần chạm đá mát hơn thân.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Nọc Rạn Khoáng",
+      "effect": "Nọc mang thạch lực làm giòn một lớp khoáng mỏng.",
+      "limit": "Không làm vỡ đá khối hoặc mọi loại giáp.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Âm Bàn Chân",
+      "effect": "Chân phát mạng rung linh tính để dựng hình hang gần thân.",
+      "limit": "Đất rời và tiếng động lớn gây nhiễu.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vỏ Cát Trả Lực",
+      "effect": "Cát trên vỏ tích một cú chấn nhỏ rồi bật ra chống kẻ cắn.",
+      "limit": "Không tích vô hạn, không trả lại toàn bộ đòn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "9♣": [
+    {
+      "name": "Mực Bóng Bầy",
+      "effect": "Mực phun hiện thành nhiều hình con mực nhỏ đang tản ra.",
+      "limit": "Các bóng không có khối lượng và tan theo nước.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Đèn Áp Sâu",
+      "effect": "Tích áp lực nước thành đốm sáng để dụ mồi.",
+      "limit": "Phải ở độ sâu thích hợp mới tích được lực.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vân Mực Kính",
+      "effect": "Mực phun làm ánh linh quang bẻ cong hình đàn mồi.",
+      "limit": "Chỉ trong nước có linh quang.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mực Hút Khoáng",
+      "effect": "Tua rút khoáng khỏi bề mặt mỏng rồi chứa trong túi mực.",
+      "limit": "Không hút được đá khối hay làm rỗng cả mỏ.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Chuông Tĩnh Thủy",
+      "effect": "Phun vòng mực làm vùng nước nhỏ giảm rung và giấu đường chạy.",
+      "limit": "Vòng vỡ khi gặp dòng mạnh.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "10♣": [
+    {
+      "name": "Hơi Lá Che",
+      "effect": "Hơi thở tạo mùi cây giả phủ lên dấu mùi cơ thể.",
+      "limit": "Phải ăn hoặc chạm cây để lấy lại mẫu mùi.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vòi Kéo Khoáng",
+      "effect": "Vòi kéo khoáng hòa tan tụ thành viên dùng để bổ sung giáp da.",
+      "limit": "Cần nước có khoáng và không đúc được đá lớn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Da Mạch Kết",
+      "effect": "Khoáng trong da tự dồn về vùng sắp bị va tạo miếng đệm.",
+      "limit": "Chỉ che một phần thân và phải nghỉ để khoáng phân tán.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "J♣": [
+    {
+      "name": "Dậm Vành Đất",
+      "effect": "Dậm chân dựng một gờ đất thấp làm chậm thú săn đang lao.",
+      "limit": "Cần đất mềm, không dùng để phá tường thành.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vòi Gọi Mưa Lá",
+      "effect": "Vòi kéo nước đọng trên tán xuống thành màn mưa che đàn.",
+      "limit": "Không gọi được mưa từ trời quang.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vai Neo Địa",
+      "effect": "Đứng trên nền khoáng rồi neo trọng lượng vào đất để bảo vệ đàn.",
+      "limit": "Phải đứng yên, không thể vừa neo vừa xung phong.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Bước Gửi Vọng",
+      "effect": "Gửi tiếng bước chân giả qua nền đá để kéo kẻ săn khỏi con non.",
+      "limit": "Cần đường đá liên tục và không tạo thêm cơ thể.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "Q♣": [
+    {
+      "name": "Vằn Nuốt Bóng",
+      "effect": "Các sọc kéo bóng lá thành màn che trước cú vồ.",
+      "limit": "Cần bóng thật và không che được mùi.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Hơi Hàn Che",
+      "effect": "Thở ra sương lạnh ngắn để giấu thời điểm lao.",
+      "limit": "Không tạo bão tuyết hoặc đóng băng xa.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mặt Thạch Trấn",
+      "effect": "Mảng mặt phát một xung uy lực khiến kẻ áp sát khựng lại.",
+      "limit": "Không khống chế lâu hoặc áp chế sinh vật mạnh hơn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Ngọc Vọng Rễ",
+      "effect": "Mảng ngọc cảm được bước chân qua mạng rễ để chọn đường phục kích.",
+      "limit": "Không dò được qua vùng rễ đứt.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "K♣": [
+    {
+      "name": "Hang Tơ Neo",
+      "effect": "Tơ kéo thành giàn neo giúp hang chống sập cục bộ.",
+      "limit": "Không chống được một vụ sập núi.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lông Tro Mù",
+      "effect": "Lông phóng ra tạo màn bụi có hình thân nhện giả.",
+      "limit": "Mất lông phải chờ mọc lại.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Đất Vá",
+      "effect": "Tơ khiến hạt đất kết nhanh để vá miệng hang.",
+      "limit": "Không biến đất thành đá cứng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Vỏ Rễ Hư Ảnh",
+      "effect": "Giáp hiện những rễ giả che vị trí các chân đang di chuyển.",
+      "limit": "Chỉ hợp nền rừng có rễ thật.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Tơ Khoáng Tự Siết",
+      "effect": "Tơ mang khoáng co lại khi bị kéo để gia cố vách trú.",
+      "limit": "Chỉ gia cố cấu trúc nhỏ và cần khoáng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Lông Nghe Ký Thạch",
+      "effect": "Lông nhận dư chấn vừa lưu trong đá để tránh nơi có kẻ săn đi qua.",
+      "limit": "Chỉ nhận dấu rất gần đây, không đọc lịch sử xa.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "Joker Đen": [
+    {
+      "name": "Da Vọng Môi Trường",
+      "effect": "Bề mặt cơ thể nhận mùi và sắc sương để hòa vào cảnh.",
+      "limit": "Không đổi thành sinh vật khác hoặc mượn năng lực Ấn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Ảnh Da Tách",
+      "effect": "Bỏ lại một mảnh bóng da có dáng mình để kẻ săn đuổi nhầm.",
+      "limit": "Mỗi lần mất vật chất cơ thể và phải hồi phục.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Mộng Sắc Giao",
+      "effect": "Mượn một sắc thái cảm xúc của môi trường để giấu cảm giác hiện diện.",
+      "limit": "Không đọc ý nghĩ hoặc sao chép kỹ năng.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ],
+  "Joker Trắng": [
+    {
+      "name": "Da Gương Thạch",
+      "effect": "Da phản hồi ánh đá trắng thành màn lóa quanh thân.",
+      "limit": "Cần ánh sáng, không tự phát quang vô hạn.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Dấu Mạch Dịu",
+      "effect": "Chạm vào dòng linh lực yếu để làm dao động quanh nó dịu lại.",
+      "limit": "Không mở được phong ấn hoặc vô hiệu phép mạnh.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    },
+    {
+      "name": "Khe Vọng Né",
+      "effect": "Cảm chỗ hở trong dòng lực cũ rồi thu thân tránh qua.",
+      "limit": "Không tạo cổng hoặc tự xuyên vật thể kín.",
+      "origin": "thích nghi với sinh cảnh",
+      "expression": "đặc tính của nhánh, mức biểu hiện tùy cá thể"
+    }
+  ]
+}

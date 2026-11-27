@@ -1,0 +1,39 @@
+{
+  "checks": {
+    "exactly54": true,
+    "allSourceCardsCovered": true,
+    "uniqueCards": true,
+    "allRegionsValid": true,
+    "allEvidenceIdsValid": true,
+    "everyLineageHasDescendantWithoutAncestralPower": true,
+    "allCardMechanicsReadFromCurrentSource": true,
+    "everyBranchHasAdaptivePowerAndLimit": true,
+    "oldBranchNamesGeographyAncestryAndCardEffectsPreserved": true,
+    "interactiveDisplaysAdaptiveAndAncestralPowers": true,
+    "centipedeWithoutAncestralPowerDisplaysNewAdaptivePower": true
+  },
+  "summary": {
+    "founders": {
+      "W": 28,
+      "L": 15,
+      "U": 11
+    },
+    "founderTotal": 54,
+    "branchDescriptions": 262,
+    "ecologicalBranches": 255,
+    "humanoidDistributionGroups": 7,
+    "branchesByRealm": {
+      "W": 144,
+      "L": 61,
+      "U": 57
+    },
+    "withoutAncestralPower": 187,
+    "withAncestralPower": 75,
+    "withAdaptivePower": 262,
+    "lineagesRepresentedByDescendantsInAllThreeRealms": 37
+  },
+  "mainDocument": "C:\\Users\\Admin\\Pictures\\Saved Pictures\\Card_Game\\Card_Game\\Ashborne-He-Sinh-Vat-va-Phan-Bo-Tam-Gioi-De-xuat-v02.md",
+  "sourceSha256": "41482d460c3966a57daf5bbe79518aaab119267a5782c22e61e388f1779ae7cd",
+  "unmodifiedRuntimeCode": true,
+  "renderPreviewInspected": false
+}

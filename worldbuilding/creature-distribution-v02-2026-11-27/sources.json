@@ -1,0 +1,234 @@
+[
+  {
+    "id": "NICH",
+    "title": "Niche breadth predicts geographical range size",
+    "url": "https://sextonlab.ucmerced.edu/wp-content/uploads/Slatyer_EcologyLetters_2013.pdf",
+    "fact": "Phân tích gộp 64 nghiên cứu: tương quan dương giữa phạm vi phân bố với độ rộng chịu môi trường (z=0,49), sinh cảnh (0,45), thức ăn (0,28).",
+    "sourceDate": "2013",
+    "limit": "Quan hệ thống kê, không phải thước đo tốc độ tiến hóa."
+  },
+  {
+    "id": "BEET",
+    "title": "NatureScot Beetles",
+    "url": "https://www.nature.scot/plants-animals-and-fungi/invertebrates/land-invertebrates/beetles",
+    "fact": "Khoảng 400.000 loài bọ cánh cứng đã biết; nhóm xuất hiện ở gần như mọi kiểu sinh cảnh.",
+    "sourceDate": "2025",
+    "limit": "Số cho cả bộ Coleoptera; không áp nguyên cho từng loài bọ tê giác/bọ hươu."
+  },
+  {
+    "id": "SCAR",
+    "title": "UNL Scarabaeidae overview",
+    "url": "https://unsm-ento.unl.edu/Guide/Scarabaeoidea/Scarabaeidae/Scarabaeidae-pages/Scarabaeidae-Overview/Scarabaeidaeinfo.html",
+    "fact": "Nguồn liệt kê hơn 27.800 loài Scarabaeidae toàn cầu và nhiều lối sống.",
+    "sourceDate": "không ghi ngày",
+    "limit": "Họ rộng; số nền tham khảo, không coi là kiểm kê mới nhất."
+  },
+  {
+    "id": "SPID",
+    "title": "World Spider Catalog families",
+    "url": "https://wsc.nmbe.ch/families",
+    "fact": "Bảng tra ghi Theraphosidae 1.199 loài; nhiều họ nhện có hàng nghìn loài.",
+    "sourceDate": "tra 27/11/2026",
+    "limit": "Đa dạng phân loại không chứng minh mọi nhện chịu được mọi môi trường."
+  },
+  {
+    "id": "REPT",
+    "title": "Reptile Database Species Numbers",
+    "url": "https://www.reptile-database.com/db-info/SpeciesStat.html",
+    "fact": "Tháng 10/2026: Sauria 8.042 (bao gồm Amphisbaenia từ 8/2024), rắn 4.252, rùa 365.",
+    "sourceDate": "10/2026",
+    "limit": "Không lấy 8.042 làm số loài tắc kè hoa hoặc tốc độ tiến hóa."
+  },
+  {
+    "id": "MOTH",
+    "title": "Phylogenomics of butterflies and moths",
+    "url": "https://doi.org/10.1073/pnas.1907847116",
+    "fact": "Nghiên cứu dùng 2.098 gene và 186 loài; mô tả Lepidoptera có gần 160.000 loài đã biết trong nguồn 2019.",
+    "sourceDate": "2019",
+    "limit": "Số cho cả bộ gồm bướm/ngài; không phải riêng dòng Ngài Cánh Tro."
+  },
+  {
+    "id": "MANT",
+    "title": "UC Davis mantis species",
+    "url": "https://entomology.ucdavis.edu/news/how",
+    "fact": "Ước tính khoảng 2.500 loài bọ ngựa đã mô tả; nhấn mạnh ngụy trang và khác biệt tập tính.",
+    "sourceDate": "2024",
+    "limit": "Thống kê của toàn bộ Mantodea."
+  },
+  {
+    "id": "FIRE",
+    "title": "AMNH Fireflies",
+    "url": "https://www.amnh.org/explore/news-blogs/summer-fireflies-bugs",
+    "fact": "Hơn 2.000 loài đom đóm; một số giao tiếp bằng pheromone thay vì chớp sáng.",
+    "sourceDate": "2015",
+    "limit": "Không lấy việc thiếu đèn của hậu duệ fantasy làm sự kiện sinh học đã chứng minh."
+  },
+  {
+    "id": "ORCH",
+    "title": "Kew Orchid family tree",
+    "url": "https://www.kew.org/read-and-watch/orchid-family-tree",
+    "fact": "Nguồn 2022 nêu khoảng 28.000 loài trong khoảng 850 chi; thụ phấn có thể chuyên hóa mạnh.",
+    "sourceDate": "2022",
+    "limit": "Đa dạng toàn họ; nhiều loài phụ thuộc bạn thụ phấn, không mặc định mọi lan dễ sống."
+  },
+  {
+    "id": "SCOR",
+    "title": "AMNH Scorpiones 2026",
+    "url": "https://scorpion-amnh.org/documents/2026--all-genera-of-the-world-order-scorpiones-animalia-arthropoda-arachnida--prendini.pdf",
+    "fact": "Bọ cạp có ở sa mạc, rừng, vùng triều, núi tới khoảng 4.900 m và hang sâu khoảng 1 km.",
+    "sourceDate": "2026",
+    "limit": "Nhóm rộng; giới hạn của từng loài khác nhau."
+  },
+  {
+    "id": "WOLF",
+    "title": "USFWS Gray Wolf Biology",
+    "url": "https://www.fws.gov/sites/default/files/documents/2024-04/1.pdf",
+    "fact": "Sói xám sống ở nhiều sinh cảnh từ sa mạc đến rừng và Bắc Cực; vùng ở phụ thuộc nguồn mồi.",
+    "sourceDate": "2011",
+    "limit": "Mở rộng địa lý không đồng nghĩa nhiều loài hoặc tiến hóa nhanh."
+  },
+  {
+    "id": "PIG",
+    "title": "TPWD Ecology of Wild Pigs",
+    "url": "https://tpwd.texas.gov/huntwild/wild/nuisance/feral_hogs/",
+    "fact": "Lợn ăn tạp cơ hội, khẩu phần đa dạng giúp sống trong nhiều môi trường.",
+    "sourceDate": "2020",
+    "limit": "Phân biệt phát tán do con người với thích nghi tự nhiên."
+  },
+  {
+    "id": "BAT",
+    "title": "University of Michigan Chiroptera",
+    "url": "https://animaldiversity.org/accounts/Chiroptera/",
+    "fact": "Dơi có nhiều chế độ ăn và sinh cảnh nhiệt đới/ôn đới, vắng vùng cực; nơi trú đậu là điều kiện quan trọng.",
+    "sourceDate": "2005",
+    "limit": "Chỉ dùng đặc tính sinh thái; không dùng các thống kê phân loại cũ."
+  },
+  {
+    "id": "POLAR",
+    "title": "USFWS Polar Bear",
+    "url": "https://www.fws.gov/species/polar-bear-ursus-maritimus",
+    "fact": "Gấu Bắc Cực phụ thuộc nhiều vào băng biển, sinh sản chậm và đầu tư chăm con cao.",
+    "sourceDate": "tra 27/11/2026",
+    "limit": "Dòng Gấu Đá có thể khác do yếu tố fantasy, phải ghi rõ."
+  },
+  {
+    "id": "SQUID",
+    "title": "University of Michigan Cephalopoda",
+    "url": "https://animaldiversity.org/accounts/Cephalopoda/",
+    "fact": "Cephalopoda là động vật biển; cơ thể, tua và hệ thần kinh thích nghi với đời sống dưới nước.",
+    "sourceDate": "2001",
+    "limit": "Không dùng số loài cũ hoặc suy luận quan hệ tiến hóa lỗi thời trong bài."
+  },
+  {
+    "id": "SNAIL",
+    "title": "University of Michigan Gastropoda",
+    "url": "https://animaldiversity.org/accounts/Gastropoda/",
+    "fact": "Nhóm thân mềm có nhiều kiểu ăn: ăn thực vật, mùn, lọc và săn mồi tùy nhánh.",
+    "sourceDate": "2001",
+    "limit": "Không dùng tổng số loài cũ; không gộp sò hai mảnh vỏ thành ốc."
+  },
+  {
+    "id": "JELLY",
+    "title": "Smithsonian Jellyfish",
+    "url": "https://ocean.si.edu/ocean-life/invertebrates/jellyfish-and-comb-jellies",
+    "fact": "Sứa có ở đại dương khắp thế giới, nước nông/sâu; một số sống nước ngọt.",
+    "sourceDate": "2013",
+    "limit": "Môi trường nước vẫn là ràng buộc; sứa bay là fantasy."
+  },
+  {
+    "id": "TRILO",
+    "title": "AMNH Trilobites",
+    "url": "https://www.amnh.org/research/paleontology/invertebrate/trilobites",
+    "fact": "Hơn 22.000 loài bọ ba thùy đã mô tả, tất cả thuộc nhóm động vật biển đã tuyệt chủng.",
+    "sourceDate": "tra 27/11/2026",
+    "limit": "Không dùng đa dạng quá khứ để chứng minh chúng đang thích nghi ở hiện tại."
+  },
+  {
+    "id": "FROG",
+    "title": "Amphibian Biology and Husbandry",
+    "url": "https://academic.oup.com/ilarjournal/article/48/3/203/663160",
+    "fact": "Lưỡng cư có nhiều lối sống nhưng da thấm và nhu cầu nước tạo ràng buộc sinh thái.",
+    "sourceDate": "2007",
+    "limit": "Da ẩm không có nghĩa mọi loài đều sống dưới nước."
+  },
+  {
+    "id": "CAT",
+    "title": "University of Michigan Felidae",
+    "url": "https://animaldiversity.org/accounts/Felidae/",
+    "fact": "Mèo có nhiều kiểu sinh cảnh; vẫn phụ thuộc nguồn mồi và nơi phục kích.",
+    "sourceDate": "2011",
+    "limit": "Không coi sư tử, báo và hổ có mức thích nghi giống nhau."
+  },
+  {
+    "id": "BOVID",
+    "title": "University of Michigan Bovidae",
+    "url": "https://animaldiversity.org/accounts/Bovidae/",
+    "fact": "Các nhánh bò/trâu/dê có thể thích nghi đồng cỏ, rừng, núi hoặc lãnh nguyên.",
+    "sourceDate": "2011",
+    "limit": "Dữ liệu toàn họ, không biến một con trâu thành mọi loài móng guốc."
+  },
+  {
+    "id": "DEER",
+    "title": "University of Michigan Cervidae",
+    "url": "https://animaldiversity.org/accounts/Cervidae/",
+    "fact": "Hươu có các nhánh sinh thái từ vùng lạnh đến nhiệt đới.",
+    "sourceDate": "2011",
+    "limit": "Chỉ dùng mô tả sinh cảnh, không dùng số loài cũ."
+  },
+  {
+    "id": "RAPTOR",
+    "title": "University of Michigan Accipitridae",
+    "url": "https://animaldiversity.org/accounts/Accipitridae/",
+    "fact": "Chim săn mồi phân bố rộng; nguồn mồi và nơi làm tổ giới hạn từng loài.",
+    "sourceDate": "2004",
+    "limit": "Griffin không tồn tại ngoài tự nhiên; chỉ mượn đặc tính săn mồi/bay."
+  },
+  {
+    "id": "TAPIR",
+    "title": "University of Michigan Tapiridae",
+    "url": "https://animaldiversity.org/accounts/Tapiridae/",
+    "fact": "Heo vòi gắn với nơi có cây che và nguồn nước lâu dài; có nhánh ở rừng núi.",
+    "sourceDate": "2001",
+    "limit": "Không dùng số loài/phân bố lịch sử cũ làm kiểm kê hiện tại."
+  },
+  {
+    "id": "ARM",
+    "title": "University of Michigan Dasypodidae",
+    "url": "https://animaldiversity.org/accounts/Dasypodidae/",
+    "fact": "Tatu có giáp, nhiều nhánh đào hang và nhiều kiểu sinh cảnh; điều nhiệt có giới hạn.",
+    "sourceDate": "2013",
+    "limit": "Phân loại họ cũ; chỉ mượn đặc tính sinh thái, không lấy số loài cũ."
+  },
+  {
+    "id": "CHAM",
+    "title": "University of Michigan Chamaeleonidae",
+    "url": "https://animaldiversity.org/accounts/Chamaeleonidae/",
+    "fact": "Tắc kè hoa có chân bám, lưỡi bắt mồi và mắt di chuyển độc lập; nhiều nhánh chuyên hóa trên cây.",
+    "sourceDate": "2003",
+    "limit": "Không lấy số 150 loài cũ làm dữ liệu hiện tại."
+  },
+  {
+    "id": "DRAGON",
+    "title": "Australian National Botanic Gardens Odonata",
+    "url": "https://www.anbg.gov.au/cpbr/WfHC/Odonata/index.html",
+    "fact": "Ấu trùng chuồn chuồn sống trong nước; cả ấu trùng và trưởng thành đều săn mồi.",
+    "sourceDate": "không ghi ngày",
+    "limit": "Dòng Lửa vẫn cần thủy vực cho vòng đời nếu chưa có thay đổi fantasy."
+  },
+  {
+    "id": "CENT",
+    "title": "University of Michigan Chilopoda",
+    "url": "https://www.biokids.umich.edu/critters/Chilopoda/",
+    "fact": "Đa số rết cần nơi ẩm; có một số nhánh ở vùng khô.",
+    "sourceDate": "không ghi ngày",
+    "limit": "Chịu dung nham là sáng tạo, không phải tính chất rết ngoài đời."
+  },
+  {
+    "id": "WHALE",
+    "title": "NOAA Blue Whale",
+    "url": "https://www.fisheries.noaa.gov/species/blue-whale",
+    "fact": "Cá voi xanh có ở mọi đại dương trừ Bắc Băng Dương; phân bố phụ thuộc nguồn nhuyễn thể.",
+    "sourceDate": "2026",
+    "limit": "Lấy cá voi xanh làm một proxy biển, không đại diện mọi loài cá voi."
+  }
+]

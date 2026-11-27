@@ -1,0 +1,1343 @@
+{
+  "version": "0.1",
+  "date": "2026-11-27",
+  "status": "Đề xuất phân bố, tên nhánh và năng lực; ràng buộc NPC thiểu số không có thẻ/chỉ số là yêu cầu người dùng.",
+  "regions": [
+    {
+      "id": "WHR",
+      "realm": "W",
+      "name": "Hraevik",
+      "macro": "Orvath",
+      "biome": "bờ băng",
+      "epithet": "Băng Triều",
+      "resource": "băng và nước lạnh",
+      "communityGift": "neo thân và giữ nhiệt",
+      "nativeEffects": {
+        "SLM": "Kết đế gel bám tảng băng trôi.",
+        "DRK": "Thở hơi kết cầu băng ngắn giữa hai tảng sát nhau.",
+        "MIM": "Giả tảng băng có khoang ấm nhử sinh vật tìm chỗ trú.",
+        "WIS": "Ánh đèn chỉ khe băng còn nước chảy."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WOL",
+      "realm": "W",
+      "name": "Olsenn",
+      "macro": "Orvath",
+      "biome": "rừng lạnh",
+      "epithet": "Tùng Sương",
+      "resource": "nhựa cây lạnh",
+      "communityGift": "giữ sinh khí mùa rét",
+      "nativeEffects": {
+        "SLM": "Trộn nhựa vào gel thành màng giữ ấm quanh ổ.",
+        "DRK": "Vảy kéo nhựa lên thân thành giáp chống gió lạnh.",
+        "MIM": "Giả thân tùng rỗng rồi khép thớ gỗ quanh vật chạm.",
+        "WIS": "Làm nhựa cây phát nhiệt dịu quanh gốc."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WVA",
+      "realm": "W",
+      "name": "Vardask",
+      "macro": "Orvath",
+      "biome": "núi băng",
+      "epithet": "Tuyết Lĩnh",
+      "resource": "đá núi và tuyết",
+      "communityGift": "đọc đường đá",
+      "nativeEffects": {
+        "SLM": "Nén tuyết thành vòm gel chống gió cho trứng.",
+        "DRK": "Vuốt tạo neo lực trên vách để bật qua khe.",
+        "MIM": "Giả mỏm đá rồi phát tiếng bước chân từ phía vách đối diện.",
+        "WIS": "Dọi ánh làm lộ chỗ tuyết rỗng sát mặt."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WLO",
+      "realm": "W",
+      "name": "Lorath",
+      "macro": "Vaelun",
+      "biome": "rừng đầm",
+      "epithet": "Rêu Đầm",
+      "resource": "mùn và rễ ngập",
+      "communityGift": "dẫn ẩm và lọc uế",
+      "nativeEffects": {
+        "SLM": "Gom độc chất yếu thành hạt cặn bỏ khỏi gel.",
+        "DRK": "Hơi thở đánh thức rễ nhỏ giữ bờ đầm quanh ổ.",
+        "MIM": "Giả gốc cây ngập và dùng rễ giả níu mồi nhỏ.",
+        "WIS": "Ánh đèn làm dấu độc chất trong màng nước hiện màu."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WSY",
+      "realm": "W",
+      "name": "Sylvar",
+      "macro": "Vaelun",
+      "biome": "rừng cổ",
+      "epithet": "Cổ Tán",
+      "resource": "mạch cây già",
+      "communityGift": "giao cảm rễ",
+      "nativeEffects": {
+        "SLM": "Chuyển mùn thành giọt sinh khí vá rễ cây bị trầy.",
+        "DRK": "Vảy kéo bóng lá che đường chạy dưới tán.",
+        "MIM": "Giả thân gỗ rồi tạm nối cành gãy quanh nơi trú.",
+        "WIS": "Truyền tín hiệu sáng qua mạng lá đang nối nhau."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WVE",
+      "realm": "W",
+      "name": "Veyrin",
+      "macro": "Vaelun",
+      "biome": "vách rừng",
+      "epithet": "Vách Lá",
+      "resource": "gió xuyên tán",
+      "communityGift": "đọc luồng khí",
+      "nativeEffects": {
+        "SLM": "Mở màng gel lướt theo luồng khí giữa hai cành.",
+        "DRK": "Màng chi trước tạo một điểm tựa khí khi bật qua tán.",
+        "MIM": "Giả tổ treo và dùng sợi dính giấu thân sau cành.",
+        "WIS": "Vẽ khí lưu thành vệt sáng chỉ đường qua tán."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WDU",
+      "realm": "W",
+      "name": "Duskell",
+      "macro": "Vaelun",
+      "biome": "hang rừng",
+      "epithet": "Địa Ảnh",
+      "resource": "âm dội và nấm sáng",
+      "communityGift": "nghe qua đá",
+      "nativeEffects": {
+        "SLM": "Hấp tiếng bò vào gel rồi xả khi cần đánh lạc hướng.",
+        "DRK": "Phun xung âm khiến đối thủ nghe sai cửa hang.",
+        "MIM": "Giả lối hang có chiều sâu để dụ mồi tiến vào.",
+        "WIS": "Mượn ánh nấm tạo một đốm sáng giả lệch thân."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WAS",
+      "realm": "W",
+      "name": "Ashborne",
+      "macro": "Eldavar",
+      "biome": "lòng chảo",
+      "epithet": "Mạch Hội",
+      "resource": "linh mạch công trình",
+      "communityGift": "dẫn lực cộng đồng",
+      "nativeEffects": {
+        "SLM": "Lấp khe rò trên máng dẫn bằng lớp gel giữ linh lực.",
+        "DRK": "Hơi thở kết dấu bảo hộ nhỏ quanh ổ trên nền đá.",
+        "MIM": "Giả đồ dùng và lưu một dấu lực của người từng chạm.",
+        "WIS": "Gửi nhịp sáng qua công trình có linh mạch liên tục."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WVG",
+      "realm": "W",
+      "name": "Veygard",
+      "macro": "Eldavar",
+      "biome": "đèo lạnh",
+      "epithet": "Đèo Vọng",
+      "resource": "gió đèo và đá",
+      "communityGift": "tản chấn",
+      "nativeEffects": {
+        "SLM": "Hút thổ lực để bám nền đá dốc.",
+        "DRK": "Tiếng gầm tạo đệm khí gạt đá vụn khỏi con non.",
+        "MIM": "Giả phiến đá nối khe rồi thu thân khi bị đạp.",
+        "WIS": "Gửi tiếng vọng báo động qua khe núi gần."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WCA",
+      "realm": "W",
+      "name": "Caldris",
+      "macro": "Eldavar",
+      "biome": "chân núi băng",
+      "epithet": "Kính Hàn",
+      "resource": "băng trong và ánh lạnh",
+      "communityGift": "khúc xạ và giữ nhiệt",
+      "nativeEffects": {
+        "SLM": "Bẻ ánh khiến gel hiện lệch dưới lớp băng.",
+        "DRK": "Dồn nhiệt vào một điểm để mở rãnh băng tìm mồi.",
+        "MIM": "Giả tinh thể băng có ánh phản quang dẫn dụ.",
+        "WIS": "Làm vết nứt băng đang lan hiện sáng."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WTH",
+      "realm": "W",
+      "name": "Theryn",
+      "macro": "Eldavar",
+      "biome": "rừng sông",
+      "epithet": "Bồi Thủy",
+      "resource": "nước sông và đất mịn",
+      "communityGift": "dẫn dòng",
+      "nativeEffects": {
+        "SLM": "Nén phù sa thành ụ giữ ổ khi nước lên.",
+        "DRK": "Bẻ dòng nước nông thành lối đi tạm.",
+        "MIM": "Giả khúc gỗ trôi và neo thân vào dòng ngầm.",
+        "WIS": "Làm nước đục sát thân trong lại để soi mồi."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WMO",
+      "realm": "W",
+      "name": "Morcant",
+      "macro": "Eldavar",
+      "biome": "mỏ và lò rèn",
+      "epithet": "Quặng Rèn",
+      "resource": "kim loại và rung đá",
+      "communityGift": "cảm quặng",
+      "nativeEffects": {
+        "SLM": "Gom mạt kim loại thành giáp gel có thể nhả bỏ.",
+        "DRK": "Móng phát xung tách hạt quặng khỏi đá vụn.",
+        "MIM": "Giả rương quặng và kéo mạt sắt bám giữ vật chạm.",
+        "WIS": "Ánh đèn đổi nhịp khi đi qua mạch quặng nông."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WIS",
+      "realm": "W",
+      "name": "Iskareth",
+      "macro": "Eldavar",
+      "biome": "cao địa đá",
+      "epithet": "Khe Thạch",
+      "resource": "đá khô và nước khe",
+      "communityGift": "bám đá và tích lực",
+      "nativeEffects": {
+        "SLM": "Niêm khe bằng màng gel giữ ẩm cho ổ.",
+        "DRK": "Vảy dồn thạch lực xuống chân để đứng vững.",
+        "MIM": "Giả bậc đá và hút nhẹ trọng lượng vật đặt lên.",
+        "WIS": "Dẫn vệt sáng theo một đường nước ngầm nông."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WQA",
+      "realm": "W",
+      "name": "Qadresh",
+      "macro": "Sarqesh",
+      "biome": "sa mạc đá",
+      "epithet": "Cát Thạch",
+      "resource": "cát rời và đá nóng",
+      "communityGift": "giữ nước và dẫn cát",
+      "nativeEffects": {
+        "SLM": "Kết cát thành vỏ gel giữ nước bên trong.",
+        "DRK": "Cuốn cát thành vòng níu chân mồi nhỏ.",
+        "MIM": "Giả miệng giếng nông có hơi mát dụ mồi.",
+        "WIS": "Tạo ảnh hơi nóng giả chỉ sai đường tiến."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WSU",
+      "realm": "W",
+      "name": "Sulmara",
+      "macro": "Sarqesh",
+      "biome": "đồng cỏ khô",
+      "epithet": "Cỏ Hạn",
+      "resource": "cỏ và sương đêm",
+      "communityGift": "tích lực và gọi ẩm",
+      "nativeEffects": {
+        "SLM": "Gom sương đêm thành hạt nước trong gel.",
+        "DRK": "Ép cỏ ngả thành đường lao kín.",
+        "MIM": "Giả bụi cỏ có bóng mát và cuộn thân quanh vật chạm.",
+        "WIS": "Làm cả bãi cỏ sống rung theo nhịp sáng báo động."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WDO",
+      "realm": "W",
+      "name": "Dorvaan",
+      "macro": "Sarqesh",
+      "biome": "cồn cát",
+      "epithet": "Lưu Sa",
+      "resource": "cát dịch chuyển",
+      "communityGift": "đọc rung cát",
+      "nativeEffects": {
+        "SLM": "Làm cát sát thân tơi ra để lặn tránh nắng.",
+        "DRK": "Tích cát trên vảy rồi xả màn che đường rút.",
+        "MIM": "Giả túi hành lý bỏ lại và dựng vòng cát che miệng.",
+        "WIS": "Giữ một hướng sáng qua đêm giúp đàn tìm về."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WES",
+      "realm": "W",
+      "name": "Eshra",
+      "macro": "Sarqesh",
+      "biome": "cao nguyên khô",
+      "epithet": "Nham Nắng",
+      "resource": "đá hấp nhiệt",
+      "communityGift": "tích nhiệt",
+      "nativeEffects": {
+        "SLM": "Tích nhiệt vào gel rồi phả hơi xua kẻ săn.",
+        "DRK": "Dùng luồng khí nóng để bật xa giữa hai mỏm đá.",
+        "MIM": "Giả phiến đá mát và niêm mùi thân trong đá giả.",
+        "WIS": "Giữ ánh hoàng hôn để phát lại lúc tối."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WNA",
+      "realm": "W",
+      "name": "Nameri",
+      "macro": "Namarai",
+      "biome": "rừng tro",
+      "epithet": "Tro Mầm",
+      "resource": "tro nguội và rễ mới",
+      "communityGift": "tái sinh và cách nhiệt",
+      "nativeEffects": {
+        "SLM": "Ăn tro hữu cơ rồi tạo màng nuôi hạt nảy mầm.",
+        "DRK": "Thở hơi ấm kích hạt ngủ quanh ổ.",
+        "MIM": "Giả gốc cây cháy rồi dựng màn tro ấm khi bị chạm.",
+        "WIS": "Dập tàn lửa nhỏ và chuyển nhiệt thành ánh nuôi mầm."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WSA",
+      "realm": "W",
+      "name": "Sairu",
+      "macro": "Namarai",
+      "biome": "vịnh nhiệt",
+      "epithet": "Nhiệt Triều",
+      "resource": "nước biển ấm",
+      "communityGift": "điều tiết nhiệt và muối",
+      "nativeEffects": {
+        "SLM": "Điều tiết màng muối quanh gel khi qua nước lợ.",
+        "DRK": "Đẩy cột nước ấm nhỏ hất mồi khỏi kẽ đá.",
+        "MIM": "Giả vỏ sò có luồng nước ấm thu hút mồi.",
+        "WIS": "Làm ranh giới nước quá nóng hiện sáng để đàn tránh."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WTA",
+      "realm": "W",
+      "name": "Talun",
+      "macro": "Namarai",
+      "biome": "đầm tro",
+      "epithet": "Mưa Tro",
+      "resource": "nước mưa và bùn tro",
+      "communityGift": "giữ ẩm và kết bùn",
+      "nativeEffects": {
+        "SLM": "Nhốt tro độc yếu thành cặn để giữ lõi gel sạch.",
+        "DRK": "Móng kết bùn thành viền bảo vệ ổ.",
+        "MIM": "Giả chùm rễ ngập rồi kéo lá thành lưới quanh thân.",
+        "WIS": "Gom giọt mưa đang rơi thành đường nước tới ổ."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WOR",
+      "realm": "W",
+      "name": "Orissa",
+      "macro": "Namarai",
+      "biome": "bazan nhiệt",
+      "epithet": "Bazan Đỏ",
+      "resource": "khoáng nhiệt và khí phun",
+      "communityGift": "dẫn nhiệt và tôi khoáng",
+      "nativeEffects": {
+        "SLM": "Dẫn nhiệt thừa từ gel xuống nền đá mát.",
+        "DRK": "Tôi khoáng trên vảy thành giáp cứng khi phơi đá nóng.",
+        "MIM": "Giả quặng nóng và rút nhiệt từ vật chạm để gây tê.",
+        "WIS": "Kết khí phun thành vệt sáng xua kẻ săn khỏi ổ."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WKR",
+      "realm": "W",
+      "name": "Kryss",
+      "macro": "Krynd",
+      "biome": "bờ biển cực",
+      "epithet": "Hải Hàn",
+      "resource": "băng biển và nước mặn",
+      "communityGift": "giữ khí và chống sốc lạnh",
+      "nativeEffects": {
+        "SLM": "Giữ một túi nước linh không đông trong lõi gel.",
+        "DRK": "Hơi muối lạnh tạo lớp bám trên bờ trơn.",
+        "MIM": "Giả hốc băng kín gió có nguồn ấm nhỏ nhử mồi.",
+        "WIS": "Tích linh quang thành đèn soi dưới băng."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WNI",
+      "realm": "W",
+      "name": "Nivar",
+      "macro": "Krynd",
+      "biome": "hồ băng",
+      "epithet": "Băng Tan",
+      "resource": "nước tan và địa y",
+      "communityGift": "chuyển pha và giữ sinh khí",
+      "nativeEffects": {
+        "SLM": "Chuyển lớp gel ngoài thành băng rồi làm mềm trở lại.",
+        "DRK": "Dồn nhiệt quanh móng mở một lỗ băng nhỏ kiếm mồi.",
+        "MIM": "Giả phiến băng có hình cá phản chiếu phía dưới.",
+        "WIS": "Giữ sinh khí trong địa y qua một đợt rét ngắn."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WTO",
+      "realm": "W",
+      "name": "Torvak",
+      "macro": "Krynd",
+      "biome": "hang băng",
+      "epithet": "Băng Cốt",
+      "resource": "băng đặc và tiếng nứt",
+      "communityGift": "nghe băng",
+      "nativeEffects": {
+        "SLM": "Vá nứt nhỏ bằng màng gel để nước không tràn ổ.",
+        "DRK": "Gầm khiến khoang băng rỗng gần thân vang khác màu âm.",
+        "MIM": "Giả cửa hang băng và phát tiếng gió từ bên trong.",
+        "WIS": "Dẫn ánh sáng dọc vân băng để báo chỗ đang nứt."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "WBN",
+      "realm": "W",
+      "name": "Biển Bắc",
+      "macro": "Biển Bắc",
+      "biome": "biển băng",
+      "epithet": "Bắc Triều",
+      "resource": "áp lực nước lạnh",
+      "communityGift": "giữ khí và chống lạnh",
+      "nativeEffects": {
+        "SLM": "Tạo túi nổi linh lực giữ gel sát lớp nước giàu oxy.",
+        "DRK": "Vây mang lực đẩy gạt mảnh băng nhỏ khỏi đường bơi.",
+        "MIM": "Giả bè băng trôi với mặt dưới dính bắt mồi.",
+        "WIS": "Truyền nhịp sáng qua nước lạnh để đàn con bám nhau."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "WDT",
+      "realm": "W",
+      "name": "Đại dương Tây",
+      "macro": "Đại dương Tây",
+      "biome": "biển sóng",
+      "epithet": "Tây Phong",
+      "resource": "sóng và muối",
+      "communityGift": "bẻ áp lực sóng",
+      "nativeEffects": {
+        "SLM": "Làm nước sát gel trượt qua để sóng khó xé thân.",
+        "DRK": "Neo bụng vào dòng ngầm để chống sóng mặt.",
+        "MIM": "Giả gỗ trôi và kéo dòng nhỏ giữ sát tuyến mồi.",
+        "WIS": "Vẽ sáng trên đỉnh sóng chỉ lối lặn cho đàn."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "WDD",
+      "realm": "W",
+      "name": "Đại dương Đông",
+      "macro": "Đại dương Đông",
+      "biome": "biển sâu",
+      "epithet": "Đông Lưu",
+      "resource": "dòng nước và ánh sâu",
+      "communityGift": "dò áp và dẫn quang",
+      "nativeEffects": {
+        "SLM": "Nhận hình mồi từ chênh áp quanh gel.",
+        "DRK": "Đẩy một luồng nước nén ngắn tăng tốc bơi.",
+        "MIM": "Giả chùm phù du sáng quanh lõi dính.",
+        "WIS": "Bẻ ánh còn sót thành chớp giao tiếp trong nước sâu."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "WNL",
+      "realm": "W",
+      "name": "Biển Nội Lục",
+      "macro": "Biển Nội Lục",
+      "biome": "biển kín",
+      "epithet": "Nội Triều",
+      "resource": "nước lợ và trầm tích",
+      "communityGift": "điều tiết muối",
+      "nativeEffects": {
+        "SLM": "Tách muối và cặn khỏi lớp nước sát gel.",
+        "DRK": "Nén cát thành bệ nghỉ tạm ở nước nông.",
+        "MIM": "Giả thùng bến trôi và giấu mùi qua nước lợ.",
+        "WIS": "Trao nhịp sáng báo hướng nước đang đổi mặn."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "WPN",
+      "realm": "W",
+      "name": "Biển Phương Nam",
+      "macro": "Biển Phương Nam",
+      "biome": "biển lạnh",
+      "epithet": "Nam Hàn",
+      "resource": "dòng lạnh và phù du",
+      "communityGift": "tích năng lượng theo mùa",
+      "nativeEffects": {
+        "SLM": "Gom phù du thành hạt gel dự trữ sinh khí.",
+        "DRK": "Điều tiết nhiệt quanh vây để bơi qua dòng lạnh.",
+        "MIM": "Giả rong trôi mang bọt sáng thu hút mồi nhỏ.",
+        "WIS": "Lưu dấu nhịp dòng theo mùa để đàn tìm vùng ăn."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "LTD",
+      "realm": "L",
+      "name": "Thiên Diệp",
+      "macro": "Linh giới",
+      "biome": "tán rừng linh",
+      "epithet": "Thiên Diệp",
+      "resource": "ánh lọc qua lá",
+      "communityGift": "mượn bóng tán",
+      "nativeEffects": {
+        "SLM": "Tách gel thành giọt lơ lửng giữa các lá để kiếm mồi.",
+        "DRK": "Mở màng chi bắt gió rồi đạp khí một nhịp qua tán.",
+        "MIM": "Giả lá lớn có giọt mật phát sáng dụ côn trùng.",
+        "WIS": "Nối bóng các lá thành tín hiệu cảnh báo chạy theo tán."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LNP",
+      "realm": "L",
+      "name": "Ngân Phong",
+      "macro": "Linh giới",
+      "biome": "núi gió",
+      "epithet": "Ngân Phong",
+      "resource": "khí lưu núi",
+      "communityGift": "đọc và neo khí lưu",
+      "nativeEffects": {
+        "SLM": "Nén khí vào bọt gel để nhẹ thân khi qua khe.",
+        "DRK": "Hơi thở gom gió quanh móng thành điểm neo tạm.",
+        "MIM": "Giả phiến chuông đá phát âm từ một hướng khác.",
+        "WIS": "Làm các luồng khí chạm nhau hiện thành đường sáng."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LHK",
+      "realm": "L",
+      "name": "Hồ Linh Kính",
+      "macro": "Linh giới",
+      "biome": "hồ linh quang",
+      "epithet": "Kính Hồ",
+      "resource": "nước phản quang",
+      "communityGift": "khúc xạ và giữ mạch nước",
+      "nativeEffects": {
+        "SLM": "Bẻ hình thân qua nước để một lõi hiện thành nhiều ảnh.",
+        "DRK": "Hơi thở làm mặt nước dựng một lá chắn cong mỏng.",
+        "MIM": "Giả hoa súng có hình mồi phản chiếu dưới lá.",
+        "WIS": "Tạo ảnh phản chiếu báo chuyển động phía sau mặt hồ."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LVH",
+      "realm": "L",
+      "name": "Vân Hải",
+      "macro": "Linh giới",
+      "biome": "đảo mây và biển",
+      "epithet": "Vân Triều",
+      "resource": "mây thấp và thủy khí",
+      "communityGift": "giữ sương và điều tiết áp",
+      "nativeEffects": {
+        "SLM": "Gom sương thành màng gel giúp nổi trên nước êm.",
+        "DRK": "Vây hoặc màng chi chuyển thủy khí thành cú lướt ngắn.",
+        "MIM": "Giả đá nổi rồi dựng sương che lõi cơ thể.",
+        "WIS": "Gửi nhịp sáng giữa sương và nước để đàn khỏi lạc."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LMT",
+      "realm": "L",
+      "name": "Mộng Triều",
+      "macro": "Linh giới",
+      "biome": "rừng mộng",
+      "epithet": "Mộng Sắc",
+      "resource": "dư âm cảm giác",
+      "communityGift": "dẫn và giấu cảm giác",
+      "nativeEffects": {
+        "SLM": "Gel giữ một mùi từng hấp thụ rồi phát lại ở nơi khác.",
+        "DRK": "Hơi thở tạo tiếng chân giả dẫn mồi khỏi ổ.",
+        "MIM": "Giả vật quen trong ký ức giác quan của con mồi đang ở gần.",
+        "WIS": "Ánh đèn biến tiếng động nhỏ thành vệt màu để đọc môi trường."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LBH",
+      "realm": "L",
+      "name": "Bách Hoa",
+      "macro": "Linh giới",
+      "biome": "đồng hoa linh",
+      "epithet": "Bách Hoa",
+      "resource": "mật và hương hoa",
+      "communityGift": "giao cảm thụ phấn",
+      "nativeEffects": {
+        "SLM": "Đổi mật thành giọt gel hồi sức cho bạn thụ phấn.",
+        "DRK": "Hơi thở kích hạt phấn quanh mõm bay thành màn che.",
+        "MIM": "Giả chùm hoa với hương ngọt để giữ mồi côn trùng.",
+        "WIS": "Mang hương giữa hai khóm hoa và làm dấu đường bằng sáng."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LCL",
+      "realm": "L",
+      "name": "Cổ Linh Lâm",
+      "macro": "Linh giới",
+      "biome": "rừng đại cổ",
+      "epithet": "Cổ Rễ",
+      "resource": "rễ và sinh khí cây",
+      "communityGift": "dẫn sinh lực qua rễ",
+      "nativeEffects": {
+        "SLM": "Dồn mùn đã tiêu hóa thành lớp gel vá rễ nhỏ.",
+        "DRK": "Móng nhận lực từ rễ để bước qua vùng đất lún.",
+        "MIM": "Giả gốc rễ và tạm nối rễ đứt làm lối dụ mồi.",
+        "WIS": "Dẫn ánh ngầm qua rễ để báo chỗ cây đang tổn thương."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LLU",
+      "realm": "L",
+      "name": "Lộc Uyển",
+      "macro": "Linh giới",
+      "biome": "đồng cỏ linh",
+      "epithet": "Lộc Thảo",
+      "resource": "sinh khí đàn thú",
+      "communityGift": "cộng hưởng nhịp sống",
+      "nativeEffects": {
+        "SLM": "Gel giữ nhịp sinh khí đàn thú để phát hiện kẻ săn lạ.",
+        "DRK": "Tiếng gọi tạo một khoảng yên giúp đàn con bớt hoảng loạn.",
+        "MIM": "Giả bụi cây có mùi an toàn để kéo mồi nhỏ nghỉ lại.",
+        "WIS": "Các đèn chớp theo nhịp đàn đi qua để gửi dấu hướng."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LSM",
+      "realm": "L",
+      "name": "Suối Minh Châu",
+      "macro": "Linh giới",
+      "biome": "suối linh",
+      "epithet": "Minh Châu",
+      "resource": "giọt mạch và khoáng sạch",
+      "communityGift": "lọc uế và giữ giọt",
+      "nativeEffects": {
+        "SLM": "Bọc chất bẩn trong hạt gel để dòng nước quanh ổ trong hơn.",
+        "DRK": "Hơi thở kết giọt nước thành cầu nhỏ qua kẽ đá.",
+        "MIM": "Giả viên ngọc nước có lõi dính và ánh sáng dịu.",
+        "WIS": "Đèn gom các giọt mạch tản thành một vệt sáng dẫn dòng."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LBT",
+      "realm": "L",
+      "name": "Bạch Thạch",
+      "macro": "Linh giới",
+      "biome": "cao nguyên đá trắng",
+      "epithet": "Bạch Thạch",
+      "resource": "thạch lực và ánh trắng",
+      "communityGift": "ghi và dồn lực trong đá",
+      "nativeEffects": {
+        "SLM": "Giữ thạch lực trong gel rồi tạo vỏ khoáng mỏng.",
+        "DRK": "Móng khắc dấu lực tạm trên đá để neo đường trèo.",
+        "MIM": "Giả bia đá có chữ sáng tự đổi theo hướng ánh.",
+        "WIS": "Ánh đèn làm lộ đường linh lực yếu trong đá gần."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LTQ",
+      "realm": "L",
+      "name": "Tịch Quang",
+      "macro": "Linh giới",
+      "biome": "bãi quang yên",
+      "epithet": "Tịch Quang",
+      "resource": "ánh lặng và dư chấn",
+      "communityGift": "lưu quang và giảm nhiễu",
+      "nativeEffects": {
+        "SLM": "Gel lưu một sắc sáng để phát lại che lõi khi bị săn.",
+        "DRK": "Hơi thở làm vùng quanh ổ yên rung trong chốc lát.",
+        "MIM": "Giả đèn đá lưu ánh để kéo mồi tới điểm phục kích.",
+        "WIS": "Giữ một nhịp sáng làm mốc dù ánh quanh liên tục đổi."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LBV",
+      "realm": "L",
+      "name": "Bến Vọng",
+      "macro": "Linh giới",
+      "biome": "bến đá và giao mạch",
+      "epithet": "Bến Vọng",
+      "resource": "dư âm đường đi",
+      "communityGift": "gửi dấu và nhận dư âm",
+      "nativeEffects": {
+        "SLM": "Gel giữ dấu chạm rồi tỏa mùi hướng về nơi từng trú.",
+        "DRK": "Gõ móng gửi dấu âm qua chuỗi đá gần.",
+        "MIM": "Giả vật bỏ lại và phát lại âm từng nghe từ vật đó.",
+        "WIS": "Ánh đèn nhận dấu lối cũ để hiện mũi đường mờ."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "LBL",
+      "realm": "L",
+      "name": "Biển Linh Quang",
+      "macro": "Linh giới",
+      "biome": "biển linh quang",
+      "epithet": "Linh Quang",
+      "resource": "ánh trong nước",
+      "communityGift": "dẫn quang thủy sinh",
+      "nativeEffects": {
+        "SLM": "Gel tách ánh trong nước thành lớp ảnh làm lõi khó thấy.",
+        "DRK": "Vây bẻ ánh thành màn mồi giả trước miệng.",
+        "MIM": "Giả cụm sinh vật phát sáng với những ngọn đèn nhỏ bên ngoài.",
+        "WIS": "Trao ánh sáng giữa các tầng nước như tín hiệu dẫn đàn."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "LVU",
+      "realm": "L",
+      "name": "Vân Uyên",
+      "macro": "Linh giới",
+      "biome": "biển mây sâu",
+      "epithet": "Vân Uyên",
+      "resource": "thủy khí và áp sâu",
+      "communityGift": "đổi pha nước sương",
+      "nativeEffects": {
+        "SLM": "Gel đổi màng ngoài giữa dạng sương ẩm và giọt nước.",
+        "DRK": "Vây kéo thủy khí thành đệm cho một cú trồi khỏi nước.",
+        "MIM": "Giả khối mây sát nước rồi tạo mặt dính bên trong.",
+        "WIS": "Giữ sáng trong bọt áp lực rồi thả bọt báo đường sâu."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "UBM",
+      "realm": "U",
+      "name": "Băng Mộ",
+      "macro": "Âm giới",
+      "biome": "băng tàn tích",
+      "epithet": "Mộ Băng",
+      "resource": "băng và dư âm đá",
+      "communityGift": "giữ nhiệt và đọc dư chấn",
+      "nativeEffects": {
+        "SLM": "Gel khóa hơi ấm còn sót trong đá để giữ lõi sống.",
+        "DRK": "Tiếng gầm khiến tuyết bám đá dựng gờ ngăn kẻ săn nhỏ.",
+        "MIM": "Giả một phiến băng có vật sáng bên dưới để dụ mồi.",
+        "WIS": "Đèn làm những dấu chân mới trên băng phát sáng mờ."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UHU",
+      "realm": "U",
+      "name": "Hàn Uyên",
+      "macro": "Âm giới",
+      "biome": "vực băng tối",
+      "epithet": "Hàn Uyên",
+      "resource": "khí lạnh và tiếng vực",
+      "communityGift": "neo lực trong bóng lạnh",
+      "nativeEffects": {
+        "SLM": "Gel tạo những sợi neo giữ thân trước gió hút của vực.",
+        "DRK": "Hơi thở kéo sương lạnh thành ảnh thân lệch bên cạnh.",
+        "MIM": "Giả miệng hốc ít gió với một ánh ấm giả bên trong.",
+        "WIS": "Tiếng sáng của đèn bật lại từ mặt băng để dò khoảng rỗng."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UVC",
+      "realm": "U",
+      "name": "Vực Câm",
+      "macro": "Âm giới",
+      "biome": "vực tắt âm",
+      "epithet": "Vô Thanh",
+      "resource": "khoảng lặng và khí đá",
+      "communityGift": "hấp và gửi âm",
+      "nativeEffects": {
+        "SLM": "Gel nuốt âm chạm rồi nhả thành xung khi bị dồn.",
+        "DRK": "Hơi thở tạo vùng câm nhỏ để ẩn đàn con.",
+        "MIM": "Giả vách đá và phát tiếng gọi từ phía vách khác.",
+        "WIS": "Đèn đổi rung động thành sáng thay cho âm để giao tiếp."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UCS",
+      "realm": "U",
+      "name": "Cốt Sa",
+      "macro": "Âm giới",
+      "biome": "cát khoáng trắng",
+      "epithet": "Cốt Sa",
+      "resource": "cát vôi và xương khoáng",
+      "communityGift": "kết và tách khoáng rời",
+      "nativeEffects": {
+        "SLM": "Gel kéo cát vôi thành vỏ từng phiến để đỡ mất ẩm.",
+        "DRK": "Hơi thở thổi cát thành gờ thấp chắn đường đuổi.",
+        "MIM": "Giả đoạn xương khoáng hóa để nhử sinh vật tìm chất khoáng.",
+        "WIS": "Ánh đèn vẽ dấu vật rỗng ẩn ngay dưới lớp cát."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UTT",
+      "realm": "U",
+      "name": "Tro Tàn",
+      "macro": "Âm giới",
+      "biome": "đồng tro tái sinh",
+      "epithet": "Tàn Tro",
+      "resource": "tro nguội và tàn nhiệt",
+      "communityGift": "tích tàn và chuyển nhiệt",
+      "nativeEffects": {
+        "SLM": "Gel hút tàn nhiệt rồi chuyển thành lớp ấm cho tổ.",
+        "DRK": "Hơi thở cuốn tro thành hình bóng một con cùng đàn.",
+        "MIM": "Giả đống than nguội có vùng nhiệt dễ chịu để dụ mồi.",
+        "WIS": "Đèn rút nhiệt từ tàn lửa nhỏ rồi phát thành tín hiệu."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UHN",
+      "realm": "U",
+      "name": "Hắc Nham",
+      "macro": "Âm giới",
+      "biome": "khe khoáng nhiệt",
+      "epithet": "Hắc Nham",
+      "resource": "đá nóng và khí khoáng",
+      "communityGift": "điều tiết nhiệt nền",
+      "nativeEffects": {
+        "SLM": "Gel luân chuyển nhiệt giữa hai mảng thân để tránh quá tải.",
+        "DRK": "Vuốt dồn nhiệt từ đá vào một hơi phun ngắn.",
+        "MIM": "Giả hòn quặng rồi niêm hơi khoáng quanh lõi.",
+        "WIS": "Đèn làm khí phun có độc yếu hiện thành dải màu cảnh báo."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UHL",
+      "realm": "U",
+      "name": "Hoang Lăng",
+      "macro": "Âm giới",
+      "biome": "đất mộ và đá cổ",
+      "epithet": "Hoang Lăng",
+      "resource": "đất cổ và dấu vật chất",
+      "communityGift": "giấu dấu và ghi chạm",
+      "nativeEffects": {
+        "SLM": "Gel niêm mùi thức ăn trong hạt đất để tránh kẻ cướp mồi.",
+        "DRK": "Móng dựng bụi khoáng thành màn che con non.",
+        "MIM": "Giả vật tang lễ hoặc đá kê có hình thức đã học.",
+        "WIS": "Đèn phát lại một dấu ánh vừa hấp thụ từ di vật."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "URH",
+      "realm": "U",
+      "name": "Rừng Hóa Thạch",
+      "macro": "Âm giới",
+      "biome": "rừng đá",
+      "epithet": "Thạch Lâm",
+      "resource": "rễ hóa đá và mùn khe",
+      "communityGift": "cảm rung và kết bụi",
+      "nativeEffects": {
+        "SLM": "Gel đưa mùn qua khe đá nuôi nấm tại nơi trú.",
+        "DRK": "Móng gửi rung qua thân đá để biết mồi phía sau.",
+        "MIM": "Giả một đoạn cây hóa thạch và khép các khe thân.",
+        "WIS": "Đèn đưa ánh qua vân gỗ đá để lộ lối hốc gần."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UDV",
+      "realm": "U",
+      "name": "Đồng Vọng",
+      "macro": "Âm giới",
+      "biome": "đồng sương và tiếng vọng",
+      "epithet": "Đồng Vọng",
+      "resource": "sương và âm dấu",
+      "communityGift": "lưu dấu giác quan",
+      "nativeEffects": {
+        "SLM": "Gel lưu tiếng chạm rồi thả âm giả dọc đường chạy.",
+        "DRK": "Tiếng gọi của đàn hiện thành một dải sương báo hướng.",
+        "MIM": "Giả đá nghỉ có tiếng nước êm để thu hút mồi.",
+        "WIS": "Đèn phát lại mảnh âm môi trường bằng nhịp chớp."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UDT",
+      "realm": "U",
+      "name": "Dạ Trạch",
+      "macro": "Âm giới",
+      "biome": "đầm tối",
+      "epithet": "Dạ Trạch",
+      "resource": "nước đầm và rễ ẩm",
+      "communityGift": "dò nước và giữ oxy",
+      "nativeEffects": {
+        "SLM": "Gel cô cặn bẩn để giữ lớp nước cạnh ổ dễ thở.",
+        "DRK": "Hơi thở kéo bọt nước thành màn che khi lặn.",
+        "MIM": "Giả gốc rễ ngập rồi dính mồi vào mạng bọt.",
+        "WIS": "Đèn làm đường nước còn lưu thông sáng hơn vùng tù."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UUS",
+      "realm": "U",
+      "name": "U Sơn",
+      "macro": "Âm giới",
+      "biome": "núi hang sâu",
+      "epithet": "U Sơn",
+      "resource": "âm đá và khoáng tối",
+      "communityGift": "đọc cấu trúc đá",
+      "nativeEffects": {
+        "SLM": "Gel nhận hình khe rỗng từ rung động trong nền.",
+        "DRK": "Móng làm sáng đường đá yếu ngay trước khi đặt chân.",
+        "MIM": "Giả mặt đá liền để che một túi thân trong hốc.",
+        "WIS": "Đèn gửi xung sáng qua thạch lực để dò một lớp đá mỏng."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UCD",
+      "realm": "U",
+      "name": "Cựu Đô",
+      "macro": "Âm giới",
+      "biome": "đô thị phế tích",
+      "epithet": "Cựu Đô",
+      "resource": "vật liệu cũ và dấu linh",
+      "communityGift": "đọc vật và giữ mạch",
+      "nativeEffects": {
+        "SLM": "Gel vá tạm những mối nối vật liệu quanh nơi trú.",
+        "DRK": "Hơi thở nối một đường lực đứt trên công trình nhỏ.",
+        "MIM": "Giả đồ dùng cổ và giữ lại một dấu chạm để nhận vật quen.",
+        "WIS": "Đèn làm dấu lực mới trên vật cũ hiện rõ trong chốc lát."
+      },
+      "waterOnly": false
+    },
+    {
+      "id": "UVG",
+      "realm": "U",
+      "name": "Vong Hà",
+      "macro": "Âm giới",
+      "biome": "sông tối",
+      "epithet": "Vong Thủy",
+      "resource": "dòng ngọt và trầm tích",
+      "communityGift": "dẫn dòng và giữ dấu nước",
+      "nativeEffects": {
+        "SLM": "Gel tạo hạt lọc cặn theo dòng để giữ nơi đẻ sạch.",
+        "DRK": "Vây bẻ một dòng nhỏ đưa trứng về vũng an toàn.",
+        "MIM": "Giả gỗ chìm có âm rung giống một đàn mồi.",
+        "WIS": "Đèn dõi một giọt nước được đánh dấu qua đoạn sông gần."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "UBT",
+      "realm": "U",
+      "name": "Biển Tĩnh",
+      "macro": "Âm giới",
+      "biome": "biển khoáng yên",
+      "epithet": "Tĩnh Hải",
+      "resource": "áp lực và khoáng tan",
+      "communityGift": "giảm rung và kết màng",
+      "nativeEffects": {
+        "SLM": "Gel kết khoáng thành màng chắn áp lực quanh lõi.",
+        "DRK": "Vây tạo một túi nước ít rung để nghỉ giữa dòng sâu.",
+        "MIM": "Giả ụ khoáng dưới biển có bọt mồi nổi lên.",
+        "WIS": "Đèn giấu ánh vào túi nước rồi thả chớp khi cần gọi đàn."
+      },
+      "waterOnly": true
+    },
+    {
+      "id": "UHH",
+      "realm": "U",
+      "name": "Hắc Hải",
+      "macro": "Âm giới",
+      "biome": "biển sâu tối",
+      "epithet": "Hắc Hải",
+      "resource": "áp sâu và linh quang yếu",
+      "communityGift": "cảm áp và khuếch quang",
+      "nativeEffects": {
+        "SLM": "Gel gửi xung áp ngắn để dựng hình vật gần.",
+        "DRK": "Vây gom áp lực thành một cú đẩy nước hẹp.",
+        "MIM": "Giả sinh vật phù du phát sáng bao quanh một lõi dính tối.",
+        "WIS": "Đèn khuếch ánh ít ỏi thành một tín hiệu định hướng ngắn."
+      },
+      "waterOnly": true
+    }
+  ],
+  "plans": [
+    {
+      "id": "ELF-Q",
+      "sourceIds": [
+        2
+      ],
+      "label": "Tinh linh Quang Mạch",
+      "variants": [
+        "LTQ",
+        "WCA",
+        "WAS",
+        "LBT",
+        "LHK",
+        "UCD"
+      ],
+      "sample": "Ánh mạch và giao cảm linh lực"
+    },
+    {
+      "id": "ELF-M",
+      "sourceIds": [
+        3
+      ],
+      "label": "Mộc tinh linh Cổ Lâm",
+      "variants": [
+        "WSY",
+        "LCL",
+        "WLO",
+        "WNA",
+        "LTD",
+        "LLU"
+      ],
+      "sample": "Cộng sinh rễ và bóng tán"
+    },
+    {
+      "id": "ELF-A",
+      "sourceIds": [
+        4
+      ],
+      "label": "Hắc tinh linh Thạch Ảnh",
+      "variants": [
+        "WDU",
+        "UUS",
+        "WMO",
+        "UVC",
+        "UCD",
+        "LMT"
+      ],
+      "sample": "Thính giác qua đá và lớp bóng che"
+    },
+    {
+      "id": "DWF",
+      "sourceIds": [
+        5
+      ],
+      "label": "Người lùn",
+      "variants": [
+        "WMO",
+        "WCA",
+        "WVG",
+        "WQA",
+        "WES",
+        "WNA",
+        "WOR",
+        "WKR",
+        "WNI",
+        "LBT",
+        "UUS",
+        "UCD"
+      ],
+      "sample": "Gia cố khoáng và cảm quặng"
+    },
+    {
+      "id": "DRF",
+      "sourceIds": [
+        27
+      ],
+      "label": "Long nhân",
+      "variants": [
+        "WIS",
+        "WTH",
+        "WNA",
+        "WSA",
+        "WOR",
+        "WHR",
+        "WVA",
+        "WDO",
+        "LNP",
+        "LVH",
+        "UHN",
+        "UHU"
+      ],
+      "sample": "Cơ quan vảy và hơi thở thích nghi"
+    },
+    {
+      "id": "GOB",
+      "sourceIds": [
+        7
+      ],
+      "label": "Goblin",
+      "variants": [
+        "WAS",
+        "WDU",
+        "WQA",
+        "WES",
+        "WNA",
+        "WTA",
+        "WKR",
+        "LTD",
+        "UHL",
+        "UCD"
+      ],
+      "sample": "Cảm vật liệu và giấu dấu"
+    },
+    {
+      "id": "ORC",
+      "sourceIds": [
+        6
+      ],
+      "label": "Orc",
+      "variants": [
+        "WSU",
+        "WQA",
+        "WVG",
+        "WVA",
+        "WTA",
+        "LLU",
+        "UCS",
+        "URH"
+      ],
+      "sample": "Tích sinh lực và neo cơ thể"
+    },
+    {
+      "id": "TRL",
+      "sourceIds": [
+        13
+      ],
+      "label": "Troll Rêu Đầm",
+      "variants": [
+        "WLO",
+        "WDU",
+        "WTA",
+        "WSA",
+        "LCL",
+        "LSM",
+        "UDT",
+        "UHU"
+      ],
+      "sample": "Tái kết mô theo môi trường"
+    },
+    {
+      "id": "GNM",
+      "sourceIds": [
+        10
+      ],
+      "label": "Gnome",
+      "variants": [
+        "WAS",
+        "WMO",
+        "WSY",
+        "LBT",
+        "LTQ",
+        "UCD"
+      ],
+      "sample": "Ghi dư âm và dấu sáng"
+    },
+    {
+      "id": "GNT",
+      "sourceIds": [
+        11,
+        14,
+        17
+      ],
+      "label": "Các nhánh cự nhân",
+      "variants": [
+        "WVG",
+        "WMO",
+        "WNI",
+        "WTO",
+        "WVA",
+        "UBM"
+      ],
+      "sample": "Tích lực cơ thể, cảm đá và giữ nhiệt"
+    },
+    {
+      "id": "BRF",
+      "sourceIds": [
+        21
+      ],
+      "label": "Hùng nhân",
+      "variants": [
+        "WOL",
+        "WKR"
+      ],
+      "sample": "Lớp lông tích nhiệt và sinh lực"
+    },
+    {
+      "id": "LZF",
+      "sourceIds": [
+        25
+      ],
+      "label": "Tích dịch nhân Tro Đảo",
+      "variants": [
+        "WTA",
+        "WSA",
+        "UDT"
+      ],
+      "sample": "Vảy giữ ẩm và dẫn nhiệt"
+    },
+    {
+      "id": "TRT",
+      "sourceIds": [
+        28
+      ],
+      "label": "Quy nhân Hải Nham",
+      "variants": [
+        "WOR",
+        "WBN"
+      ],
+      "sample": "Mai điều áp và kết khoáng"
+    },
+    {
+      "id": "MER",
+      "sourceIds": [
+        34
+      ],
+      "label": "Ngư nhân",
+      "variants": [
+        "WDD",
+        "LHK",
+        "UHH"
+      ],
+      "sample": "Cơ quan nước và cảm dòng"
+    },
+    {
+      "id": "NAG",
+      "sourceIds": [
+        35
+      ],
+      "label": "Xà linh Kính Thủy",
+      "variants": [
+        "LHK",
+        "UVG"
+      ],
+      "sample": "Vảy lưu mạch và điều tiết nước"
+    },
+    {
+      "id": "LAM",
+      "sourceIds": [
+        36
+      ],
+      "label": "Xà nhân Cát Kính",
+      "variants": [
+        "WQA",
+        "UHU"
+      ],
+      "sample": "Da khúc xạ và cơ quan điều nhiệt"
+    },
+    {
+      "id": "FOX",
+      "sourceIds": [
+        38
+      ],
+      "label": "Hồ ly Mộng Triều",
+      "variants": [
+        "LMT",
+        "WOL",
+        "UVC"
+      ],
+      "sample": "Ảnh cảm giác và lưu hương"
+    },
+    {
+      "id": "FUN",
+      "sourceIds": [
+        46
+      ],
+      "label": "Nấm nhân Bào Linh",
+      "variants": [
+        "LCL",
+        "URH"
+      ],
+      "sample": "Bào tử giao cảm và chuyển mùn"
+    }
+  ],
+  "aliases": {
+    "2": "Cao tinh linh Quang Mạch",
+    "3": "Mộc tinh linh Cổ Lâm",
+    "4": "Hắc tinh linh Thạch Ảnh",
+    "11": "Cự nhân Sơn Thạch",
+    "13": "Troll Rêu Đầm",
+    "14": "Độc nhãn cự nhân Băng Nham",
+    "17": "Bán cự nhân Tuyết Lĩnh",
+    "25": "Tích dịch nhân Tro Đảo",
+    "28": "Quy nhân Hải Nham",
+    "35": "Xà linh Kính Thủy",
+    "36": "Xà nhân Cát Kính",
+    "38": "Hồ ly Mộng Triều",
+    "46": "Nấm nhân Bào Linh"
+  },
+  "sources": [
+    {
+      "id": "DND24",
+      "title": "D&D Beyond Character Origins 2024",
+      "url": "https://www.dndbeyond.com/sources/dnd/br-2024/character-origins",
+      "scope": "Dragonborn có 10 lựa chọn tổ tiên rồng; Elf có 3 lựa chọn lineage trong chương này. Dwarf có các cộng đồng đồi/núi; đây không phải cùng một loại đơn vị đếm.",
+      "inference": "Tham khảo cách gắn diện mạo và năng lực vào nhánh; không chuyển nguồn gốc thần linh hoặc cơ chế D&D sang Ashborne."
+    },
+    {
+      "id": "DNDSP",
+      "title": "D&D Beyond Species catalog",
+      "url": "https://www.dndbeyond.com/species",
+      "scope": "Có Eladrin, Sea Elf, Shadar-kai và Duergar, cho thấy các họ Elf/Dwarf có nhiều hướng thích nghi và biến đổi. Không đếm lại bản Legacy/2024 hoặc tên đồng nghĩa thành nhánh mới.",
+      "inference": "Có cơ sở chọn Elf, Dwarf cùng Long nhân/cự nhân làm các họ ưu tiên trong phạm vi khảo sát, không chứng minh đứng đầu mọi IP."
+    },
+    {
+      "id": "DNDOO",
+      "title": "D&D Beyond Oozes",
+      "url": "https://www.dndbeyond.com/posts/949-how-to-play-oozes-like-body-devouring-terrors",
+      "scope": "Nêu Gray Ooze, Ochre Jelly, Black Pudding và Gelatinous Cube như các hình tượng chất keo quen thuộc.",
+      "inference": "Ashborne dùng Niêm thể bản địa riêng; không sao chép stat block hoặc công thức kết hợp."
+    },
+    {
+      "id": "DNDMI",
+      "title": "D&D Basic Rules 2014 Mimic",
+      "url": "https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monster-stat-blocks-m",
+      "scope": "Mimic là sinh vật đổi hình vật thể và có đặc tính bám dính.",
+      "inference": "Mở mô-típ sang vật liệu bản địa, cấu trúc sinh thái và thủy sinh bằng thiết kế riêng."
+    },
+    {
+      "id": "DNDWI",
+      "title": "D&D Basic Rules 2014 Will-o-wisp",
+      "url": "https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monster-stat-blocks-w",
+      "scope": "Có hình tượng will-o-wisp; phiên bản D&D thuộc nhóm undead.",
+      "inference": "Linh hỏa Ashborne là sinh vật bản địa kết từ môi trường linh lực, không mặc định là linh hồn người chết."
+    }
+  ],
+  "npcPolicy": {
+    "npcOnly": true,
+    "minority": true,
+    "cardEligible": false,
+    "combatStats": false,
+    "armySpecialtyOverride": false,
+    "principle": "Phân bố nhiều nơi không đồng nghĩa đông dân. Nhánh thích nghi là NPC/cộng đồng thiểu số; 60 hồ sơ nền giữ riêng."
+  },
+  "nativePolicy": {
+    "origin": "Độc lập với 54 dòng Ấn Thú",
+    "onePerFamilyPerRegion": true,
+    "plasticity": "Mạnh hơn hậu duệ Ấn Thú trong việc hình thành biến thể theo nơi sống",
+    "frequency": "Phổ biến hơn hậu duệ Ấn Thú trong cùng sinh cảnh; đông thưa mô tả định tính, không phải số cá thể đo đạc",
+    "slimeAlias": "Họ Niêm thể đã có ở hồ sơ 60; cá thể hoang và nhánh có ý thức không được tính thành hai họ khác nhau."
+  }
+}

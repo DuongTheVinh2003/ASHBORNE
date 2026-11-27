@@ -1,0 +1,55 @@
+{
+  "summary": {
+    "baseRaceProfiles": 60,
+    "npcMinorityBranches": 99,
+    "nativeFamilies": 4,
+    "regions": 58,
+    "nativeVariants": 232,
+    "nativeByRealm": {
+      "W": 116,
+      "L": 56,
+      "U": 60
+    },
+    "npcByRealm": {
+      "L": 20,
+      "W": 57,
+      "U": 22
+    },
+    "newArmyCards": 0,
+    "newNPCStatBlocks": 0,
+    "existingSealProgenitors": 54,
+    "sealDescendantBranchesUnchanged": 255,
+    "creatureDexEntriesIfMerged": 541
+  },
+  "checks": {
+    "exactly60BaseRaceProfiles": true,
+    "noExtraArmyCards": true,
+    "allNPCBranchesMinorityAndNoStats": true,
+    "fourNativeVariantsInEachRegion": true,
+    "allNativeEffectsDistinct": true,
+    "allRegionIdsValid": true,
+    "slimeReferencesExistingRace60": true,
+    "allPowerProfilesHaveLimits": true,
+    "existing54SealDataNotMutated": true,
+    "source60NamesAndSpecialtiesPreserved": true,
+    "all24WorldCountriesCovered": true,
+    "noNPCsInCreatureDex": true,
+    "541UniqueDexIds": true,
+    "sealConceptMatchesPriorAuditHash": true
+  },
+  "renderedMapChanges": false,
+  "sourceDescriptionsChanged": [
+    4,
+    11,
+    13,
+    14,
+    17,
+    25,
+    28,
+    35,
+    36,
+    38,
+    46
+  ],
+  "sealSourceSha256": "41482d460c3966a57daf5bbe79518aaab119267a5782c22e61e388f1779ae7cd"
+}

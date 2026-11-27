@@ -147,7 +147,11 @@ Trong chồng sai công thức Tuyệt kỹ, lá Nguyên tố kích hoạt ngay 
 
 Mỗi lá ứng với **một sinh vật có thể phong ấn và một năng lực mượn từ sinh vật đó**. Bốn chất tương ứng với **♠ Gió, ♥ Lửa, ♦ Nước, ♣ Đất**. **Joker Đen** và **Joker Trắng** đứng ngoài bốn chất.
 
+**Nguồn gốc sinh vật — quyết định ngày 27/11/2026.** Sinh vật mang Ấn là thủy tổ và cá thể mạnh nhất trong dòng hậu duệ của mình, mang đầy đủ đặc điểm và năng lực mô tả trên lá. Hậu duệ nhỏ hơn, yếu hơn, có thể thừa hưởng một phần sức mạnh hoặc chỉ giữ hình dáng mà không còn sức mạnh nguyên thủy. Các quần thể chịu ảnh hưởng lâu dài của môi trường có thể hình thành những nhánh mới tại nơi sinh sống. Số 54 chỉ số dòng thủy tổ của bộ Ấn, không giới hạn toàn bộ số loài trong thế giới. Mỗi nhánh hậu duệ tiếp tục quy về Ấn gốc; không tự sinh thêm Ấn hoặc đổi luật thu phục.
+
 Người chơi mang tối đa ba ấn vào khu vực riêng của Phase 2. Kích hoạt ấn dùng điểm riêng, độc lập với mana hoặc Energy của bài thường. Mỗi ấn dùng một lần trong cả cuộc công thành, xuyên các trận. Chỉ sau khi chiếm thành mới được mang bộ mới vào. Khả năng nạp lại ấn khi Quá tải sẽ quyết định sau playtest.
+
+**Hai nguồn sức mạnh của hậu duệ — bổ sung ngày 27/11/2026.** Sức mạnh nguyên thủy là phần quyền năng thừa hưởng từ thủy tổ và có thể khó biểu hiện hoặc mất hoàn toàn. Sức mạnh thích nghi hình thành theo môi trường sống, là đặc tính của những nhánh đã phân hóa và không mặc định là dị biến cực hiếm. Hậu duệ không còn quyền năng nguyên thủy vẫn có thể sở hữu năng lực thích nghi: tác động lên đất đá, nhiệt, nước, ánh sáng, âm thanh hoặc các thuộc tính khác phù hợp sinh cảnh. Mỗi năng lực có điều kiện và giới hạn riêng; màu sắc, kích thước hoặc khả năng sống sót thuần túy không thay thế cho mô tả năng lực fantasy. Thủy tổ tiếp tục là cá thể mạnh nhất của dòng; lợi thế chuyên biệt tại một sinh cảnh không tự làm hậu duệ vượt tổng thể thủy tổ. Hai nguồn này không tự sửa hiệu ứng thẻ, chỉ số combat, số lượng Ấn hoặc quy tắc thu phục.
 
 Ưu tiên combo poker. Nếu triển khai có quá nhiều luật, phương án dự phòng là ghép theo nguyên tố, lấy số lá tham gia xác định bội số sức mạnh. Các tổ hợp áp dụng với bộ tối đa ba ấn và công thức cụ thể sẽ thiết kế sau.
 
@@ -192,7 +196,7 @@ Lửa chi phối **áp lực và sự lan truyền**. Lá thấp châm lửa. L�
 | Lá | Gốc Blade | Ấn Thú Ashborne | Năng lực khi mở ấn |
 |---|---|---|---|
 | **A♥** | Bọ ngựa | **Đường Lang Lưỡi Hồng** | Khai Dạng trong lượt này. Đòn vũ khí đầu tiên gieo than, đòn kế tiếp vào cùng mục tiêu làm than bùng. |
-| **2♥** | Người | **Người Giữ Bếp Cuối** | Châm lửa vào đòn vũ khí kế tiếp, cộng một ít sát thương. |
+| **2♥** | Người | **Người Giữ Lửa Cuối Cùng** | Châm lửa vào đòn vũ khí kế tiếp, cộng một ít sát thương. |
 | **3♥** | Cá mập đầu búa | **Cá Đầu Búa Biển Tro** | Gây sát thương lên một địch. Tăng sát thương nếu mục tiêu đã bị thương trong lượt này. |
 | **4♥** | Chuồn chuồn | **Chuồn Chuồn Kim Hỏa** | Gây sát thương nhẹ lên hai địch khác nhau. |
 | **5♥** | Sò hoặc ốc có vỏ | **Ốc Lò Than** | Gieo than lên một địch. Đòn vũ khí kế tiếp của bạn vào mục tiêu làm than bùng. |
@@ -204,6 +208,12 @@ Lửa chi phối **áp lực và sự lan truyền**. Lá thấp châm lửa. L�
 | **J♥** | Sói | **Sói Săn Tàn Hỏa** | Gây sát thương mạnh lên địch đang cháy. Nếu hạ nó, chuyển lượng Thiêu Đốt còn lại sang một mục tiêu khác. |
 | **Q♥** | Phong lan | **✦ Lan Yêu Hút Tro** | Lan ăn thịt bén rễ trong tro. Trong hai lượt, lần đầu Thiêu Đốt kích hoạt mỗi lượt, tạo một nụ lửa. Khi hết hạn, tất cả nụ nổ lên địch đang cháy. |
 | **K♥** | Bọ ngựa ma | **✦ Nanh Tro** | Bọ ngựa tang lễ kết từ tro của cả một lò thiêu. Gây một đòn lớn và gieo than vương ấn. Nếu kẻ mang than bị hạ trong thời hạn, than nhảy sang địch kế tiếp và bùng ngay. Mỗi địch chỉ nhận vương ấn một lần. |
+
+**Mô tả 2♥ — Người Giữ Lửa Cuối Cùng**
+
+Người Giữ Lửa Cuối Cùng là thủy tổ mang hình người của các chủng tộc hình người hiện tại. Ngọn lửa nguyên thủy của ngài có thể truyền vào vũ khí, để lại sức mạnh mà các thế hệ sau chỉ thừa hưởng từng phần. Có hậu duệ còn giữ được khả năng liên quan đến lửa; có nhánh chỉ giữ hình dáng mà không còn sức mạnh ấy. Qua những môi trường sống khác nhau, các dòng hậu duệ tiếp tục phân hóa về hình thể và đặc tính. Trong thế giới hiện tại, dấu vết của thủy tổ gắn với những cộng đồng giữ lửa, thợ rèn và người nghiên cứu hỏa thuật. Quan hệ phả hệ cụ thể giữa từng chủng hình người sẽ được xác định riêng.
+
+Hiệu ứng chiến đấu của 2♥ giữ nguyên như trong bảng. Hạng lá và lượng sức mạnh người chơi mượn được không tự xác định toàn bộ quy mô quyền năng hoặc vai trò lịch sử của thủy tổ.
 
 ### ♦ Rô và Nước
 

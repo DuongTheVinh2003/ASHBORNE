@@ -1,0 +1,37 @@
+[
+  {
+    "id": "DND24",
+    "title": "D&D Beyond Character Origins 2024",
+    "url": "https://www.dndbeyond.com/sources/dnd/br-2024/character-origins",
+    "scope": "Dragonborn có 10 lựa chọn tổ tiên rồng; Elf có 3 lựa chọn lineage trong chương này. Dwarf có các cộng đồng đồi/núi; đây không phải cùng một loại đơn vị đếm.",
+    "inference": "Tham khảo cách gắn diện mạo và năng lực vào nhánh; không chuyển nguồn gốc thần linh hoặc cơ chế D&D sang Ashborne."
+  },
+  {
+    "id": "DNDSP",
+    "title": "D&D Beyond Species catalog",
+    "url": "https://www.dndbeyond.com/species",
+    "scope": "Có Eladrin, Sea Elf, Shadar-kai và Duergar, cho thấy các họ Elf/Dwarf có nhiều hướng thích nghi và biến đổi. Không đếm lại bản Legacy/2024 hoặc tên đồng nghĩa thành nhánh mới.",
+    "inference": "Có cơ sở chọn Elf, Dwarf cùng Long nhân/cự nhân làm các họ ưu tiên trong phạm vi khảo sát, không chứng minh đứng đầu mọi IP."
+  },
+  {
+    "id": "DNDOO",
+    "title": "D&D Beyond Oozes",
+    "url": "https://www.dndbeyond.com/posts/949-how-to-play-oozes-like-body-devouring-terrors",
+    "scope": "Nêu Gray Ooze, Ochre Jelly, Black Pudding và Gelatinous Cube như các hình tượng chất keo quen thuộc.",
+    "inference": "Ashborne dùng Niêm thể bản địa riêng; không sao chép stat block hoặc công thức kết hợp."
+  },
+  {
+    "id": "DNDMI",
+    "title": "D&D Basic Rules 2014 Mimic",
+    "url": "https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monster-stat-blocks-m",
+    "scope": "Mimic là sinh vật đổi hình vật thể và có đặc tính bám dính.",
+    "inference": "Mở mô-típ sang vật liệu bản địa, cấu trúc sinh thái và thủy sinh bằng thiết kế riêng."
+  },
+  {
+    "id": "DNDWI",
+    "title": "D&D Basic Rules 2014 Will-o-wisp",
+    "url": "https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monster-stat-blocks-w",
+    "scope": "Có hình tượng will-o-wisp; phiên bản D&D thuộc nhóm undead.",
+    "inference": "Linh hỏa Ashborne là sinh vật bản địa kết từ môi trường linh lực, không mặc định là linh hồn người chết."
+  }
+]

@@ -1,0 +1,799 @@
+{
+  "count": 99,
+  "npcOnly": true,
+  "combatStats": false,
+  "entries": [
+    {
+      "id": "NPC-ELF-Q-01",
+      "name": "Tinh linh Quang Mạch Tịch Quang",
+      "baseRaceRef": 2,
+      "regionId": "LTQ",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-Q-02",
+      "name": "Tinh linh Quang Mạch Kính Hàn",
+      "baseRaceRef": 2,
+      "regionId": "WCA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-Q-03",
+      "name": "Tinh linh Quang Mạch Mạch Hội",
+      "baseRaceRef": 2,
+      "regionId": "WAS",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-Q-04",
+      "name": "Tinh linh Quang Mạch Bạch Thạch",
+      "baseRaceRef": 2,
+      "regionId": "LBT",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-Q-05",
+      "name": "Tinh linh Quang Mạch Kính Hồ",
+      "baseRaceRef": 2,
+      "regionId": "LHK",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-Q-06",
+      "name": "Tinh linh Quang Mạch Cựu Đô",
+      "baseRaceRef": 2,
+      "regionId": "UCD",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-M-01",
+      "name": "Mộc tinh linh Cổ Lâm Cổ Tán",
+      "baseRaceRef": 3,
+      "regionId": "WSY",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-M-02",
+      "name": "Mộc tinh linh Cổ Lâm Cổ Rễ",
+      "baseRaceRef": 3,
+      "regionId": "LCL",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-M-03",
+      "name": "Mộc tinh linh Cổ Lâm Rêu Đầm",
+      "baseRaceRef": 3,
+      "regionId": "WLO",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-M-04",
+      "name": "Mộc tinh linh Cổ Lâm Tro Mầm",
+      "baseRaceRef": 3,
+      "regionId": "WNA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-M-05",
+      "name": "Mộc tinh linh Cổ Lâm Thiên Diệp",
+      "baseRaceRef": 3,
+      "regionId": "LTD",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-M-06",
+      "name": "Mộc tinh linh Cổ Lâm Lộc Thảo",
+      "baseRaceRef": 3,
+      "regionId": "LLU",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-A-01",
+      "name": "Hắc tinh linh Thạch Ảnh Địa Ảnh",
+      "baseRaceRef": 4,
+      "regionId": "WDU",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-A-02",
+      "name": "Hắc tinh linh Thạch Ảnh U Sơn",
+      "baseRaceRef": 4,
+      "regionId": "UUS",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-A-03",
+      "name": "Hắc tinh linh Thạch Ảnh Quặng Rèn",
+      "baseRaceRef": 4,
+      "regionId": "WMO",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-A-04",
+      "name": "Hắc tinh linh Thạch Ảnh Vô Thanh",
+      "baseRaceRef": 4,
+      "regionId": "UVC",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-A-05",
+      "name": "Hắc tinh linh Thạch Ảnh Cựu Đô",
+      "baseRaceRef": 4,
+      "regionId": "UCD",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ELF-A-06",
+      "name": "Hắc tinh linh Thạch Ảnh Mộng Sắc",
+      "baseRaceRef": 4,
+      "regionId": "LMT",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-01",
+      "name": "Người lùn Quặng Rèn",
+      "baseRaceRef": 5,
+      "regionId": "WMO",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-02",
+      "name": "Người lùn Kính Hàn",
+      "baseRaceRef": 5,
+      "regionId": "WCA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-03",
+      "name": "Người lùn Đèo Vọng",
+      "baseRaceRef": 5,
+      "regionId": "WVG",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-04",
+      "name": "Người lùn Cát Thạch",
+      "baseRaceRef": 5,
+      "regionId": "WQA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-05",
+      "name": "Người lùn Nham Nắng",
+      "baseRaceRef": 5,
+      "regionId": "WES",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-06",
+      "name": "Người lùn Tro Mầm",
+      "baseRaceRef": 5,
+      "regionId": "WNA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-07",
+      "name": "Người lùn Bazan Đỏ",
+      "baseRaceRef": 5,
+      "regionId": "WOR",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-08",
+      "name": "Người lùn Hải Hàn",
+      "baseRaceRef": 5,
+      "regionId": "WKR",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-09",
+      "name": "Người lùn Băng Tan",
+      "baseRaceRef": 5,
+      "regionId": "WNI",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-10",
+      "name": "Người lùn Bạch Thạch",
+      "baseRaceRef": 5,
+      "regionId": "LBT",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-11",
+      "name": "Người lùn U Sơn",
+      "baseRaceRef": 5,
+      "regionId": "UUS",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DWF-12",
+      "name": "Người lùn Cựu Đô",
+      "baseRaceRef": 5,
+      "regionId": "UCD",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-01",
+      "name": "Long nhân Khe Thạch",
+      "baseRaceRef": 27,
+      "regionId": "WIS",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-02",
+      "name": "Long nhân Bồi Thủy",
+      "baseRaceRef": 27,
+      "regionId": "WTH",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-03",
+      "name": "Long nhân Tro Mầm",
+      "baseRaceRef": 27,
+      "regionId": "WNA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-04",
+      "name": "Long nhân Nhiệt Triều",
+      "baseRaceRef": 27,
+      "regionId": "WSA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-05",
+      "name": "Long nhân Bazan Đỏ",
+      "baseRaceRef": 27,
+      "regionId": "WOR",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-06",
+      "name": "Long nhân Băng Triều",
+      "baseRaceRef": 27,
+      "regionId": "WHR",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-07",
+      "name": "Long nhân Tuyết Lĩnh",
+      "baseRaceRef": 27,
+      "regionId": "WVA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-08",
+      "name": "Long nhân Lưu Sa",
+      "baseRaceRef": 27,
+      "regionId": "WDO",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-09",
+      "name": "Long nhân Ngân Phong",
+      "baseRaceRef": 27,
+      "regionId": "LNP",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-10",
+      "name": "Long nhân Vân Triều",
+      "baseRaceRef": 27,
+      "regionId": "LVH",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-11",
+      "name": "Long nhân Hắc Nham",
+      "baseRaceRef": 27,
+      "regionId": "UHN",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-DRF-12",
+      "name": "Long nhân Hàn Uyên",
+      "baseRaceRef": 27,
+      "regionId": "UHU",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-01",
+      "name": "Goblin Mạch Hội",
+      "baseRaceRef": 7,
+      "regionId": "WAS",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-02",
+      "name": "Goblin Địa Ảnh",
+      "baseRaceRef": 7,
+      "regionId": "WDU",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-03",
+      "name": "Goblin Cát Thạch",
+      "baseRaceRef": 7,
+      "regionId": "WQA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-04",
+      "name": "Goblin Nham Nắng",
+      "baseRaceRef": 7,
+      "regionId": "WES",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-05",
+      "name": "Goblin Tro Mầm",
+      "baseRaceRef": 7,
+      "regionId": "WNA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-06",
+      "name": "Goblin Mưa Tro",
+      "baseRaceRef": 7,
+      "regionId": "WTA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-07",
+      "name": "Goblin Hải Hàn",
+      "baseRaceRef": 7,
+      "regionId": "WKR",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-08",
+      "name": "Goblin Thiên Diệp",
+      "baseRaceRef": 7,
+      "regionId": "LTD",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-09",
+      "name": "Goblin Hoang Lăng",
+      "baseRaceRef": 7,
+      "regionId": "UHL",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GOB-10",
+      "name": "Goblin Cựu Đô",
+      "baseRaceRef": 7,
+      "regionId": "UCD",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ORC-01",
+      "name": "Orc Cỏ Hạn",
+      "baseRaceRef": 6,
+      "regionId": "WSU",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ORC-02",
+      "name": "Orc Cát Thạch",
+      "baseRaceRef": 6,
+      "regionId": "WQA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ORC-03",
+      "name": "Orc Đèo Vọng",
+      "baseRaceRef": 6,
+      "regionId": "WVG",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ORC-04",
+      "name": "Orc Tuyết Lĩnh",
+      "baseRaceRef": 6,
+      "regionId": "WVA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ORC-05",
+      "name": "Orc Mưa Tro",
+      "baseRaceRef": 6,
+      "regionId": "WTA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ORC-06",
+      "name": "Orc Lộc Thảo",
+      "baseRaceRef": 6,
+      "regionId": "LLU",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ORC-07",
+      "name": "Orc Cốt Sa",
+      "baseRaceRef": 6,
+      "regionId": "UCS",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-ORC-08",
+      "name": "Orc Thạch Lâm",
+      "baseRaceRef": 6,
+      "regionId": "URH",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRL-01",
+      "name": "Troll Rêu Đầm Rêu Đầm",
+      "baseRaceRef": 13,
+      "regionId": "WLO",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRL-02",
+      "name": "Troll Rêu Đầm Địa Ảnh",
+      "baseRaceRef": 13,
+      "regionId": "WDU",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRL-03",
+      "name": "Troll Rêu Đầm Mưa Tro",
+      "baseRaceRef": 13,
+      "regionId": "WTA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRL-04",
+      "name": "Troll Rêu Đầm Nhiệt Triều",
+      "baseRaceRef": 13,
+      "regionId": "WSA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRL-05",
+      "name": "Troll Rêu Đầm Cổ Rễ",
+      "baseRaceRef": 13,
+      "regionId": "LCL",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRL-06",
+      "name": "Troll Rêu Đầm Minh Châu",
+      "baseRaceRef": 13,
+      "regionId": "LSM",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRL-07",
+      "name": "Troll Rêu Đầm Dạ Trạch",
+      "baseRaceRef": 13,
+      "regionId": "UDT",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRL-08",
+      "name": "Troll Rêu Đầm Hàn Uyên",
+      "baseRaceRef": 13,
+      "regionId": "UHU",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNM-01",
+      "name": "Gnome Mạch Hội",
+      "baseRaceRef": 10,
+      "regionId": "WAS",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNM-02",
+      "name": "Gnome Quặng Rèn",
+      "baseRaceRef": 10,
+      "regionId": "WMO",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNM-03",
+      "name": "Gnome Cổ Tán",
+      "baseRaceRef": 10,
+      "regionId": "WSY",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNM-04",
+      "name": "Gnome Bạch Thạch",
+      "baseRaceRef": 10,
+      "regionId": "LBT",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNM-05",
+      "name": "Gnome Tịch Quang",
+      "baseRaceRef": 10,
+      "regionId": "LTQ",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNM-06",
+      "name": "Gnome Cựu Đô",
+      "baseRaceRef": 10,
+      "regionId": "UCD",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNT-01",
+      "name": "Các nhánh cự nhân Đèo Vọng",
+      "baseRaceRef": 11,
+      "regionId": "WVG",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNT-02",
+      "name": "Các nhánh cự nhân Quặng Rèn",
+      "baseRaceRef": 11,
+      "regionId": "WMO",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNT-03",
+      "name": "Các nhánh cự nhân Băng Tan",
+      "baseRaceRef": 14,
+      "regionId": "WNI",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNT-04",
+      "name": "Các nhánh cự nhân Băng Cốt",
+      "baseRaceRef": 14,
+      "regionId": "WTO",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNT-05",
+      "name": "Các nhánh cự nhân Tuyết Lĩnh",
+      "baseRaceRef": 17,
+      "regionId": "WVA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-GNT-06",
+      "name": "Các nhánh cự nhân Mộ Băng",
+      "baseRaceRef": 17,
+      "regionId": "UBM",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-BRF-01",
+      "name": "Hùng nhân Tùng Sương",
+      "baseRaceRef": 21,
+      "regionId": "WOL",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-BRF-02",
+      "name": "Hùng nhân Hải Hàn",
+      "baseRaceRef": 21,
+      "regionId": "WKR",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-LZF-01",
+      "name": "Tích dịch nhân Tro Đảo Mưa Tro",
+      "baseRaceRef": 25,
+      "regionId": "WTA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-LZF-02",
+      "name": "Tích dịch nhân Tro Đảo Nhiệt Triều",
+      "baseRaceRef": 25,
+      "regionId": "WSA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-LZF-03",
+      "name": "Tích dịch nhân Tro Đảo Dạ Trạch",
+      "baseRaceRef": 25,
+      "regionId": "UDT",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRT-01",
+      "name": "Quy nhân Hải Nham Bazan Đỏ",
+      "baseRaceRef": 28,
+      "regionId": "WOR",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-TRT-02",
+      "name": "Quy nhân Hải Nham Bắc Triều",
+      "baseRaceRef": 28,
+      "regionId": "WBN",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-MER-01",
+      "name": "Ngư nhân Đông Lưu",
+      "baseRaceRef": 34,
+      "regionId": "WDD",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-MER-02",
+      "name": "Ngư nhân Kính Hồ",
+      "baseRaceRef": 34,
+      "regionId": "LHK",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-MER-03",
+      "name": "Ngư nhân Hắc Hải",
+      "baseRaceRef": 34,
+      "regionId": "UHH",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-NAG-01",
+      "name": "Xà linh Kính Thủy Kính Hồ",
+      "baseRaceRef": 35,
+      "regionId": "LHK",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-NAG-02",
+      "name": "Xà linh Kính Thủy Vong Thủy",
+      "baseRaceRef": 35,
+      "regionId": "UVG",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-LAM-01",
+      "name": "Xà nhân Cát Kính Cát Thạch",
+      "baseRaceRef": 36,
+      "regionId": "WQA",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-LAM-02",
+      "name": "Xà nhân Cát Kính Hàn Uyên",
+      "baseRaceRef": 36,
+      "regionId": "UHU",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-FOX-01",
+      "name": "Hồ ly Mộng Triều Mộng Sắc",
+      "baseRaceRef": 38,
+      "regionId": "LMT",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-FOX-02",
+      "name": "Hồ ly Mộng Triều Tùng Sương",
+      "baseRaceRef": 38,
+      "regionId": "WOL",
+      "realm": "W",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-FOX-03",
+      "name": "Hồ ly Mộng Triều Vô Thanh",
+      "baseRaceRef": 38,
+      "regionId": "UVC",
+      "realm": "U",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-FUN-01",
+      "name": "Nấm nhân Bào Linh Cổ Rễ",
+      "baseRaceRef": 46,
+      "regionId": "LCL",
+      "realm": "L",
+      "cardEligible": false
+    },
+    {
+      "id": "NPC-FUN-02",
+      "name": "Nấm nhân Bào Linh Thạch Lâm",
+      "baseRaceRef": 46,
+      "regionId": "URH",
+      "realm": "U",
+      "cardEligible": false
+    }
+  ]
+}

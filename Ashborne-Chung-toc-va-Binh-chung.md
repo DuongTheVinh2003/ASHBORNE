@@ -68,7 +68,7 @@ Mã giữ theo tài liệu nguồn để dễ đối chiếu. Tên và sở trư
 | 01 | Human — Nhân tộc | Vương quốc, đế chế, tham vọng, kỷ luật; mạnh nhờ tổ chức và huấn luyện. | Giáo, Khiên |
 | 02 | High Elf — Cao tinh linh | Cổ xưa, thanh lịch, kiêu hãnh, học thuật và ma thuật tinh vi. | Pháp, Kiếm |
 | 03 | Wood Elf — Mộc tinh linh | Rừng sâu, thợ săn, kín đáo; bảo vệ thiên nhiên quyết liệt. | Cung, Giáo |
-| 04 | Dark Elf — Hắc tinh linh | Bóng tối, xã hội bí mật, âm mưu, độc dược và phép nguy hiểm. | Kiếm, Pháp |
+| 04 | Dark Elf — Hắc tinh linh | Cư dân rừng tối và hang đá; các nhánh NPC có mắt thích nghi thiếu sáng, nghe dư chấn và giấu dấu bằng bóng. Không mặc định cùng một đạo đức hoặc phe phái. | Kiếm, Pháp |
 | 05 | Dwarf — Người lùn | Thành trì trong núi, lò rèn, giáp nặng, gia tộc và bền bỉ. | Khiên, Kiếm |
 | 06 | Orc | Thể lực, chiến tranh, danh dự bộ tộc hoặc chinh phạt; đánh trực diện. | Kiếm, Giáo |
 | 07 | Goblin | Nhỏ con, cơ hội, đông đúc, bẫy, đồ chế và mưu mẹo. | Cung, Pháp |
@@ -82,13 +82,13 @@ Những hình tượng dễ nhận diện trong fantasy phương Tây. Elf đư�
 
 | Mã | Chủng hoặc nhánh | Hình tượng | Sở trường đề xuất |
 | --- | --- | --- | --- |
-| 11 | Giant — Cự nhân núi | Khổng lồ, thô ráp, cơ bắp, phá cổng và nghiền đội hình. | Khiên, Giáo |
+| 11 | Giant — Cự nhân núi | Cơ thể to lớn gắn với núi đá; các nhánh NPC Sơn Thạch dồn lực bám nền và cảm chấn qua thân, không biến thành chủng pháp sư. | Khiên, Giáo |
 | 12 | Ogre — Quỷ khổng lồ | Nặng nề, phàm ăn, lính đánh thuê hoặc dùng sức áp đảo. | Kiếm, Khiên |
-| 13 | Troll — Hướng tái sinh | Hoang dã, khó giết, cơ thể dị dạng, đầm lầy hoặc hang tối. | Kiếm, Khiên |
-| 14 | Cyclops — Độc nhãn cự nhân | Một mắt, sức phá hủy lớn, cổ đại; đôi khi gắn với nghề rèn. | Giáo, Khiên |
+| 13 | Troll — Hướng tái sinh | Các nhánh NPC tái kết mô theo rêu đầm, nước ấm, hang ẩm hoặc băng ẩm; cần vật chất phù hợp, không hồi sinh vô hạn từ mọi tổn thương. | Kiếm, Khiên |
+| 14 | Cyclops — Độc nhãn cự nhân | Giữ một mắt và thân hình lớn; hướng NPC Băng Nham sống ở Krynd, nghe băng và giữ lực cơ thể tại sườn đá lạnh. | Giáo, Khiên |
 | 15 | Minotaur — Ngưu đầu nhân | Đầu bò, mê cung, xung phong, sức mạnh và uy hiếp. | Kiếm, Khiên |
 | 16 | Oni — Quỷ sừng | Có sừng, hung dữ hoặc uy nghi, sức mạnh siêu nhiên. | Kiếm, Pháp |
-| 17 | Bán cự nhân | Chiến binh vùng núi, chịu đựng tốt, thử thách thể lực và tổ tiên. | Giáo, Khiên |
+| 17 | Bán cự nhân | Các cộng đồng thiểu số miền núi; hướng NPC Tuyết Lĩnh có lớp cơ thể giữ nhiệt, neo bước và truyền tín hiệu qua nền đá. | Giáo, Khiên |
 
 Cự nhân núi là phiên bản được đề xuất để giữ công thức Cự nhân + Pháp binh bất lợi. Đây không phải quy luật của mọi fantasy: D&D có cự nhân mây dùng phép. Troll ở đây chọn hướng quái vật tái sinh; Oni có thể phát triển theo hướng chiến binh có văn hóa và kiếm thuật.
 
@@ -110,10 +110,10 @@ Thú nhân là họ lớn; các nhánh bên dưới mới là ứng viên card C
 
 | Mã | Chủng hoặc nhánh | Hình tượng | Sở trường đề xuất |
 | --- | --- | --- | --- |
-| 25 | Lizardfolk — Tích dịch nhân | Đầm lầy, vảy cứng, săn bắt, sinh tồn và văn hóa cổ. | Giáo, Khiên |
+| 25 | Lizardfolk — Tích dịch nhân | Giữ hình bò sát và văn hóa cộng đồng; các nhánh NPC Tro Đảo hoặc Dạ Trạch có vảy điều tiết nhiệt, giữ ẩm và đọc dòng nước. | Giáo, Khiên |
 | 26 | Kobold | Nhỏ, sống thành đàn, đào hang, đặt bẫy; một hướng nổi tiếng gắn với rồng. | Cung, Pháp |
 | 27 | Dragonfolk — Long nhân | Vảy rồng, huyết thống cổ, kiêu hãnh và năng lực siêu nhiên. | Kiếm, Pháp |
-| 28 | Turtlefolk — Quy nhân | Mai cứng, chậm rãi, trường thọ, du hành hoặc hiền triết. | Khiên, Pháp |
+| 28 | Turtlefolk — Quy nhân | Giữ mai và thân hình có thể dùng công cụ; các nhánh NPC Hải Nham hoặc Bắc Triều có mai điều áp và kết khoáng theo vùng biển sống. | Khiên, Pháp |
 | 29 | Birdfolk — Điểu nhân | Độ cao, thị lực, bầu trời, trinh sát và cơ động. | Cung, Giáo |
 | 30 | Insectfolk — Trùng nhân | Giáp ngoài, bầy đàn, phân công chức năng hoặc tư duy xa lạ. | Giáo, Khiên |
 | 31 | Spiderfolk — Chu nhân | Tơ, độc, hang tối, phục kích; có thể có văn hóa dệt. | Cung, Pháp |
@@ -127,8 +127,8 @@ Các nhãn Long nhân, Điểu nhân và Trùng nhân còn rộng. Khi chọn s�
 | 32 | Centaur — Nhân mã | Nửa người nửa ngựa, thảo nguyên, săn bắn; hoang dã hoặc thông thái. | Cung, Giáo |
 | 33 | Satyr hoặc Faun — Dương nhân | Rừng, âm nhạc, vui thú, tinh nghịch và phép mê hoặc. | Pháp, Cung |
 | 34 | Merfolk — Ngư nhân | Vương quốc dưới biển, dòng nước, san hô, đẹp hoặc xa lạ. | Giáo, Pháp |
-| 35 | Naga — Xà linh | Rắn thiêng, thủy vực, đền cổ, bảo hộ và quyền năng huyền bí. | Giáo, Pháp |
-| 36 | Lamia — Xà nhân | Trong nhiều bản fantasy hiện đại: thân người đuôi rắn, mê hoặc và săn mồi. | Kiếm, Pháp |
+| 35 | Naga — Xà linh | Gắn với thủy vực và đền bờ nước; các nhánh NPC Kính Thủy hoặc Vong Thủy dùng vảy lưu dấu dòng để dẫn đường, giữ sinh cảnh riêng. | Giáo, Pháp |
+| 36 | Lamia — Xà nhân | Giữ thân người và đuôi rắn; các nhánh NPC Cát Kính hoặc Hàn Uyên biến đổi da và điều nhiệt, tạo ảnh lệch theo nền sống. | Kiếm, Pháp |
 
 Satyr và Faun được gom để tham khảo hình tượng, không khẳng định là một loài trong mọi truyền thống. Naga và Lamia được tách hồ sơ vì hướng văn hóa và vai trò khác nhau, dù có thể cùng dùng hình thể người lai rắn. Naga có truyền thống gắn với nước và bảo hộ.
 
@@ -137,7 +137,7 @@ Satyr và Faun được gom để tham khảo hình tượng, không khẳng đ�
 | Mã | Chủng hoặc nhánh | Hình tượng | Sở trường đề xuất |
 | --- | --- | --- | --- |
 | 37 | Harpy — Điểu yêu | Thân lai chim, móng vuốt, vách đá, tiếng kêu và tập kích từ không trung. | Kiếm, Cung |
-| 38 | Kitsune hoặc Hồ ly | Biến hình, mưu trí, ảo thuật; linh thiêng, tinh nghịch hoặc nguy hiểm. | Pháp, Kiếm |
+| 38 | Kitsune hoặc Hồ ly | Các nhánh NPC Mộng Triều, rừng lạnh hoặc Vực Câm lưu hương và ảnh cảm giác theo sinh cảnh; không sao chép trọn sức mạnh của sinh vật khác. | Pháp, Kiếm |
 | 39 | Tengu — Thiên cẩu | Núi thiêng, chim hoặc quạ, võ nghệ, kiêu hãnh và phép thuật. | Kiếm, Pháp |
 | 40 | Jinn — Tinh linh kiểu Tây Á | Vô hình, biến hóa, quyền năng, giao ước; không chỉ ban điều ước. | Pháp, Kiếm |
 | 41 | Yaksha — Dạ xoa | Linh thể bảo hộ hoặc đáng sợ; thiên nhiên, kho báu và nơi linh thiêng. | Khiên, Pháp |
@@ -152,7 +152,7 @@ Hình tượng trong tín ngưỡng, thần thoại và tác phẩm giải trí 
 | 43 | Dryad — Mộc linh | Linh hồn cây, vẻ đẹp tự nhiên, bảo vệ rừng hoặc trả thù khi cây bị hại. | Pháp, Cung |
 | 44 | Treant — Thụ nhân | Cây sống lâu đời, chậm nhưng mạnh, canh giữ rừng. | Khiên, Giáo |
 | 45 | Nymph — Tự nhiên linh | Hiện thân của suối, hồ, núi hoặc rừng; duyên dáng, huyền bí. | Pháp |
-| 46 | Fungusfolk — Nấm nhân | Bào tử, cộng sinh, phân hủy, hang ẩm và giao tiếp khác thường. | Pháp, Khiên |
+| 46 | Fungusfolk — Nấm nhân | Các nhánh NPC Bào Linh sống cộng sinh ở rừng cổ hoặc khe rừng hóa thạch; bào tử truyền tín hiệu và chuyển mùn, không mặc định là dịch bệnh. | Pháp, Khiên |
 
 Hợp với khu rừng bị xâm chiếm, thiên nhiên trả thù hoặc nền văn minh cổ đã mất. Mộc linh và Thụ nhân nên có hình thể và cách đánh riêng để tránh trùng nhau. Không bắt buộc chủng nào cũng phải có đủ hai sở trường; Nymph hiện chỉ được đề xuất Pháp.
 
@@ -204,6 +204,14 @@ Hai ý tưởng chủng riêng của Ashborne đang ở mức hình tượng là
 | Quân hai chuyên môn | Chốt có triển khai hay không, công thức hợp lệ, chi phí và cách vận hành. |
 
 ## 7. Quan hệ với tài liệu gameplay
+
+### Phạm vi các nhánh thích nghi trong thế giới — ngày 27/11/2026
+
+Theo yêu cầu người dùng, **các nhánh thích nghi địa phương là NPC hoặc cộng đồng thiểu số**, không tạo thẻ bài, chỉ số chiến đấu hoặc sở trường binh chủng riêng. Hướng phân bố tại nhiều vùng không đồng nghĩa là đa số dân cư ở những vùng đó. Các tên như Quang Mạch, Thạch Ảnh, Băng Nham, Tro Đảo hoặc Hải Nham trong mô tả là hướng thể hiện NPC, không tự thay tên hoặc số lượng 60 hồ sơ nền.
+
+Giữ riêng bộ 60 hồ sơ và luật quân đội hiện hành. Ngoại hình, văn hóa, nơi ở và năng lực thích nghi của nhánh NPC được dùng cho kể chuyện và khám phá. Năng lực bẩm sinh không tự trao quyền điều khiển mọi nguyên tố, không biến Cự nhân núi thành Pháp binh sở trường và không tự mở thêm lá vào Library.
+
+Xem [Chủng tộc thích nghi và sinh vật bản địa](Ashborne-Chung-Toc-Thich-Nghi-va-Sinh-Vat-Ban-Dia-De-xuat-v01.md). Họ Niêm thể ở hồ sơ 60 được đối chiếu chung với Slime bản địa, không tính thành hai họ sinh vật độc lập.
 
 [GDD/FDD §03](Ashborne-GDD-va-FDD.md#03-fdd-công-thành) ghi luồng Phase 1 từ chuẩn bị, nâng bậc, dung hợp và xếp đội hình đến mô phỏng công thành và chuyển buff sang Phase 2. Tài liệu này giữ danh mục chủng, binh chủng, luật tạo quân và các hướng mở rộng.
 

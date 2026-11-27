@@ -1,0 +1,149 @@
+{
+  "version": "0.3",
+  "date": "2026-11-27",
+  "status": "Concept đề xuất để người dùng duyệt; chưa chốt canon",
+  "request": {
+    "maps": [
+      "Thế giới",
+      "Linh giới",
+      "Âm giới"
+    ],
+    "referenceRole": "Ref người dùng tham khảo quy mô; địa lý giữ từ concept v01; mỹ thuật lấy approved-scene-v2.png làm chuẩn ưu tiên.",
+    "areaRule": "Mỗi cõi Linh giới và Âm giới có tổng diện tích địa lý (đất và nước) bằng đúng một nửa thế giới chính. Không phải mỗi chiều bằng một nửa.",
+    "areaIndex": {
+      "theGioi": 100,
+      "linhGioi": 50,
+      "amGioi": 50
+    },
+    "linearExtentRatioForSimilarAspect": 0.7071067811865476,
+    "zoomNote": "Ba tấm ảnh có thể cùng kích thước hiển thị. Hai cõi được phóng gần hơn; độ lớn tấm ảnh không đại diện cho diện tích thực."
+  },
+  "world": {
+    "proposedName": "Aethran",
+    "continents": [
+      {
+        "name": "Orvath",
+        "geography": "Lục địa móc câu phía bắc; băng tuyết, vịnh hẹp và thảo nguyên lạnh.",
+        "countries": [
+          "Hraevik",
+          "Olsenn",
+          "Vardask"
+        ]
+      },
+      {
+        "name": "Vaelun",
+        "geography": "Lục địa hình lưỡi liềm phía tây; rừng cổ, sông lớn, vịnh sâu.",
+        "countries": [
+          "Lorath",
+          "Sylvar",
+          "Veyrin",
+          "Duskell"
+        ]
+      },
+      {
+        "name": "Eldavar",
+        "geography": "Lục địa lớn chạy chéo từ đông bắc về trung tâm, có biển nội lục mở ra tây nam. Dải núi phía bắc ở góc trên bên phải là vùng núi băng với tuyết phủ và sông băng; các miền phía nam giữ khí hậu cũ.",
+        "countries": [
+          "Ashborne",
+          "Veygard",
+          "Caldris",
+          "Theryn",
+          "Morcant",
+          "Iskareth"
+        ]
+      },
+      {
+        "name": "Sarqesh",
+        "geography": "Lục địa tây nam nhiều nhánh, bồn địa khô và hai hệ núi lớn.",
+        "countries": [
+          "Qadresh",
+          "Sulmara",
+          "Dorvaan",
+          "Eshra"
+        ]
+      },
+      {
+        "name": "Namarai",
+        "geography": "Quần đảo núi lửa phía đông nam, dạng vòng cung ôm vịnh lớn; địa hình bazan, đồng tro, núi lửa hoạt động và núi lửa ngủ. Giữ vị trí Nameri, Sairu, Talun, Orissa và các đường bờ từ bản v02.",
+        "countries": [
+          "Nameri",
+          "Sairu",
+          "Talun",
+          "Orissa"
+        ]
+      },
+      {
+        "name": "Krynd",
+        "geography": "Lục địa băng ở phương nam, dạng tam giác lệch, tách khỏi các lục địa khác.",
+        "countries": [
+          "Kryss",
+          "Nivar",
+          "Torvak"
+        ]
+      }
+    ],
+    "ashborne": "Một vương quốc đa chủng tộc cỡ trung ở bờ tây nam Eldavar, giáp biển nội lục; có thung lũng ôn đới, rừng, đồng bằng và cao địa. Vị trí mới là đề xuất. Giữ yêu cầu là nơi quy tụ nhiều bậc thầy nguyên tố; chưa xác định lý do tụ hội."
+  },
+  "spiritRealm": {
+    "areaIndex": 50,
+    "geography": "Bốn khối đất chính, hai chuỗi đảo dài, biển linh quang ở trung tâm. Địa hình độc lập, rừng cổ, hồ và linh mạch.",
+    "regions": [
+      "Thiên Diệp",
+      "Ngân Phong",
+      "Hồ Linh Kính",
+      "Vân Hải",
+      "Mộng Triều",
+      "Bách Hoa",
+      "Cổ Linh Lâm",
+      "Lộc Uyển",
+      "Suối Minh Châu",
+      "Bạch Thạch",
+      "Tịch Quang",
+      "Bến Vọng"
+    ],
+    "regionMeaning": "Linh địa/vùng địa lý đề xuất, chưa xác lập là quốc gia hay lãnh thổ của một phe."
+  },
+  "underworld": {
+    "areaIndex": 50,
+    "geography": "Ba khối đất lớn và một đảo đô thị cổ, quanh biển sâu chạy chéo; có băng mộ, đồng tro, hoang mạc xám, rừng hóa thạch và sông Vong Hà.",
+    "regions": [
+      "Băng Mộ",
+      "Hàn Uyên",
+      "Vực Câm",
+      "Cốt Sa",
+      "Tro Tàn",
+      "Hắc Nham",
+      "Hoang Lăng",
+      "Rừng Hóa Thạch",
+      "Đồng Vọng",
+      "Dạ Trạch",
+      "U Sơn",
+      "Cựu Đô"
+    ],
+    "regionMeaning": "Miền địa lý đề xuất; không mặc định là các tầng địa ngục hoặc lãnh địa của quỷ."
+  },
+  "notEstablished": [
+    "Nguồn gốc nguyên tố và cách con người có khả năng điều khiển.",
+    "Quan hệ nguồn gốc giữa ba cõi.",
+    "Linh giới có phải quê hương của toàn bộ Ấn Thú hay không.",
+    "Âm giới vận hành sự sống, cái chết và tái sinh thế nào.",
+    "Cổng, vị trí nối cõi, chi phí đi lại và tỷ lệ thời gian.",
+    "Lịch sử, văn hóa, cư dân và thể chế từng quốc gia.",
+    "Cá nhân/tổ chức phá phong ấn và các sự kiện cốt truyện.",
+    "Đồng nhất các sinh vật bí ẩn thoát phong ấn với sinh vật Âm giới."
+  ],
+  "generation": {
+    "mode": "Built-in image_gen",
+    "promptFile": "prompt.json",
+    "expectedFiles": [
+      "01-the-gioi-aethran-v03.png"
+    ],
+    "limitations": "Ảnh concept raster, không phải GIS. Chữ tạo theo mẫu Veil, chưa dàn bằng TTF thật. Đường bờ được giản lược khi vẽ lại."
+  },
+  "artDirection": {
+    "typographyReference": "art/fonts/ashborne-veil-v03/Ashborne-Veil-preview.png",
+    "policy": "Mảng khối lớn, chất vẽ tay, texture tiết chế, phân cấp màu và chi tiết; typography mềm theo Veil v0.3.",
+    "sceneReference": "art/style-reference/approved-scene-v2.png"
+  },
+  "revisionScope": "Chỉ chỉnh hai biome trên bản đồ thế giới theo đánh dấu của người dùng. Bản Linh giới và Âm giới tiếp tục dùng v02. Địa danh và địa giới còn lại giữ nguyên."
+}

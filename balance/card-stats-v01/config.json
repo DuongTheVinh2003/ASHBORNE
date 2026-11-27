@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0",
+  "status": "Đề xuất cân bằng để playtest, chưa tích hợp vào game",
+  "date": "2026-11-26",
+  "anchors": {
+    "heroHp": 45, "mana": 4, "draw": 5,
+    "damage": 8, "shield": 9, "heal": 6,
+    "armyHp": 12, "armyAttack": 3, "armyDefense": 2, "armySpeed": 1,
+    "recruitGold": 2, "supplyPerEight": 1,
+    "sealDamage": 8, "sealShield": 9, "sealHeal": 6
+  },
+  "qualities": [
+    {"id":"q0", "name":"Thường", "direct":1, "effect":1, "durationBonus":0},
+    {"id":"q1", "name":"Tinh luyện", "direct":1.15, "effect":1.25, "durationBonus":1},
+    {"id":"q2", "name":"Tinh hoa", "direct":1.3, "effect":1.5, "durationBonus":1}
+  ],
+  "compatibility": {
+    "specialty": {"stat":1.08, "cost":1},
+    "off": {"stat":0.92, "cost":1.3},
+    "severe": {"stat":0.6, "cost":1.8}
+  },
+  "severePairs": [["R11","mage"],["R12","mage"],["R48","mage"]],
+  "ranks": {
+    "A":{"power":1,"load":2},
+    "2":{"power":0.5,"load":1}, "3":{"power":0.65,"load":1},
+    "4":{"power":0.8,"load":1}, "5":{"power":1,"load":2},
+    "6":{"power":1.1,"load":2}, "7":{"power":1.2,"load":2},
+    "8":{"power":1.35,"load":2}, "9":{"power":1.5,"load":3},
+    "10":{"power":1.65,"load":3}, "J":{"power":2,"load":4},
+    "Q":{"power":2.25,"load":5}, "K":{"power":2.5,"load":6},
+    "Joker":{"power":2.5,"load":6}
+  },
+  "fusion": {"rootWeight":2,"otherWeight":1,"minRatio":0.8,"maxRatio":1.2,"synergyPerOther":0.03,"synergyCap":0.06,"maxComponents":3,"pricePremium":1.15},
+  "elements": {"gaugeMax":6,"gain":2,"restraint":2,"weakNumeric":0.5},
+  "economy": {"armyPack":8,"defenseWeight":0.15,"costExponent":0.65}
+}
